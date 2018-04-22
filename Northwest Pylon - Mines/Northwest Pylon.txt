@@ -1,4 +1,4 @@
-[font=Verdana][url=https://www.nexusmods.com/fallout4/mods/31238]Northwest Pylon Mines[/url] is a mining center that produces ore and concrete. It is self-sufficent. Includes a small player home, and some commercial services. Supports 16 settlers.
+[font=Verdana][url=https://www.nexusmods.com/fallout4/mods/31238]Northwest Pylon Mines[/url] is a mining center that produces ore and concrete. It is self-sufficent. Includes a small player home, and some commercial services. Supports 17 settlers.
 
 Due to limitations, advanced industrial plots will need to be manually upgraded to match the signage. Recommended to use the designer's choice.
 
@@ -13,7 +13,7 @@ Due to limitations, advanced industrial plots will need to be manually upgraded 
 
 [b]Levels:[/b] 3
 [b]Balanced:[/b] Yes
-[b]Max Settlers:[/b] 16
+[b]Max Settlers:[/b] 17
 [b]Player Home:[/b] Yes
 [b]File Type:[/b] ESL
 
