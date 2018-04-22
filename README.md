@@ -5,12 +5,12 @@ This is a collection of City Plans for [Sim Settlements](https://www.nexusmods.c
 It's goal is to provide a variety of themed City Plans, that are realistic and mostly lore friendly.
 
 ## Required DLC
-Automatron
-Wasteland Workshop
-Far Harbor
-Contraptions Workshop
-Vault-Tec Workshop
-Nuka-World
+* Automatron
+* Wasteland Workshop
+* Far Harbor
+* Contraptions Workshop
+* Vault-Tec Workshop
+* Nuka-World
 
 ## Designer's Choice Mods
 Designer's Choice Mods are additional Sim Settlements plots that are used in most City Plans. To ensure the city plan looks as intended, you should have them installed.
