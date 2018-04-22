@@ -1,0 +1,60 @@
+[font=Verdana][url=https://www.nexusmods.com/fallout4/mods/31132]Lakeside Cabin Brewery[/url] is an agricultural center that exports food and water, and produces wood, fertilizer and beer. Includes a small player home, and some commercial services. Supports 23 settlers.
+
+Due to limitations, advanced industrial plots will need to be manually upgraded to match the signage. Recommended to use the designer's choice.
+
+[b]Known Issues[/b]
+[list]
+[*]Existing Trader may fight the guards and die. Usually contains loot is very helpful for upgrading the city.
+[*]IDEK's Logistics Station may not build. It goes in the lower internal industrial plot.
+[*]Mytigo's Scavenger Support may not build. It goes in the upper internal industrial plot.
+[/list]
+[color=rgb(109, 158, 235)]Settlement: Lakeside Cabin[/color]
+[url=https://www.nexusmods.com/fallout4/mods/21872]Requires Version 3.2.0a or Greater of Sim Settlements[/url]
+
+[b]Levels:[/b] 3
+[b]Balanced:[/b] Yes
+[b]Max Settlers:[/b] 23
+[b]Player Home:[/b] Yes
+[b]File Type:[/b] ESL
+
+[color=#8e7cc3][b]Required DLC[/b][/color]
+Automatron
+Wasteland Workshop
+Far Harbor
+Contraptions Workshop
+Vault-Tec Workshop
+Nuka-World
+
+[color=#8e7cc3][b]Settlement Mod[/b][/color]
+[url=https://www.nexusmods.com/fallout4/mods/19463]Lakeside Cabin Redux[/url]
+
+[color=#8e7cc3][b]Designer's Choice Mods[/b][/color]
+[url=https://www.nexusmods.com/fallout4/mods/25213]Sim Settlements - Industrial Revolution[/url]
+[url=https://www.nexusmods.com/fallout4/mods/28599]Sim Settlements - Rise of the Commonwealth[/url]
+[url=https://www.nexusmods.com/fallout4/mods/28945]Sim Settlements - IDEK's Logistics Station[/url] (ESL Version)
+[url=https://www.nexusmods.com/fallout4/mods/30396]Sim Settlements Mega Pack - Year One[/url]
+[url=https://www.nexusmods.com/fallout4/mods/26107]Sim Settlements - Junk Town[/url]
+[url=https://www.nexusmods.com/fallout4/mods/30081]Sim Settlements - Wasteland Venturers 2[/url] (All-In-One)
+[url=https://www.nexusmods.com/fallout4/mods/23948]Sim Settlements - Industrial City[/url]
+[url=https://www.nexusmods.com/fallout4/mods/23917]Sim Settlements - Ruined Homes and Gardens[/url]
+[url=https://www.nexusmods.com/fallout4/mods/25679]Sim Settlements - Scrappers[/url]
+[url=https://www.nexusmods.com/fallout4/mods/24491]Sim Settlements - SimHomestead[/url]
+[url=https://www.nexusmods.com/fallout4/mods/23421]Sim Settlements - Altairp's Animal Farm[/url]
+[url=https://www.nexusmods.com/fallout4/mods/29250]Sim Settlements - Creations By COOTS[/url]
+
+[color=#8e7cc3][b]Required Mods[/b][/color]
+[url=https://www.nexusmods.com/fallout4/mods/16181]Workshop Rearranged[/url]
+[url=https://www.nexusmods.com/fallout4/mods/20782]CREAtive Clutter[/url]
+[url=https://www.nexusmods.com/fallout4/mods/14532]Do It Yourshelf[/url]
+[url=https://www.nexusmods.com/fallout4/mods/17141]Modular Kitchen[/url]
+[url=https://www.nexusmods.com/fallout4/mods/16207]Thematic and Practical[/url]
+[url=https://www.nexusmods.com/fallout4/mods/28588]Kraggles Structures[/url]
+[url=https://www.nexusmods.com/fallout4/mods/9048]Old World Radio[/url]
+[url=https://www.nexusmods.com/fallout4/mods/7145]Lore Friendly Posters[/url]
+[url=https://www.nexusmods.com/fallout4/mods/17168]Solar Panels[/url]
+
+[color=#8e7cc3][b]Required Creation Club Items[/b][/color]
+[url=https://creationclub.bethesda.net/en]Home Decor Workshop Pack[/url] (cceejfo4001-decorationpack.esl)
+[url=https://creationclub.bethesda.net/en]Arcade Workshop Pack[/url] (ccbgsfo4045-advarccab.esl)
+[url=https://creationclub.bethesda.net/en]Coffee and Donuts Workshop Pack[/url] (ccfsvfo4003-slocum.esl)
+[/font]
