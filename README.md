@@ -12,6 +12,14 @@ It's goal is to provide a variety of themed City Plans, that are realistic and m
 * Vault-Tec Workshop
 * Nuka-World
 
+## Settlement Mods
+The following settlement mods are used by the city plans in this repository.
+
+* [Lakeside Cabin Redux](https://www.nexusmods.com/fallout4/mods/19463)
+* [Northern Exposure](https://www.nexusmods.com/fallout4/mods/29900)
+* [Mystic Pines Settlement Home](https://www.nexusmods.com/fallout4/mods/20588)
+
+
 ## Designer's Choice Mods
 Designer's Choice Mods are additional Sim Settlements plots that are used in most City Plans. To ensure the city plan looks as intended, you should have them installed.
 Missing mods will result in random plots taking the place of chosen plots. This may result in settlements not matching their themes.

@@ -1,4 +1,4 @@
-[font=Verdana][url=https://www.nexusmods.com/fallout4/mods/31132]Lakeside Cabin Brewery[/url] is an agricultural center that exports food and water, and produces wood, fertilizer and beer. Includes a small player home, and some commercial services. Supports 23 settlers.
+[font=Verdana][url=https://www.nexusmods.com/fallout4/mods/31132]Lakeside Cabin Brewery[/url] is an agricultural center that exports food and water, and produces wood, fertilizer and beer. Includes a small player home, and some commercial services. Supports 24 settlers.
 
 Due to limitations, advanced industrial plots will need to be manually upgraded to match the signage. Recommended to use the designer's choice.
 
@@ -13,7 +13,7 @@ Due to limitations, advanced industrial plots will need to be manually upgraded 
 
 [b]Levels:[/b] 3
 [b]Balanced:[/b] Yes
-[b]Max Settlers:[/b] 23
+[b]Max Settlers:[/b] 24
 [b]Player Home:[/b] Yes
 [b]File Type:[/b] ESL
 
