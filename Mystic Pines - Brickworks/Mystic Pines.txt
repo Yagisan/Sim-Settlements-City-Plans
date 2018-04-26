@@ -1,13 +1,13 @@
-[font=Verdana]Mystic Pines Brickworks is an industrial center that produces concrete, ceramic, scrap, and ammunition. Will need to import food at higher levels. Includes a small player home, and some commercial services. Supports 20 settlers.
+[font=Verdana]Mystic Pines Brickworks is an industrial center that produces concrete, ceramic, scrap, and ammunition. Will need to import food at higher levels. Includes a small player home, and some commercial services. Supports 21 settlers.
 
 Recommended to use the designer's choice.
 
 [color=rgb(109, 158, 235)]Settlement: Mystic Pines Settlement Home[/color]
-[url=https://www.nexusmods.com/fallout4/mods/21872]Requires Version 3.2.0a or Greater of Sim Settlements[/url]
+[url=https://www.nexusmods.com/fallout4/mods/21872]Requires Version 3.2.1 or Greater of Sim Settlements[/url]
 
 [b]Levels:[/b] 3
 [b]Balanced:[/b] Yes
-[b]Max Settlers:[/b] 20
+[b]Max Settlers:[/b] 21
 [b]Player Home:[/b] Yes
 [b]File Type:[/b] ESL
 
