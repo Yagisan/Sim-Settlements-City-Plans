@@ -15,7 +15,7 @@ It's goal is to provide a variety of themed City Plans, that are realistic and m
 ## Settlement Mods
 The following settlement mods are used by the city plans in this repository.
 
-* [Lakeside Cabin Redux](https://www.nexusmods.com/fallout4/mods/19463)
+* [Lakeside Cabin Redux](https://www.nexusmods.com/fallout4/mods/19463) (LakesideCabinReduxExpanded.esp)
 * [Northern Exposure](https://www.nexusmods.com/fallout4/mods/29900)
 * [Mystic Pines Settlement Home](https://www.nexusmods.com/fallout4/mods/20588)
 
