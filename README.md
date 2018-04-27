@@ -15,9 +15,9 @@ It's goal is to provide a variety of themed City Plans, that are realistic and m
 ## Settlement Mods
 The following settlement mods are used by the city plans in this repository.
 
-* [Lakeside Cabin Redux](https://www.nexusmods.com/fallout4/mods/19463) (LakesideCabinReduxExpanded.esp)
-* [Northern Exposure](https://www.nexusmods.com/fallout4/mods/29900)
-* [Mystic Pines Settlement Home](https://www.nexusmods.com/fallout4/mods/20588)
+* [Lakeside Cabin Redux](https://www.nexusmods.com/fallout4/mods/19463) ( LakesideCabinReduxExpanded.esp )
+* [Northern Exposure](https://www.nexusmods.com/fallout4/mods/29900) ( 100_collection_North.esp )
+* [Mystic Pines Settlement Home](https://www.nexusmods.com/fallout4/mods/20588) ( MysticPinesRetirementSettlement.esp )
 
 
 ## Designer's Choice Mods
@@ -55,6 +55,6 @@ Missing mods will result in missing items and missing landscaping. This is not a
 Required Creation Club Items are additional mods used for landscaping and decoration. To ensure the city plan looks as intended, you should have them installed.
 Missing mods will result in missing items, missing plots and missing landscaping. This is not a bug.
 
-* [Home Decor Workshop Pack](https://creationclub.bethesda.net/en)
-* [Arcade Workshop Pack](https://creationclub.bethesda.net/en)
-* [Coffee and Donuts Workshop Pack](https://creationclub.bethesda.net/en)
+* [Home Decor Workshop Pack](https://creationclub.bethesda.net/en) ( cceejfo4001-decorationpack.esl )
+* [Arcade Workshop Pack](https://creationclub.bethesda.net/en) ( ccbgsfo4045-advarccab.esl )
+* [Coffee and Donuts Workshop Pack](https://creationclub.bethesda.net/en) (ccfsvfo4003-slocum.esl )
