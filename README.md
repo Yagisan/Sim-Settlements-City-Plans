@@ -26,30 +26,30 @@ Missing mods will result in random plots taking the place of chosen plots. This 
 
 * [Sim Settlements - Industrial Revolution](https://www.nexusmods.com/fallout4/mods/25213)
 * [Sim Settlements - Rise of the Commonwealth](https://www.nexusmods.com/fallout4/mods/28599)
-* [Sim Settlements - IDEK's Logistics Station (ESL Version)](https://www.nexusmods.com/fallout4/mods/28945)
-* [Sim Settlements Mega Pack - Year One](https://www.nexusmods.com/fallout4/mods/30396)
-* [Sim Settlements - Junk Town](https://www.nexusmods.com/fallout4/mods/26107)
-* [Sim Settlements - Wasteland Venturers 2 (All-In-One)](https://www.nexusmods.com/fallout4/mods/30081)
-* [Sim Settlements - Industrial City](https://www.nexusmods.com/fallout4/mods/23948)
-* [Sim Settlements - Ruined Homes and Gardens](https://www.nexusmods.com/fallout4/mods/23917)
-* [Sim Settlements - Scrappers](https://www.nexusmods.com/fallout4/mods/25679)
-* [Sim Settlements - SimHomestead](https://www.nexusmods.com/fallout4/mods/24491)
-* [Sim Settlements - Altairp's Animal Farm](https://www.nexusmods.com/fallout4/mods/23421)
-* [Sim Settlements - Creations By COOTS](https://www.nexusmods.com/fallout4/mods/29250)
+* [Sim Settlements - IDEK's Logistics Station (ESL Version)](https://www.nexusmods.com/fallout4/mods/28945) ( SimSettlements_IDEKsLogisticsStation.esl )
+* [Sim Settlements Mega Pack - Year One](https://www.nexusmods.com/fallout4/mods/30396) ( SimSettlements_MegaPack_YearOne.esp )
+* [Sim Settlements - Junk Town](https://www.nexusmods.com/fallout4/mods/26107) ( JunkTown.esp )
+* [Sim Settlements - Wasteland Venturers 2 (All-In-One)](https://www.nexusmods.com/fallout4/mods/30081) ( WVSimSAddon.esp )
+* [Sim Settlements - Industrial City](https://www.nexusmods.com/fallout4/mods/23948) ( IndustrialCity_Sim_Settlements_Addon.esp )
+* [Sim Settlements - Ruined Homes and Gardens](https://www.nexusmods.com/fallout4/mods/23917) ( ruined_simsettlement_addonpack.esp )
+* [Sim Settlements - Scrappers](https://www.nexusmods.com/fallout4/mods/25679) ( ohSIM_Sim_Settlements_Scrappers_Addon.esp )
+* [Sim Settlements - SimHomestead](https://www.nexusmods.com/fallout4/mods/24491) ( SimHomestead.esp )
+* [Sim Settlements - Altairp's Animal Farm](https://www.nexusmods.com/fallout4/mods/23421) ( Altairp's Animal Farm.esp )
+* [Sim Settlements - Creations By COOTS](https://www.nexusmods.com/fallout4/mods/29250) ( SS_AddOn_CbC_AIO.esp )
 
 ## Required Mods
 Required Mods are additional mods used for landscaping and decoration. To ensure the city plan looks as intended, you should have them installed.
 Missing mods will result in missing items and missing landscaping. This is not a bug.
 
-* [Workshop Rearranged](https://www.nexusmods.com/fallout4/mods/16181)
-* [CREAtive Clutter](https://www.nexusmods.com/fallout4/mods/20782)
-* [Do It Yourshelf](https://www.nexusmods.com/fallout4/mods/14532)
-* [Modular Kitchen](https://www.nexusmods.com/fallout4/mods/17141)
-* [Thematic and Practical](https://www.nexusmods.com/fallout4/mods/16207)
-* [Kraggles Structures](https://www.nexusmods.com/fallout4/mods/28588)
-* [Old World Radio](https://www.nexusmods.com/fallout4/mods/9048)
-* [Lore Friendly Posters](https://www.nexusmods.com/fallout4/mods/7145)
-* [Solar Panels](https://www.nexusmods.com/fallout4/mods/17168)
+* [Workshop Rearranged](https://www.nexusmods.com/fallout4/mods/16181) ( WorkshopRearranged.esp )
+* [CREAtive Clutter](https://www.nexusmods.com/fallout4/mods/20782) ( CREAtiveClutter.esp )
+* [Do It Yourshelf](https://www.nexusmods.com/fallout4/mods/14532) ( dinoshelf.esp )
+* [Modular Kitchen](https://www.nexusmods.com/fallout4/mods/17141) ( Evan_Modular Kitchen.esp )
+* [Thematic and Practical](https://www.nexusmods.com/fallout4/mods/16207) ( Thematic and Practical.esp )
+* [Kraggles Structures](https://www.nexusmods.com/fallout4/mods/28588) ( Kraggles - Structures.esp )
+* [Old World Radio](https://www.nexusmods.com/fallout4/mods/9048) ( OWR.esp )
+* [Lore Friendly Posters](https://www.nexusmods.com/fallout4/mods/7145) ( Lore Friendly Posters.esp )
+* [Solar Panels](https://www.nexusmods.com/fallout4/mods/17168) ( SolarPower.esp )
 
 ## Required Creation Club Items
 Required Creation Club Items are additional mods used for landscaping and decoration. To ensure the city plan looks as intended, you should have them installed.
