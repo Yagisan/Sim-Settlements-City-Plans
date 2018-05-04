@@ -17,7 +17,6 @@ The following settlement mods are used by the city plans in this repository.
 
 * [Lakeside Cabin Redux](https://www.nexusmods.com/fallout4/mods/19463) ( LakesideCabinReduxExpanded.esp )
 * [Northern Exposure](https://www.nexusmods.com/fallout4/mods/29900) ( 100_collection_North.esp )
-* [Mystic Pines Settlement Home](https://www.nexusmods.com/fallout4/mods/20588) ( MysticPinesRetirementSettlement.esp )
 
 
 ## Designer's Choice Mods
@@ -29,6 +28,7 @@ Missing mods will result in random plots taking the place of chosen plots. This 
 * [Sim Settlements - IDEK's Logistics Station (ESL Version)](https://www.nexusmods.com/fallout4/mods/28945) ( SimSettlements_IDEKsLogisticsStation.esl )
 * [Sim Settlements Mega Pack - Year One](https://www.nexusmods.com/fallout4/mods/30396) ( SimSettlements_MegaPack_YearOne.esp )
 * [Sim Settlements - Junk Town](https://www.nexusmods.com/fallout4/mods/26107) ( JunkTown.esp )
+* [Sim Settlements - Flotsam and Jetsam](https://www.nexusmods.com/fallout4/mods/31206) ( UitFJ.esp )
 * [Sim Settlements - Wasteland Venturers 2 (All-In-One)](https://www.nexusmods.com/fallout4/mods/30081) ( WVSimSAddon.esp )
 * [Sim Settlements - Industrial City](https://www.nexusmods.com/fallout4/mods/23948) ( IndustrialCity_Sim_Settlements_Addon.esp )
 * [Sim Settlements - Ruined Homes and Gardens](https://www.nexusmods.com/fallout4/mods/23917) ( ruined_simsettlement_addonpack.esp )
@@ -36,6 +36,7 @@ Missing mods will result in random plots taking the place of chosen plots. This 
 * [Sim Settlements - SimHomestead](https://www.nexusmods.com/fallout4/mods/24491) ( SimHomestead.esp )
 * [Sim Settlements - Altairp's Animal Farm](https://www.nexusmods.com/fallout4/mods/23421) ( Altairp's Animal Farm.esp )
 * [Sim Settlements - Creations By COOTS](https://www.nexusmods.com/fallout4/mods/29250) ( SS_AddOn_CbC_AIO.esp )
+* [Sim Settlements - Plots by Paw Paw](https://www.nexusmods.com/fallout4/mods/31473) ( SS_Addon_PbPP.esp )
 
 ## Required Mods
 Required Mods are additional mods used for landscaping and decoration. To ensure the city plan looks as intended, you should have them installed.
