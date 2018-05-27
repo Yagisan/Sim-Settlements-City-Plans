@@ -69,6 +69,8 @@ Lakeside Cabin Brewery is an agricultural center that exports food and water, an
 
 Due to limitations, advanced industrial plots will need to be manually upgraded to match the signage. Recommended to use the designer's choice.
 
+Settlement Mod: [Lakeside Cabin Redux](https://www.nexusmods.com/fallout4/mods/19463)
+
 **Known Issues**
 * Existing Trader may fight the guards and die. Usually contains loot is very helpful for upgrading the city.
 * IDEK's Logistics Station may not build. It goes in the lower internal industrial plot.
@@ -87,6 +89,8 @@ Northwest Pylon Mines is a mining center that produces ore and concrete. It is s
 
 Due to limitations, advanced industrial plots will need to be manually upgraded to match the signage. Recommended to use the designer's choice.
 
+Settlement Mod: [Northern Exposure](https://www.nexusmods.com/fallout4/mods/29900)
+
 **Known Issues**
 * IDEK's Logistics Station may not build. It goes in the internal industrial plot.
 * Mytigo's Scavenger Support may not build. It goes in the industrial plot near the slot machines.
@@ -98,3 +102,21 @@ Due to limitations, advanced industrial plots will need to be manually upgraded 
 **Player Home:** Yes  
 **File Type:** ESL  
 [Nexus Download Link](https://www.nexusmods.com/fallout4/mods/31238)
+
+### Sim Settlements City Plans - Lakeside Pumpstation Fishery by Yagisan
+Lakeside Pumpstation Fishery is a fishing village that produces fish, oil and bone. It is self-sufficient. Includes a small player home, and some commercial services. Supports 16 settlers.
+
+Settlement Mod: [Northern Exposure](https://www.nexusmods.com/fallout4/mods/29900)
+
+**Known Issues**
+* IDEK's Logistics Station may not build. It goes in the level 0 industrial plot.
+* Mytigo's Scavenger Support may not build. It goes next to IDEK's Logistics Station.
+<br/>
+
+**Levels:** 3  
+**Balanced:** Yes  
+**Max Settlers:** 16
+**Player Home:** Yes  
+**File Type:** ESL  
+[Nexus Download Link]()
+
