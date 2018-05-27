@@ -74,7 +74,7 @@ Due to limitations, advanced industrial plots will need to be manually upgraded 
 * IDEK's Logistics Station may not build. It goes in the lower internal industrial plot.
 * Mytigo's Scavenger Support may not build. It goes in the upper internal industrial plot.
 
-**Levels:** 3  
+**Levels:** 3<br/><br/>
 **Balanced:** Yes  
 **Max Settlers:** 24  
 **Player Home:** Yes  
