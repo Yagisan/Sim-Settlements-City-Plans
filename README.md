@@ -18,6 +18,7 @@ The following settlement mods are used by the city plans in this repository.
 
 * [Lakeside Cabin Redux](https://www.nexusmods.com/fallout4/mods/19463) ( LakesideCabinReduxExpanded.esp )
 * [Northern Exposure](https://www.nexusmods.com/fallout4/mods/29900) ( 100_collection_North.esp )
+* [Vault 111 Settlement](https://www.nexusmods.com/fallout4/mods/19663) ( SettlementVault111.esp )
 
 ### Designer's Choice Mods
 Designer's Choice Mods are additional Sim Settlements plots that are used in most City Plans. To ensure the city plan looks as intended, you should have them installed.
@@ -120,3 +121,20 @@ Settlement Mod: [Northern Exposure](https://www.nexusmods.com/fallout4/mods/2990
 **File Type:** ESL  
 [Nexus Download Link]()
 
+### Sim Settlements City Plans - Vault 111 Medical Centre by Yagisan
+Vault 111 Medical Centre is a medical vault that produces generic scrap and prepared meals. It is self-sufficient. Includes player bed, and some commercial services. Supports 24 settlers.
+
+Settlement Mod: [Vault 111 Settlement](https://www.nexusmods.com/fallout4/mods/19663)
+
+**Known Issues**
+* IDEK's Logistics Station may not build. It goes in the workshop room.
+* Mytigo's Scavenger Support may not build. It goes next to the vault entrance.
+* Mytigo's Scavenger Support recruitment system is recommended to recruit settlers directly to the vault. Otherwise move them from other settlements.
+<br/>
+
+**Levels:** 3  
+**Balanced:** Yes  
+**Max Settlers:** 24
+**Player Home:** Bed Only  
+**File Type:** ESL  
+[Nexus Download Link]()
