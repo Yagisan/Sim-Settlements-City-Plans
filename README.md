@@ -74,11 +74,11 @@ Due to limitations, advanced industrial plots will need to be manually upgraded 
 * IDEK's Logistics Station may not build. It goes in the lower internal industrial plot.
 * Mytigo's Scavenger Support may not build. It goes in the upper internal industrial plot.
 
-*Levels:* 3
-*Balanced:* Yes
-*Max Settlers:* 24
-*Player Home:* Yes
-*File Type:* ESL
+**Levels:** 3
+**Balanced:** Yes
+**Max Settlers:** 24
+**Player Home:** Yes
+**File Type:** ESL
 [Nexus Download Link] (https://www.nexusmods.com/fallout4/mods/31132)
 
 ### Sim Settlements City Plans - Northwest Pylon Mines by Yagisan
@@ -90,9 +90,9 @@ Due to limitations, advanced industrial plots will need to be manually upgraded 
 * IDEK's Logistics Station may not build. It goes in the internal industrial plot.
 * Mytigo's Scavenger Support may not build. It goes in the industrial plot near the slot machines.
 
-*Levels:* 3
-*Balanced:* Yes
-*Max Settlers:* 17
-*Player Home:* Yes
-*File Type:* ESL
+**Levels:** 3
+**Balanced:** Yes
+**Max Settlers:** 17
+**Player Home:** Yes
+**File Type:** ESL
 [Nexus Download Link] (https://www.nexusmods.com/fallout4/mods/31238)
