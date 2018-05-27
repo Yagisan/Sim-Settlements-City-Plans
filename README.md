@@ -80,7 +80,7 @@ Due to limitations, advanced industrial plots will need to be manually upgraded 
 **Max Settlers:** 24  
 **Player Home:** Yes  
 **File Type:** ESL  
-[Nexus Download Link] (https://www.nexusmods.com/fallout4/mods/31132)
+[Nexus Download Link](https://www.nexusmods.com/fallout4/mods/31132)
 
 ### Sim Settlements City Plans - Northwest Pylon Mines by Yagisan
 Northwest Pylon Mines is a mining center that produces ore and concrete. It is self-sufficient. Includes a small player home, and some commercial services. Supports 17 settlers.
@@ -92,9 +92,9 @@ Due to limitations, advanced industrial plots will need to be manually upgraded 
 * Mytigo's Scavenger Support may not build. It goes in the industrial plot near the slot machines.
 <br/>
 
-**Levels:** 3
-**Balanced:** Yes
-**Max Settlers:** 17
-**Player Home:** Yes
-**File Type:** ESL
-[Nexus Download Link] (https://www.nexusmods.com/fallout4/mods/31238)
+**Levels:** 3  
+**Balanced:** Yes  
+**Max Settlers:** 17  
+**Player Home:** Yes  
+**File Type:** ESL  
+[Nexus Download Link](https://www.nexusmods.com/fallout4/mods/31238)
