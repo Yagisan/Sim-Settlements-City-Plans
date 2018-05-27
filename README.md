@@ -73,8 +73,9 @@ Due to limitations, advanced industrial plots will need to be manually upgraded 
 * Existing Trader may fight the guards and die. Usually contains loot is very helpful for upgrading the city.
 * IDEK's Logistics Station may not build. It goes in the lower internal industrial plot.
 * Mytigo's Scavenger Support may not build. It goes in the upper internal industrial plot.
+<br/>
 
-**Levels:** 3<br/><br/>
+**Levels:** 3
 **Balanced:** Yes  
 **Max Settlers:** 24  
 **Player Home:** Yes  
