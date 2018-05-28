@@ -119,7 +119,7 @@ Settlement Mod: [Northern Exposure](https://www.nexusmods.com/fallout4/mods/2990
 
 **Levels:** 3  
 **Balanced:** Yes  
-**Max Settlers:** 16
+**Max Settlers:** 16  
 **Player Home:** Yes  
 **File Type:** ESL  
 [Nexus Download Link]()
@@ -138,7 +138,7 @@ Settlement Mod: [Vault 111 Settlement](https://www.nexusmods.com/fallout4/mods/1
 
 **Levels:** 3  
 **Balanced:** Yes  
-**Max Settlers:** 24
+**Max Settlers:** 24  
 **Player Home:** Bed Only  
 **File Type:** ESL  
 [Nexus Download Link]()
