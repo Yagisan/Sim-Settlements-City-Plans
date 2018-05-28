@@ -112,6 +112,9 @@ Settlement Mod: [Northern Exposure](https://www.nexusmods.com/fallout4/mods/2990
 **Known Issues**
 * IDEK's Logistics Station may not build. It goes in the level 0 industrial plot.
 * Mytigo's Scavenger Support may not build. It goes next to IDEK's Logistics Station.
+* Eldarth's Fish Farms may not build. They are the Farms at water level.
+* Uituit's Party Boat may not build. It is at the end of the pier, opposite the bar.
+* Uituit's Fishing Boat may not build. It is next to the player home.
 <br/>
 
 **Levels:** 3  
@@ -130,6 +133,7 @@ Settlement Mod: [Vault 111 Settlement](https://www.nexusmods.com/fallout4/mods/1
 * IDEK's Logistics Station may not build. It goes in the workshop room.
 * Mytigo's Scavenger Support may not build. It goes next to the vault entrance.
 * Mytigo's Scavenger Support recruitment system is recommended to recruit settlers directly to the vault. Otherwise move them from other settlements.
+* You need to leave the settlement and re-enter for the lighting to update.
 <br/>
 
 **Levels:** 3  
