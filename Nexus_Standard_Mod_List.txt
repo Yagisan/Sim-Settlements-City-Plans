@@ -1,0 +1,47 @@
+[font=Verdana]
+[color=#8e7cc3][b]Required DLC[/b][/color]
+Automatron
+Wasteland Workshop
+Far Harbor
+Contraptions Workshop
+Vault-Tec Workshop
+Nuka-World
+
+[color=#8e7cc3][b]Yagisan's Standard Designer's Choice Mods[/b][/color]
+[url=https://www.nexusmods.com/fallout4/mods/25213]Sim Settlements - Industrial Revolution[/url]
+[url=https://www.nexusmods.com/fallout4/mods/28599]Sim Settlements - Rise of the Commonwealth[/url]
+[url=https://www.nexusmods.com/fallout4/mods/28945]Sim Settlements - IDEK's Logistics Station[/url] (ESL Version)
+[url=https://www.nexusmods.com/fallout4/mods/30396]Sim Settlements - Mega Pack - Year One[/url]
+[url=https://www.nexusmods.com/fallout4/mods/26107]Sim Settlements - Junk Town[/url]
+[url=https://www.nexusmods.com/fallout4/mods/31206]Sim Settlements - Flotsam and Jetsam[/url]
+[url=https://www.nexusmods.com/fallout4/mods/30081]Sim Settlements - Wasteland Venturers 2[/url] (All-In-One)
+[url=https://www.nexusmods.com/fallout4/mods/23948]Sim Settlements - Industrial City[/url]
+[url=https://www.nexusmods.com/fallout4/mods/23917]Sim Settlements - Ruined Homes and Gardens[/url]
+[url=https://www.nexusmods.com/fallout4/mods/25679]Sim Settlements - Scrappers[/url]
+[url=https://www.nexusmods.com/fallout4/mods/24491]Sim Settlements - SimHomestead[/url]
+[url=https://www.nexusmods.com/fallout4/mods/23421]Sim Settlements - Altairp's Animal Farm[/url]
+[url=https://www.nexusmods.com/fallout4/mods/29250]Sim Settlements - Creations By COOTS[/url]
+[url=https://www.nexusmods.com/fallout4/mods/25085]Sim Settlements - MrJoseCuervo Addon Pack[/url]
+[url=https://www.nexusmods.com/fallout4/mods/31365]Sim Settlements - VaultLand[/url]
+[url=https://www.nexusmods.com/fallout4/mods/31591]Sim Settlements - Vault-Tec Tools[/url]
+[url=https://www.nexusmods.com/fallout4/mods/27384]Sim Settlements - Awsometown[/url]
+[url=https://www.nexusmods.com/fallout4/mods/31972]Sim Settlements - RS Buildings[/url]
+
+[color=#8e7cc3][b]Yagisan's Required Building Mods[/b][/color]
+[url=https://www.nexusmods.com/fallout4/mods/16181]Workshop Rearranged[/url]
+[url=https://www.nexusmods.com/fallout4/mods/20782]CREAtive Clutter[/url]
+[url=https://www.nexusmods.com/fallout4/mods/14532]Do It Yourshelf[/url]
+[url=https://www.nexusmods.com/fallout4/mods/17141]Modular Kitchen[/url]
+[url=https://www.nexusmods.com/fallout4/mods/16207]Thematic and Practical[/url]
+[url=https://www.nexusmods.com/fallout4/mods/28588]Kraggles Structures[/url]
+
+[color=#8e7cc3][b]Yagisan's Suggested Building Mods[/b][/color]
+[url=https://www.nexusmods.com/fallout4/mods/9048]Old World Radio[/url]
+[url=https://www.nexusmods.com/fallout4/mods/7145]Lore Friendly Posters[/url]
+[url=https://www.nexusmods.com/fallout4/mods/17168]Solar Panels[/url]
+
+[color=#8e7cc3][b]Yagisan's Suggested Creation Club Items[/b][/color]
+[url=https://creationclub.bethesda.net/en]Home Decor Workshop Pack[/url] (cceejfo4001-decorationpack.esl)
+[url=https://creationclub.bethesda.net/en]Arcade Workshop Pack[/url] (ccbgsfo4045-advarccab.esl)
+[url=https://creationclub.bethesda.net/en]Coffee and Donuts Workshop Pack[/url] (ccfsvfo4003-slocum.esl)
+[/font]
