@@ -27,7 +27,7 @@ Missing mods will result in random plots taking the place of chosen plots. This 
 * [Sim Settlements - Industrial Revolution](https://www.nexusmods.com/fallout4/mods/25213)
 * [Sim Settlements - Rise of the Commonwealth](https://www.nexusmods.com/fallout4/mods/28599)
 * [Sim Settlements - IDEK's Logistics Station (ESL Version)](https://www.nexusmods.com/fallout4/mods/28945) ( SimSettlements_IDEKsLogisticsStation.esl )
-* [Sim Settlements Mega Pack - Year One](https://www.nexusmods.com/fallout4/mods/30396) ( SimSettlements_MegaPack_YearOne.esp )
+* [Sim Settlements - Mega Pack - Year One](https://www.nexusmods.com/fallout4/mods/30396) ( SimSettlements_MegaPack_YearOne.esp )
 * [Sim Settlements - Junk Town](https://www.nexusmods.com/fallout4/mods/26107) ( JunkTown.esp )
 * [Sim Settlements - Flotsam and Jetsam](https://www.nexusmods.com/fallout4/mods/31206) ( UitFJ.esp )
 * [Sim Settlements - Wasteland Venturers 2 (All-In-One)](https://www.nexusmods.com/fallout4/mods/30081) ( WVSimSAddon.esp )
@@ -41,9 +41,11 @@ Missing mods will result in random plots taking the place of chosen plots. This 
 * [Sim Settlements - VaultLand](https://www.nexusmods.com/fallout4/mods/31365) ( SimSettlements_Addon_VaultLand.esp )
 * [Sim Settlements - Vault-Tec Tools](https://www.nexusmods.com/fallout4/mods/31591) ( SSAOP_SamutzVault88.esp )
 * [Sim Settlements - MrJoseCuervo Addon Pack](https://www.nexusmods.com/fallout4/mods/25085) ( MJC_Sim_Settlements_Addon.esp )
+* [Sim Settlements - RS Buildings](https://www.nexusmods.com/fallout4/mods/31972) ( RS_Sim_AddOn.esp )
+* [Sim Settlements - Awsometown](https://www.nexusmods.com/fallout4/mods/27384) ( SimSettlements_AddOnPack_AwsomeTown.esp )
 
-### Required Mods
-Required Mods are additional mods used for landscaping and decoration. To ensure the city plan looks as intended, you should have them installed.
+### Required Building Mods
+Required Building Mods are additional mods used for landscaping and decoration. To ensure the city plan looks as intended, you should have them installed.
 Missing mods will result in missing items and missing landscaping. This is not a bug.
 
 * [Workshop Rearranged](https://www.nexusmods.com/fallout4/mods/16181) ( WorkshopRearranged.esp )
@@ -52,12 +54,17 @@ Missing mods will result in missing items and missing landscaping. This is not a
 * [Modular Kitchen](https://www.nexusmods.com/fallout4/mods/17141) ( Evan_Modular Kitchen.esp )
 * [Thematic and Practical](https://www.nexusmods.com/fallout4/mods/16207) ( Thematic and Practical.esp )
 * [Kraggles Structures](https://www.nexusmods.com/fallout4/mods/28588) ( Kraggles - Structures.esp )
+
+### Suggested Building Mods
+Suggested Building Mods are additional mods used for landscaping and decoration. To ensure the city plan looks as intended, you should have them installed.
+Missing mods will result in missing items and missing landscaping. This is not a bug.
+
 * [Old World Radio](https://www.nexusmods.com/fallout4/mods/9048) ( OWR.esp )
 * [Lore Friendly Posters](https://www.nexusmods.com/fallout4/mods/7145) ( Lore Friendly Posters.esp )
 * [Solar Panels](https://www.nexusmods.com/fallout4/mods/17168) ( SolarPower.esp )
 
-### Required Creation Club Items
-Required Creation Club Items are additional mods used for landscaping and decoration. To ensure the city plan looks as intended, you should have them installed.
+### Suggested Creation Club Items
+Suggested Creation Club Items are additional mods used for landscaping and decoration. To ensure the city plan looks as intended, you should have them installed.
 Missing mods will result in missing items, missing plots and missing landscaping. This is not a bug.
 
 * [Home Decor Workshop Pack](https://creationclub.bethesda.net/en) ( cceejfo4001-decorationpack.esl )
