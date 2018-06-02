@@ -129,7 +129,7 @@ Settlement Mod: [Northern Exposure](https://www.nexusmods.com/fallout4/mods/2990
 **Max Settlers:** 16  
 **Player Home:** Yes  
 **File Type:** ESL  
-[Nexus Download Link](https://www.nexusmods.com/fallout4/mods/32147/)
+[Nexus Download Link](https://www.nexusmods.com/fallout4/mods/32147)
 
 ### Sim Settlements City Plans - Vault 111 Medical Centre by Yagisan
 Vault 111 Medical Centre is a medical vault that produces generic scrap and prepared meals. It is self-sufficient. Includes player bed, and some commercial services. Supports 24 settlers.
@@ -148,4 +148,4 @@ Settlement Mod: [Vault 111 Settlement](https://www.nexusmods.com/fallout4/mods/1
 **Max Settlers:** 24  
 **Player Home:** Bed Only  
 **File Type:** ESL  
-[Nexus Download Link]()
+[Nexus Download Link](https://www.nexusmods.com/fallout4/mods/32152)
