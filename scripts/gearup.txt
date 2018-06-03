@@ -1,0 +1,8 @@
+additem 0011D3C7 1 ; Combat Armor Left Arm
+additem 0011D3C6 1 ; Combat Armor Right Arm
+additem 0011D3C5 1 ; Combat Armor Left Leg
+additem 0011D3C4 1 ; Combat Armor Right Leg
+additem 0011D3C3 1 ; Combat Armor Chest Piece
+additem 001240f1 1 ; Mining Helmet
+;additem 0900c687 1 ; Citymanager Holotape
+;additem 09005467 40 ; ASAM Sensor

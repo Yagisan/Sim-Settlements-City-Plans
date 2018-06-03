@@ -1,0 +1,3 @@
+setgs iWorkshopSettlerPopulationMax 40
+setgs iTerminalDisplayRate 1000
+setgs iHackingMaxWords 1

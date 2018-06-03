@@ -1,0 +1,1 @@
+cqf kgsim_recruitmentmanager testguards true
