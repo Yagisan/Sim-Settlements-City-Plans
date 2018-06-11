@@ -149,3 +149,19 @@ Settlement Mod: [Vault 111 Settlement](https://www.nexusmods.com/fallout4/mods/1
 **Player Home:** Bed Only  
 **File Type:** ESL  
 [Nexus Download Link](https://www.nexusmods.com/fallout4/mods/32152)
+
+### Sim Settlements City Plans - Fallen Tree Valley Molerat Ranch by Yagisan and UniversalLibrary
+Fallen Tree Valley Molerat Ranch is a large molerat ranch, producing both molerat meat and milk. It also produces wood, oil and wild flowers. It will need to import water from level 3. Includes a small player home, and some commercial services. Supports 20 settlers.
+
+Settlement Mod: [Northern Exposure](https://www.nexusmods.com/fallout4/mods/29900)
+
+**Known Issues**
+* IDEK's Logistics Station may not build. It goes opposite the player home.
+<br/>
+
+**Levels:** 3  
+**Balanced:** Yes  
+**Max Settlers:** 20  
+**Player Home:** Yes  
+**File Type:** ESL  
+[Nexus Download Link](https://www.nexusmods.com/fallout4/mods/32362)
