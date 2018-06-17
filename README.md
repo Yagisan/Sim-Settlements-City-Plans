@@ -44,16 +44,21 @@ Missing mods will result in random plots taking the place of chosen plots. This 
 * [Sim Settlements - RS Buildings](https://www.nexusmods.com/fallout4/mods/31972) ( RS_Sim_AddOn.esp )
 * [Sim Settlements - Awsometown](https://www.nexusmods.com/fallout4/mods/27384) ( SimSettlements_AddOnPack_AwsomeTown.esp )
 
-### Required Building Mods
-Required Building Mods are additional mods used for landscaping and decoration. To ensure the city plan looks as intended, you should have them installed.
-Missing mods will result in missing items and missing landscaping. This is not a bug.
+### Required Structural Mods
+Required Structural Mods are additional mods used for building actual structures. To ensure the city plan looks as intended, you must have them installed.
+Missing mods will result in missing structures, including residences, walkways, walls and roofs. This is not a bug.
 
 * [Workshop Rearranged](https://www.nexusmods.com/fallout4/mods/16181) ( WorkshopRearranged.esp )
+* [Thematic and Practical](https://www.nexusmods.com/fallout4/mods/16207) ( Thematic and Practical.esp )
+* [Kraggles Structures](https://www.nexusmods.com/fallout4/mods/28588) ( Kraggles - Structures.esp )
+
+### Required Decorartion Mods
+Required Decorartion Mods are additional mods used for landscaping and decoration. To ensure the city plan looks as intended, you should have them installed.
+Missing mods will result in missing items and missing landscaping. This is not a bug.
+
 * [CREAtive Clutter](https://www.nexusmods.com/fallout4/mods/20782) ( CREAtiveClutter.esp )
 * [Do It Yourshelf](https://www.nexusmods.com/fallout4/mods/14532) ( dinoshelf.esp )
 * [Modular Kitchen](https://www.nexusmods.com/fallout4/mods/17141) ( Evan_Modular Kitchen.esp )
-* [Thematic and Practical](https://www.nexusmods.com/fallout4/mods/16207) ( Thematic and Practical.esp )
-* [Kraggles Structures](https://www.nexusmods.com/fallout4/mods/28588) ( Kraggles - Structures.esp )
 
 ### Suggested Building Mods
 Suggested Building Mods are additional mods used for landscaping and decoration. To ensure the city plan looks as intended, you should have them installed.
