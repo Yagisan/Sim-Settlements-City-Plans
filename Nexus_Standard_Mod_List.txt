@@ -8,6 +8,8 @@ Vault-Tec Workshop
 Nuka-World
 
 [color=#8e7cc3][b]Yagisan's Standard Designer's Choice Mods[/b][/color]
+Designer's Choice Mods are additional Sim Settlements plots that are used in most City Plans. To ensure the city plan looks as intended, you should have them installed.
+Missing mods will result in random plots taking the place of chosen plots. This may result in settlements not matching their themes.
 [url=https://www.nexusmods.com/fallout4/mods/25213]Sim Settlements - Industrial Revolution[/url]
 [url=https://www.nexusmods.com/fallout4/mods/28599]Sim Settlements - Rise of the Commonwealth[/url]
 [url=https://www.nexusmods.com/fallout4/mods/28945]Sim Settlements - IDEK's Logistics Station[/url] (ESL Version)
@@ -28,20 +30,31 @@ Nuka-World
 [url=https://www.nexusmods.com/fallout4/mods/31972]Sim Settlements - RS Buildings[/url]
 [url=https://www.nexusmods.com/fallout4/mods/31473]Sim Settlements - Plots by Paw Paw[/url]
 
-[color=#8e7cc3][b]Yagisan's Required Building Mods[/b][/color]
+[color=#8e7cc3][b]Required Structural Mods[/b][/color]
+Required Structural Mods are additional mods used for building actual structures. To ensure the city plan looks as intended, you must have them installed.
+Missing mods will result in missing structures, including residences, walkways, walls and roofs. This is not a bug.
 [url=https://www.nexusmods.com/fallout4/mods/16181]Workshop Rearranged[/url]
-[url=https://www.nexusmods.com/fallout4/mods/20782]CREAtive Clutter[/url]
-[url=https://www.nexusmods.com/fallout4/mods/14532]Do It Yourshelf[/url]
-[url=https://www.nexusmods.com/fallout4/mods/17141]Modular Kitchen[/url]
+[url=https://www.nexusmods.com/fallout4/mods/17088]G2M - Workshop[/url]
 [url=https://www.nexusmods.com/fallout4/mods/16207]Thematic and Practical[/url]
 [url=https://www.nexusmods.com/fallout4/mods/28588]Kraggles Structures[/url]
 
-[color=#8e7cc3][b]Yagisan's Suggested Building Mods[/b][/color]
+[color=#8e7cc3][b]Required Decoration Mods[/b][/color]
+Required Decoration Mods are additional mods used for landscaping and decoration. To ensure the city plan looks as intended, you should have them installed.
+Missing mods will result in missing items and missing landscaping. This is not a bug.
+[url=https://www.nexusmods.com/fallout4/mods/20782]CREAtive Clutter[/url]
+[url=https://www.nexusmods.com/fallout4/mods/14532]Do It Yourshelf[/url]
+[url=https://www.nexusmods.com/fallout4/mods/17141]Modular Kitchen[/url]
+
+[color=#8e7cc3][b]Suggested Decoration Mods[/b][/color]
+Suggested Decoration Mods are additional mods used for landscaping and decoration. To ensure the city plan looks as intended, you should have them installed.
+Missing mods will result in missing items and missing landscaping. This is not a bug.
 [url=https://www.nexusmods.com/fallout4/mods/9048]Old World Radio[/url]
 [url=https://www.nexusmods.com/fallout4/mods/7145]Lore Friendly Posters[/url]
 [url=https://www.nexusmods.com/fallout4/mods/17168]Solar Panels[/url]
 
 [color=#8e7cc3][b]Yagisan's Suggested Creation Club Items[/b][/color]
+Suggested Creation Club Items are additional mods used for landscaping and decoration. To ensure the city plan looks as intended, you should have them installed.
+Missing mods will result in missing items, missing plots and missing landscaping. This is not a bug.
 [url=https://creationclub.bethesda.net/en]Home Decor Workshop Pack[/url] (cceejfo4001-decorationpack.esl)
 [url=https://creationclub.bethesda.net/en]Arcade Workshop Pack[/url] (ccbgsfo4045-advarccab.esl)
 [url=https://creationclub.bethesda.net/en]Coffee and Donuts Workshop Pack[/url] (ccfsvfo4003-slocum.esl)
