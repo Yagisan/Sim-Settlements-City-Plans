@@ -89,7 +89,6 @@ Settlement Mod: [Lakeside Cabin Redux](https://www.nexusmods.com/fallout4/mods/1
 **Known Issues**
 * Existing Trader may fight the guards and die. Usually contains loot is very helpful for upgrading the city.
 * IDEK's Logistics Station may not build. It goes in the lower internal industrial plot.
-* Mytigo's Scavenger Support may not build. It goes in the upper internal industrial plot.
 <br/>
 
 **Levels:** 3  
@@ -108,7 +107,6 @@ Settlement Mod: [Northern Exposure](https://www.nexusmods.com/fallout4/mods/2990
 
 **Known Issues**
 * IDEK's Logistics Station may not build. It goes in the internal industrial plot.
-* Mytigo's Scavenger Support may not build. It goes in the industrial plot near the slot machines.
 <br/>
 
 **Levels:** 3  
@@ -125,10 +123,6 @@ Settlement Mod: [Northern Exposure](https://www.nexusmods.com/fallout4/mods/2990
 
 **Known Issues**
 * IDEK's Logistics Station may not build. It goes in the level 0 industrial plot.
-* Mytigo's Scavenger Support may not build. It goes next to IDEK's Logistics Station.
-* Eldarth's Fish Farms may not build. They are the Farms at water level.
-* Uituit's Party Boat may not build. It is at the end of the pier, opposite the bar.
-* Uituit's Fishing Boat may not build. It is next to the player home.
 <br/>
 
 **Levels:** 3  
@@ -145,7 +139,6 @@ Settlement Mod: [Vault 111 Settlement](https://www.nexusmods.com/fallout4/mods/1
 
 **Known Issues**
 * IDEK's Logistics Station may not build. It goes in the workshop room.
-* Mytigo's Scavenger Support may not build. It goes next to the vault entrance.
 * Mytigo's Scavenger Support recruitment system is recommended to recruit settlers directly to the vault. Otherwise move them from other settlements.
 * You need to leave the settlement and re-enter for the lighting to update.
 <br/>
@@ -174,14 +167,14 @@ Settlement Mod: [Northern Exposure](https://www.nexusmods.com/fallout4/mods/2990
 [Nexus Download Link](https://www.nexusmods.com/fallout4/mods/32362)
 
 ### Sim Settlements City Plans - Mass Fusion Containment Shed Nuclear Reprocessing by Yagisan
-Mass Fusion Containment Shed Nuclear Reprocessing is a large industrial site that reprocesses nuclear material and produces nuclear weapons, fusion cores, microfusion cells, and a large amount of general scrap. It is needs to import food from level 1. Includes player bed, and some commercial services. Supports 30 settlers.
+Mass Fusion Containment Shed Nuclear Reprocessing is a large industrial site that reprocesses nuclear material and produces nuclear weapons, fusion cores, microfusion cells, and a large amount of general scrap. It needs to import food from level 1. Includes player bed, and some commercial services. Supports 30 settlers.
 
 Due to limitations, advanced industrial plots will need to be manually upgraded to match the signage. Recommended to use the designer's choice.
 
 Settlement Mod: [Mass Fusion Containment Settlement](https://www.nexusmods.com/fallout4/mods/19134)
 
 **Known Issues**
-* IDEK's Logistics Station may not build. It goes next too the main gate.
+* IDEK's Logistics Station may not build. It goes next to the main gate.
 <br/>
 
 **Levels:** 3  
@@ -189,4 +182,4 @@ Settlement Mod: [Mass Fusion Containment Settlement](https://www.nexusmods.com/f
 **Max Settlers:** 30  
 **Player Home:** Yes
 **File Type:** ESL  
-[Nexus Download Link](https://www.nexusmods.com/fallout4/mods/32362)
+[Nexus Download Link](https://www.nexusmods.com/fallout4/mods/32668)
