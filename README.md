@@ -19,6 +19,7 @@ The following settlement mods are used by the city plans in this repository.
 * [Lakeside Cabin Redux](https://www.nexusmods.com/fallout4/mods/19463) ( LakesideCabinReduxExpanded.esp )
 * [Northern Exposure](https://www.nexusmods.com/fallout4/mods/29900) ( 100_collection_North.esp )
 * [Vault 111 Settlement](https://www.nexusmods.com/fallout4/mods/19663) ( SettlementVault111.esp )
+* [Mass Fusion Containment Settlement](https://www.nexusmods.com/fallout4/mods/19134) ( MassFusionContainmentSettlement.esp )
 
 ### Designer's Choice Mods
 Designer's Choice Mods are additional Sim Settlements plots that are used in most City Plans. To ensure the city plan looks as intended, you should have them installed.
@@ -169,5 +170,23 @@ Settlement Mod: [Northern Exposure](https://www.nexusmods.com/fallout4/mods/2990
 **Balanced:** Yes  
 **Max Settlers:** 20  
 **Player Home:** Yes  
+**File Type:** ESL  
+[Nexus Download Link](https://www.nexusmods.com/fallout4/mods/32362)
+
+### Sim Settlements City Plans - Mass Fusion Containment Shed Nuclear Reprocessing by Yagisan
+Mass Fusion Containment Shed Nuclear Reprocessing is a large industrial site that reprocesses nuclear material and produces nuclear weapons, fusion cores, microfusion cells, and a large amount of general scrap. It is needs to import food from level 1. Includes player bed, and some commercial services. Supports 30 settlers.
+
+Due to limitations, advanced industrial plots will need to be manually upgraded to match the signage. Recommended to use the designer's choice.
+
+Settlement Mod: [Mass Fusion Containment Settlement](https://www.nexusmods.com/fallout4/mods/19134)
+
+**Known Issues**
+* IDEK's Logistics Station may not build. It goes next too the main gate.
+<br/>
+
+**Levels:** 3  
+**Balanced:** Yes  
+**Max Settlers:** 30  
+**Player Home:** Yes
 **File Type:** ESL  
 [Nexus Download Link](https://www.nexusmods.com/fallout4/mods/32362)
