@@ -180,6 +180,6 @@ Settlement Mod: [Mass Fusion Containment Settlement](https://www.nexusmods.com/f
 **Levels:** 3  
 **Balanced:** Yes  
 **Max Settlers:** 30  
-**Player Home:** Yes
+**Player Home:** Yes  
 **File Type:** ESL  
 [Nexus Download Link](https://www.nexusmods.com/fallout4/mods/32668)
