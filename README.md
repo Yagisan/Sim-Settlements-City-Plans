@@ -20,6 +20,7 @@ The following settlement mods are used by the city plans in this repository.
 * [Northern Exposure](https://www.nexusmods.com/fallout4/mods/29900) ( 100_collection_North.esp )
 * [Vault 111 Settlement](https://www.nexusmods.com/fallout4/mods/19663) ( SettlementVault111.esp )
 * [Mass Fusion Containment Settlement](https://www.nexusmods.com/fallout4/mods/19134) ( MassFusionContainmentSettlement.esp )
+* [SS2 - Roadside Pines Motel](https://www.nexusmods.com/fallout4/mods/25871) ( RPHSettlement.esp )
 
 ### Designer's Choice Mods
 Designer's Choice Mods are additional Sim Settlements plots that are used in most City Plans. To ensure the city plan looks as intended, you should have them installed.
@@ -183,3 +184,22 @@ Settlement Mod: [Mass Fusion Containment Settlement](https://www.nexusmods.com/f
 **Player Home:** Yes  
 **File Type:** ESL  
 [Nexus Download Link](https://www.nexusmods.com/fallout4/mods/32668)
+
+### Sim Settlements City Plans - Roadside Pines Motel Trading Post by Yagisan
+Roadside Pines Motel Trading Post is a commercial center that produces water, caps and explosives. It is self-sufficient. Includes a player home. Supports 20 settlers.
+
+Due to limitations, advanced industrial plots will need to be manually upgraded to match the signage. Recommended to use the designer's choice.
+
+Settlement Mod: [SS2 - Roadside Pines Motel](https://www.nexusmods.com/fallout4/mods/25871)
+
+**Known Issues**
+* IDEK's Logistics Station may not build. It goes next to the workshop building.
+<br/>
+
+**Levels:** 3  
+**Balanced:** Yes  
+**Max Settlers:** 20  
+**Player Home:** Yes  
+**File Type:** ESL  
+[Nexus Download Link]()
+
