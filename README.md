@@ -22,6 +22,7 @@ The following settlement mods are used by the city plans in this repository.
 * [Mass Fusion Containment Settlement](https://www.nexusmods.com/fallout4/mods/19134) ( MassFusionContainmentSettlement.esp )
 * [SS2 - Roadside Pines Motel](https://www.nexusmods.com/fallout4/mods/25871) ( RPHSettlement.esp )
 * [Natick Power Substation player settlement](https://www.nexusmods.com/fallout4/mods/29760) ( 123_settlement.esp )
+* [Red Rocket Settlements](https://www.nexusmods.com/fallout4/mods/17681) ( Red Rocket Settlements.esp ) Version 1.5
 
 ### Designer's Choice Mods
 Designer's Choice Mods are additional Sim Settlements plots that are used in most City Plans. To ensure the city plan looks as intended, you should have them installed.
@@ -219,5 +220,23 @@ Settlement Mod: [Natick Power Substation player settlement](https://www.nexusmod
 **Balanced:** Yes  
 **Max Settlers:** 20  
 **Player Home:** Yes  
+**File Type:** ESL  
+[Nexus Download Link]()
+
+### Sim Settlements City Plans - Red Rocket Natick Outpost by Yagisan
+Red Rocket Natick Outpost is a small military outpost. It produces ultra-pure water and coal. It is self-sufficient. Includes a player bed. Supports 16 settlers.
+
+Due to limitations, advanced industrial plots will need to be manually upgraded to match the signage. Recommended to use the designer's choice.
+
+Settlement Mod: [Red Rocket Settlements](https://www.nexusmods.com/fallout4/mods/17681) Version 1.5
+
+**Known Issues**
+* IDEK's Logistics Station may not build. It goes opposite the saw mill.
+<br/>
+
+**Levels:** 3  
+**Balanced:** Yes  
+**Max Settlers:** 16  
+**Player Home:** Bed Only  
 **File Type:** ESL  
 [Nexus Download Link]()
