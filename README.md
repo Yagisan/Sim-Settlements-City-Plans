@@ -203,7 +203,7 @@ Settlement Mod: [SS2 - Roadside Pines Motel](https://www.nexusmods.com/fallout4/
 **Max Settlers:** 20  
 **Player Home:** Yes  
 **File Type:** ESL  
-[Nexus Download Link]()
+[Nexus Download Link](https://www.nexusmods.com/fallout4/mods/33259)
 
 ### Sim Settlements City Plans - Natick Power Substation Industrial Park by Yagisan
 Natick Power Substation Industrial Park is an industrial center that produces ammunition, military salvage and ballistic material. It is self-sufficient. Includes a player home. Supports 20 settlers.
@@ -221,7 +221,7 @@ Settlement Mod: [Natick Power Substation player settlement](https://www.nexusmod
 **Max Settlers:** 20  
 **Player Home:** Yes  
 **File Type:** ESL  
-[Nexus Download Link]()
+[Nexus Download Link](https://www.nexusmods.com/fallout4/mods/33262)
 
 ### Sim Settlements City Plans - Red Rocket Natick Outpost by Yagisan
 Red Rocket Natick Outpost is a small military outpost. It produces ultra-pure water and coal. It is self-sufficient. Includes a player bed. Supports 16 settlers.
@@ -239,4 +239,4 @@ Settlement Mod: [Red Rocket Settlements](https://www.nexusmods.com/fallout4/mods
 **Max Settlers:** 16  
 **Player Home:** Bed Only  
 **File Type:** ESL  
-[Nexus Download Link]()
+[Nexus Download Link](https://www.nexusmods.com/fallout4/mods/33265)

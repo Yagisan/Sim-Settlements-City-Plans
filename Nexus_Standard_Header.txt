@@ -5,7 +5,7 @@
 [*]IDEK's Logistics Station may not build. It goes in ???
 [/list]
 [color=rgb(109, 158, 235)]Settlement: Name Here[/color]
-[url=https://www.nexusmods.com/fallout4/mods/21872]Requires Version 3.3.0a or Greater of Sim Settlements[/url]
+[url=https://www.nexusmods.com/fallout4/mods/21872]Requires Version 3.3.1 or Greater of Sim Settlements[/url]
 
 [color=#8e7cc3][b]Settlement Mod[/b][/color]
 [url=???]???[/url]
