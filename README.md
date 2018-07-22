@@ -240,3 +240,21 @@ Settlement Mod: [Red Rocket Settlements](https://www.nexusmods.com/fallout4/mods
 **Player Home:** Bed Only  
 **File Type:** ESL  
 [Nexus Download Link](https://www.nexusmods.com/fallout4/mods/33265)
+
+### Sim Settlements City Plans - Red Rocket Fort Hagen Outpost by Yagisan
+Red Rocket Fort Hagen Outpost is a small military outpost. It produces Junk-based robots, robot parts and military robot mods. It needs to import food and water from level 1. Includes a player bed. Supports 20 settlers.
+
+Due to limitations, advanced industrial plots will need to be manually upgraded to match the signage. Recommended to use the designer's choice.
+
+Settlement Mod: [Red Rocket Settlements](https://www.nexusmods.com/fallout4/mods/17681) Version 1.5
+
+**Known Issues**
+* IDEK's Logistics Station may not build. It goes next to the scavenging station.
+<br/>
+
+**Levels:** 3  
+**Balanced:** Yes  
+**Max Settlers:** 20  
+**Player Home:** Bed Only  
+**File Type:** ESL  
+[Nexus Download Link](https://www.nexusmods.com/fallout4/mods/33478)
