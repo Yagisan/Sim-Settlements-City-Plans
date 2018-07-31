@@ -23,6 +23,7 @@ The following settlement mods are used by the city plans in this repository.
 * [SS2 - Roadside Pines Motel](https://www.nexusmods.com/fallout4/mods/25871) ( RPHSettlement.esp )
 * [Natick Power Substation player settlement](https://www.nexusmods.com/fallout4/mods/29760) ( 123_settlement.esp )
 * [Red Rocket Settlements](https://www.nexusmods.com/fallout4/mods/17681) ( Red Rocket Settlements.esp ) Version 1.5
+* [Creation Club Nu Cafe Ola Full Settlement](https://www.nexusmods.com/fallout4/mods/33541) ( OP_CCNuCafeOlaFullSettlement.esl )
 
 ### Designer's Choice Mods
 Designer's Choice Mods are additional Sim Settlements plots that are used in most City Plans. To ensure the city plan looks as intended, you should have them installed.
@@ -80,6 +81,7 @@ Missing mods will result in missing items, missing plots and missing landscaping
 * [Home Decor Workshop Pack](https://creationclub.bethesda.net/en) ( cceejfo4001-decorationpack.esl )
 * [Arcade Workshop Pack](https://creationclub.bethesda.net/en) ( ccbgsfo4045-advarccab.esl )
 * [Coffee and Donuts Workshop Pack](https://creationclub.bethesda.net/en) (ccfsvfo4003-slocum.esl )
+* [Nuka-Cola Collector Workshop](https://creationclub.bethesda.net/en) (cceejfo4002-nuka.esl )
 
 ## City Plans
 ### Sim Settlements City Plans - Lakeside Cabin Brewery by Yagisan
@@ -258,3 +260,23 @@ Settlement Mod: [Red Rocket Settlements](https://www.nexusmods.com/fallout4/mods
 **Player Home:** Bed Only  
 **File Type:** ESL  
 [Nexus Download Link](https://www.nexusmods.com/fallout4/mods/33478)
+
+### Sim Settlements City Plans - Nu Cafe Ola Rest Stop by Yagisan
+Nu Cafe Ola Rest Stop is a small bar and rest house. It contains 2 planters for growing your choice of food. Includes a player bed. Supports 5 settlers.
+
+This mod REQUIRES the Nuka-Cola Collector Workshop Creation Club Content.
+
+Settlement Mod: [Creation Club Nu Cafe Ola Full Settlement](https://www.nexusmods.com/fallout4/mods/33541) ESL version.
+
+**Known Issues**
+* IDEK's Logistics Station may not build. It goes in the only plot.
+* There is no recruitment beacon. You should send 4 settlers to this settlement, with the city leader as the 5th.
+<br/>
+
+**Levels:** 1  
+**Balanced:** Yes  
+**Max Settlers:** 5  
+**Player Home:** Bed Only  
+**File Type:** ESL  
+[Nexus Download Link](https://www.nexusmods.com/fallout4/mods/33727)
+
