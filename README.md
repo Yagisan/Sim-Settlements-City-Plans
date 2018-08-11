@@ -280,3 +280,19 @@ Settlement Mod: [Creation Club Nu Cafe Ola Full Settlement](https://www.nexusmod
 **File Type:** ESL  
 [Nexus Download Link](https://www.nexusmods.com/fallout4/mods/33727)
 
+### Sim Settlements City Plans - Spectacle Island Training and Supply Centre by Yagisan and VikingBaggins
+Spectacle Island Training and Supply Centre is a huge island based settlement that produces a variety of essential supplies including ammunition, water, alcohol, food and building materials. Includes a small player home, and commercial services. Supports 40 settlers.
+
+Settlement Mod: None. Settlement from Fallout 4.
+
+**Known Issues**
+* IDEK's Logistics Station may not build. It goes opposite the import and export centre.
+<br/>
+
+**Levels:** 3  
+**Balanced:** Yes  
+**Max Settlers:** 40  
+**Player Home:** Yes  
+**File Type:** ESL  
+[Nexus Download Link]()
+
