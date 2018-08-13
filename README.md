@@ -296,3 +296,19 @@ Settlement Mod: None. Settlement from Fallout 4.
 **File Type:** ESL  
 [Nexus Download Link]()
 
+### Sim Settlements City Plans - The Overlook Observatory by Yagisan
+The Overlook Observatory is a small farming community centered around an observatory. It produces silt beans, brahmin milk, wild herbs and adhesive. There are no commercial services. It needs to import water from level 1. Includes a small player home. Supports 16 settlers.
+
+Settlement Mod: [Northern Exposure](https://www.nexusmods.com/fallout4/mods/29900)
+
+**Known Issues**
+* Bethesda has poorly navmeshed this location. The location has been built up with walkways and other dynamically navmeshed items to compensate, but settlers still get stuck and won't navigate the settlement.
+* IDEK's Logistics Station may not build. It goes opposite the city planners desk.
+<br/>
+
+**Levels:** 3  
+**Balanced:** Yes  
+**Max Settlers:** 16  
+**Player Home:** Yes  
+**File Type:** ESL  
+[Nexus Download Link](https://www.nexusmods.com/fallout4/mods/34082)
