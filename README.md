@@ -287,6 +287,7 @@ Settlement Mod: None. Settlement from Fallout 4.
 
 **Known Issues**
 * IDEK's Logistics Station may not build. It goes opposite the import and export centre.
+* Due to the size of this settlement location, Fallout 4 does not load it all into memory at once. This results in problems when starting the city plan. Items that should be scrapped, do not get scrapped. Items that should not be scrapped, get scrapped. This is random, and due to the engine. It is not a bug with this city plan or Sim Settlements.
 <br/>
 
 **Levels:** 3  
@@ -294,7 +295,7 @@ Settlement Mod: None. Settlement from Fallout 4.
 **Max Settlers:** 40  
 **Player Home:** Yes  
 **File Type:** ESL  
-[Nexus Download Link]()
+[Nexus Download Link](https://www.nexusmods.com/fallout4/mods/34330/)
 
 ### Sim Settlements City Plans - The Overlook Observatory by Yagisan
 The Overlook Observatory is a small farming community centered around an observatory. It produces silt beans, brahmin milk, wild herbs and adhesive. There are no commercial services. It needs to import water from level 1. Includes a small player home. Supports 16 settlers.
