@@ -313,3 +313,19 @@ Settlement Mod: [Northern Exposure](https://www.nexusmods.com/fallout4/mods/2990
 **Player Home:** Yes  
 **File Type:** ESL  
 [Nexus Download Link](https://www.nexusmods.com/fallout4/mods/34082)
+
+### Sim Settlements City Plans - Tenpines Bluff Plantation by Yagisan
+Tenpines Bluff Plantation is Yagisan's entry into the Sep 2018 City Plan design competition. Tenpines Bluff Plantation is a small farming community that produces razorgrain and silt beans. It also has a bar, doctor and a weapons store for all your hunting needs. Includes a small player home. Supports 15 settlers.
+
+Settlement Mod: None. Settlement from Fallout 4.
+
+**Known Issues**
+* IDEK's Logistics Station may not build. It goes in the only industrial plot.
+<br/>
+
+**Levels:** 3  
+**Balanced:** Yes  
+**Max Settlers:** 15  
+**Player Home:** Yes  
+**File Type:** ESL  
+[Nexus Download Link]()
