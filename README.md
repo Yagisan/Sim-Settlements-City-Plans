@@ -329,3 +329,20 @@ Settlement Mod: None. Settlement from Fallout 4.
 **Player Home:** Yes  
 **File Type:** ESL  
 [Nexus Download Link]()
+
+### Sim Settlements City Plans - Home Plate Rest Stop by Yagisan
+Home Plate Rest Stop is a small faction outpost and player home. It contains 2 shops, a farm, a martial plot, and an industrial plot. Includes a player bed. Supports 6 settlers.
+
+Settlement Mod: [Home Plate Full Settlement](https://www.nexusmods.com/fallout4/mods/34001) ESL version.
+
+**Known Issues**
+* IDEK's Logistics Station may not build. It goes in the only industrial plot.
+* There is no recruitment beacon. You should send 5 settlers to this settlement, with the city leader as the 6th.
+<br/>
+
+**Levels:** 1  
+**Balanced:** Yes  
+**Max Settlers:** 6  
+**Player Home:** Bed Only  
+**File Type:** ESL  
+[Nexus Download Link](https://www.nexusmods.com/fallout4/mods/34488)
