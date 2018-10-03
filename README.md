@@ -346,3 +346,19 @@ Settlement Mod: [Home Plate Full Settlement](https://www.nexusmods.com/fallout4/
 **Player Home:** Bed Only  
 **File Type:** ESL  
 [Nexus Download Link](https://www.nexusmods.com/fallout4/mods/34488)
+
+### Sim Settlements City Plans - Tenpines Bluff Brewery by Yagisan
+Tenpines Bluff Brewery is a small farming community that produces mixed crops, and wild ingredients for making beer. Featuring a Brewery, it also has a Tool and Die shop for increased crop yields. It has a rooftop bar, and a small general store for your shopping needs. Includes a small player home. Supports 15 settlers.
+
+Settlement Mod: None. Settlement from Fallout 4.
+
+**Known Issues**
+* IDEK's Logistics Station may not build. It goes in the only industrial plot.
+<br/>
+
+**Levels:** 3  
+**Balanced:** Yes  
+**Max Settlers:** 15  
+**Player Home:** Yes  
+**File Type:** ESL  
+[Nexus Download Link]()
