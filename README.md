@@ -24,6 +24,7 @@ The following settlement mods are used by the city plans in this repository.
 * [Natick Power Substation player settlement](https://www.nexusmods.com/fallout4/mods/29760) ( 123_settlement.esp )
 * [Red Rocket Settlements](https://www.nexusmods.com/fallout4/mods/17681) ( Red Rocket Settlements.esp ) Version 1.5
 * [Creation Club Nu Cafe Ola Full Settlement](https://www.nexusmods.com/fallout4/mods/33541) ( OP_CCNuCafeOlaFullSettlement.esl )
+* [Home Plate Full Settlement](https://www.nexusmods.com/fallout4/mods/34001) ( OP_HomePlateFullSettlement.esl )
 
 ### Designer's Choice Mods
 Designer's Choice Mods are additional Sim Settlements plots that are used in most City Plans. To ensure the city plan looks as intended, you should have them installed.
@@ -80,8 +81,9 @@ Missing mods will result in missing items, missing plots and missing landscaping
 
 * [Home Decor Workshop Pack](https://creationclub.bethesda.net/en) ( cceejfo4001-decorationpack.esl )
 * [Arcade Workshop Pack](https://creationclub.bethesda.net/en) ( ccbgsfo4045-advarccab.esl )
-* [Coffee and Donuts Workshop Pack](https://creationclub.bethesda.net/en) (ccfsvfo4003-slocum.esl )
-* [Nuka-Cola Collector Workshop](https://creationclub.bethesda.net/en) (cceejfo4002-nuka.esl )
+* [Coffee and Donuts Workshop Pack](https://creationclub.bethesda.net/en) ( ccfsvfo4003-slocum.esl )
+* [Nuka-Cola Collector Workshop](https://creationclub.bethesda.net/en) ( cceejfo4002-nuka.esl )
+* [Settlement Ambush Kit](https://creationclub.bethesda.net/en) ( cckgjfo4001-bastion.esl )
 
 ## City Plans
 ### Sim Settlements City Plans - Lakeside Cabin Brewery by Yagisan
