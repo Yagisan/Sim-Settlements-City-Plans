@@ -39,7 +39,7 @@ Missing mods will result in random plots taking the place of chosen plots. This 
 * [Sim Settlements - Industrial City](https://www.nexusmods.com/fallout4/mods/23948) ( IndustrialCity_Sim_Settlements_Addon.esp )  [Xbox One Link](https://bethesda.net/en/mods/fallout4/mod-detail/4021108)
 * [Sim Settlements - Ruined Homes and Gardens](https://www.nexusmods.com/fallout4/mods/23917) ( ruined_simsettlement_addonpack.esp )  [Xbox One Link](https://bethesda.net/en/mods/fallout4/mod-detail/4017575)
 * [Sim Settlements - Scrappers](https://www.nexusmods.com/fallout4/mods/25679) ( ohSIM_Sim_Settlements_Scrappers_Addon.esp )  [Xbox One Link](https://bethesda.net/en/mods/fallout4/mod-detail/4057112)
-* [Sim Settlements - SimHomestead](https://www.nexusmods.com/fallout4/mods/24491) ( SimHomestead.esp )
+* [Sim Settlements - SimHomestead](https://www.nexusmods.com/fallout4/mods/24491) ( SimHomestead.esp )  [Xbox One Link](https://bethesda.net/en/mods/fallout4/mod-detail/4031686)
 * [Sim Settlements - Altairp's Animal Farm](https://www.nexusmods.com/fallout4/mods/23421) ( Altairp's Animal Farm.esp )  [Xbox One Link](https://bethesda.net/en/mods/fallout4/mod-detail/4026243)
 * [Sim Settlements - Creations By COOTS](https://www.nexusmods.com/fallout4/mods/29250) ( SS_AddOn_CbC_AIO.esp )  [Xbox One Link](https://bethesda.net/en/mods/fallout4/mod-detail/4058771)
 * [Sim Settlements - Plots by Paw Paw](https://www.nexusmods.com/fallout4/mods/31473) ( SS_Addon_PbPP.esp )  [Xbox One Link](https://bethesda.net/en/mods/fallout4/mod-detail/4074490)
@@ -47,13 +47,14 @@ Missing mods will result in random plots taking the place of chosen plots. This 
 * [Sim Settlements - Vault-Tec Tools](https://www.nexusmods.com/fallout4/mods/31591) ( SSAOP_SamutzVault88.esp )  [Xbox One Link](https://bethesda.net/en/mods/fallout4/mod-detail/4065070)
 * [Sim Settlements - MrJoseCuervo Addon Pack](https://www.nexusmods.com/fallout4/mods/25085) ( MJC_Sim_Settlements_Addon.esp )  [Xbox One Link](https://bethesda.net/en/mods/fallout4/mod-detail/4026050)
 * [Sim Settlements - RS Buildings](https://www.nexusmods.com/fallout4/mods/31972) ( RS_Sim_AddOn.esp )
-* [Sim Settlements - Awsometown](https://www.nexusmods.com/fallout4/mods/27384) ( SimSettlements_AddOnPack_AwsomeTown.esp )
+* [Sim Settlements - Awsometown](https://www.nexusmods.com/fallout4/mods/27384) ( SimSettlements_AddOnPack_AwsomeTown.esp )  [Xbox One Link](https://bethesda.net/en/mods/fallout4/mod-detail/4039321)
+* [Sim Settlements - VFX Downtown](https://www.nexusmods.com/fallout4/mods/27384) ( https://www.nexusmods.com/fallout4/mods/31736 )  [Xbox One Link](https://bethesda.net/en/mods/fallout4/mod-detail/4081697)
 
 ### Required Structural Mods
 Required Structural Mods are additional mods used for building actual structures. To ensure the city plan looks as intended, you must have them installed.
 Missing mods will result in missing structures, including residences, walkways, walls and roofs. This is not a bug.
 
-* [Workshop Rearranged](https://www.nexusmods.com/fallout4/mods/16181) ( WorkshopRearranged.esp )
+* [Workshop Rearranged](https://www.nexusmods.com/fallout4/mods/16181) ( WorkshopRearranged.esp )  [Xbox One Link](https://bethesda.net/en/mods/fallout4/mod-detail/2154611)
 * [G2M - Workshop](https://www.nexusmods.com/fallout4/mods/17088) ( g2m_Workshop_Nexus.esp )
 * [Thematic and Practical](https://www.nexusmods.com/fallout4/mods/16207) ( Thematic and Practical.esp )
 * [Kraggles Structures](https://www.nexusmods.com/fallout4/mods/28588) ( Kraggles - Structures.esp )
@@ -62,9 +63,9 @@ Missing mods will result in missing structures, including residences, walkways, 
 Required Decoration Mods are additional mods used for landscaping and decoration. To ensure the city plan looks as intended, you should have them installed.
 Missing mods will result in missing items and missing landscaping. This is not a bug.
 
-* [CREAtive Clutter](https://www.nexusmods.com/fallout4/mods/20782) ( CREAtiveClutter.esp )
-* [Do It Yourshelf](https://www.nexusmods.com/fallout4/mods/14532) ( dinoshelf.esp )
-* [Modular Kitchen](https://www.nexusmods.com/fallout4/mods/17141) ( Evan_Modular Kitchen.esp )
+* [CREAtive Clutter](https://www.nexusmods.com/fallout4/mods/20782) ( CREAtiveClutter.esp )  [Xbox One Link](https://bethesda.net/en/mods/fallout4/mod-detail/3411962)
+* [Do It Yourshelf](https://www.nexusmods.com/fallout4/mods/14532) ( dinoshelf.esp )  [Xbox One Link](https://bethesda.net/en/mods/fallout4/mod-detail/1564166)
+* [Modular Kitchen](https://www.nexusmods.com/fallout4/mods/17141) ( Evan_Modular Kitchen.esp )  [Xbox One Link](https://bethesda.net/en/mods/fallout4/mod-detail/3465466)
 
 ### Suggested Decoration Mods
 Suggested Decoration Mods are additional mods used for landscaping and decoration. To ensure the city plan looks as intended, you should have them installed.
