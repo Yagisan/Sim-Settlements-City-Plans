@@ -13,6 +13,12 @@ It's goal is to provide a variety of themed City Plans, that are realistic and m
 * Vault-Tec Workshop
 * Nuka-World
 
+## Categories
+Plans are divided into 2 categories.
+[PCSM] are PC only plans, that require mods for significant structural work. These are Nexus only mods.
+[XB1] are Xbox One compatible city plans. They rely on vanilla and DLC structures, and may take advantage of Creation Club materials. They are available for both PC and Xbox One.
+
+
 ### Settlement Mods
 The following settlement mods are used by the city plans in this repository.
 
@@ -50,7 +56,7 @@ Missing mods will result in random plots taking the place of chosen plots. This 
 * [Sim Settlements - Awsometown](https://www.nexusmods.com/fallout4/mods/27384) ( SimSettlements_AddOnPack_AwsomeTown.esp )  [Xbox One Link](https://bethesda.net/en/mods/fallout4/mod-detail/4039321)
 * [Sim Settlements - VFX Downtown](https://www.nexusmods.com/fallout4/mods/31736) ( VFXAddon.esp )  [Xbox One Link](https://bethesda.net/en/mods/fallout4/mod-detail/4081697)
 
-### Required Structural Mods
+### Required Structural Mods. Needed for all [PCSM] plans.
 Required Structural Mods are additional mods used for building actual structures. To ensure the city plan looks as intended, you must have them installed.
 Missing mods will result in missing structures, including residences, walkways, walls and roofs. This is not a bug.
 
@@ -86,7 +92,7 @@ Missing mods will result in missing items, missing plots and missing landscaping
 * [Settlement Ambush Kit](https://creationclub.bethesda.net/en) ( cckgjfo4001-bastion.esl )
 
 ## City Plans
-### Sim Settlements City Plans - Lakeside Cabin Brewery by Yagisan
+### [PCSM] Sim Settlements City Plans - Lakeside Cabin Brewery by Yagisan
 Lakeside Cabin Brewery is an agricultural center that exports food and water, and produces wood, fertilizer and beer. Includes a small player home, and some commercial services. Supports 24 settlers.
 
 Due to limitations, advanced industrial plots will need to be manually upgraded to match the signage. Recommended to use the designer's choice.
@@ -105,7 +111,7 @@ Settlement Mod: [Lakeside Cabin Redux](https://www.nexusmods.com/fallout4/mods/1
 **File Type:** ESL  
 [Nexus Download Link](https://www.nexusmods.com/fallout4/mods/31132)
 
-### Sim Settlements City Plans - Northwest Pylon Mines by Yagisan
+### [PCSM] Sim Settlements City Plans - Northwest Pylon Mines by Yagisan
 Northwest Pylon Mines is a mining center that produces ore and concrete. It is self-sufficient. Includes a small player home, and some commercial services. Supports 17 settlers.
 
 Due to limitations, advanced industrial plots will need to be manually upgraded to match the signage. Recommended to use the designer's choice.
@@ -123,7 +129,7 @@ Settlement Mod: [Northern Exposure](https://www.nexusmods.com/fallout4/mods/2990
 **File Type:** ESL  
 [Nexus Download Link](https://www.nexusmods.com/fallout4/mods/31238)
 
-### Sim Settlements City Plans - Lakeside Pumpstation Fishery by Yagisan
+### [PCSM] Sim Settlements City Plans - Lakeside Pumpstation Fishery by Yagisan
 Lakeside Pumpstation Fishery is a fishing village that produces fish, oil and bone. It is self-sufficient. Includes a small player home, and some commercial services. Supports 16 settlers.
 
 Settlement Mod: [Northern Exposure](https://www.nexusmods.com/fallout4/mods/29900)
@@ -139,7 +145,7 @@ Settlement Mod: [Northern Exposure](https://www.nexusmods.com/fallout4/mods/2990
 **File Type:** ESL  
 [Nexus Download Link](https://www.nexusmods.com/fallout4/mods/32147)
 
-### Sim Settlements City Plans - Vault 111 Medical Centre by Yagisan
+### [PCSM] Sim Settlements City Plans - Vault 111 Medical Centre by Yagisan
 Vault 111 Medical Centre is a medical vault that produces generic scrap and prepared meals. It is self-sufficient. Includes player bed, and some commercial services. Supports 24 settlers.
 
 Settlement Mod: [Vault 111 Settlement](https://www.nexusmods.com/fallout4/mods/19663)
@@ -157,7 +163,7 @@ Settlement Mod: [Vault 111 Settlement](https://www.nexusmods.com/fallout4/mods/1
 **File Type:** ESL  
 [Nexus Download Link](https://www.nexusmods.com/fallout4/mods/32152)
 
-### Sim Settlements City Plans - Fallen Tree Valley Molerat Ranch by Yagisan and UniversalLibrary
+### [PCSM] Sim Settlements City Plans - Fallen Tree Valley Molerat Ranch by Yagisan and UniversalLibrary
 Fallen Tree Valley Molerat Ranch is a large molerat ranch, producing both molerat meat and milk. It also produces wood, oil and wild flowers. It will need to import water from level 3. Includes a small player home, and some commercial services. Supports 20 settlers.
 
 Settlement Mod: [Northern Exposure](https://www.nexusmods.com/fallout4/mods/29900)
@@ -173,7 +179,7 @@ Settlement Mod: [Northern Exposure](https://www.nexusmods.com/fallout4/mods/2990
 **File Type:** ESL  
 [Nexus Download Link](https://www.nexusmods.com/fallout4/mods/32362)
 
-### Sim Settlements City Plans - Mass Fusion Containment Shed Nuclear Reprocessing by Yagisan
+### [PCSM] Sim Settlements City Plans - Mass Fusion Containment Shed Nuclear Reprocessing by Yagisan
 Mass Fusion Containment Shed Nuclear Reprocessing is a large industrial site that reprocesses nuclear material and produces nuclear weapons, fusion cores, microfusion cells, and a large amount of general scrap. It needs to import food from level 1. Includes player bed, and some commercial services. Supports 30 settlers.
 
 Due to limitations, advanced industrial plots will need to be manually upgraded to match the signage. Recommended to use the designer's choice.
@@ -191,7 +197,7 @@ Settlement Mod: [Mass Fusion Containment Settlement](https://www.nexusmods.com/f
 **File Type:** ESL  
 [Nexus Download Link](https://www.nexusmods.com/fallout4/mods/32668)
 
-### Sim Settlements City Plans - Roadside Pines Motel Trading Post by Yagisan
+### [PCSM] Sim Settlements City Plans - Roadside Pines Motel Trading Post by Yagisan
 Roadside Pines Motel Trading Post is a commercial center that produces water, caps and explosives. It is self-sufficient. Includes a player home. Supports 20 settlers.
 
 Due to limitations, advanced industrial plots will need to be manually upgraded to match the signage. Recommended to use the designer's choice.
@@ -209,7 +215,7 @@ Settlement Mod: [SS2 - Roadside Pines Motel](https://www.nexusmods.com/fallout4/
 **File Type:** ESL  
 [Nexus Download Link](https://www.nexusmods.com/fallout4/mods/33259)
 
-### Sim Settlements City Plans - Natick Power Substation Industrial Park by Yagisan
+### [PCSM] Sim Settlements City Plans - Natick Power Substation Industrial Park by Yagisan
 Natick Power Substation Industrial Park is an industrial center that produces ammunition, military salvage and ballistic material. It is self-sufficient. Includes a player home. Supports 20 settlers.
 
 Due to limitations, advanced industrial plots will need to be manually upgraded to match the signage. Recommended to use the designer's choice.
@@ -227,7 +233,7 @@ Settlement Mod: [Natick Power Substation player settlement](https://www.nexusmod
 **File Type:** ESL  
 [Nexus Download Link](https://www.nexusmods.com/fallout4/mods/33262)
 
-### Sim Settlements City Plans - Red Rocket Natick Outpost by Yagisan
+### [PCSM] Sim Settlements City Plans - Red Rocket Natick Outpost by Yagisan
 Red Rocket Natick Outpost is a small military outpost. It produces ultra-pure water and coal. It is self-sufficient. Includes a player bed. Supports 16 settlers.
 
 Due to limitations, advanced industrial plots will need to be manually upgraded to match the signage. Recommended to use the designer's choice.
@@ -245,7 +251,7 @@ Settlement Mod: [Red Rocket Settlements](https://www.nexusmods.com/fallout4/mods
 **File Type:** ESL  
 [Nexus Download Link](https://www.nexusmods.com/fallout4/mods/33265)
 
-### Sim Settlements City Plans - Red Rocket Fort Hagen Outpost by Yagisan
+### [PCSM] Sim Settlements City Plans - Red Rocket Fort Hagen Outpost by Yagisan
 Red Rocket Fort Hagen Outpost is a small military outpost. It produces Junk-based robots, robot parts and military robot mods. It needs to import food and water from level 1. Includes a player bed. Supports 20 settlers.
 
 Due to limitations, advanced industrial plots will need to be manually upgraded to match the signage. Recommended to use the designer's choice.
@@ -263,7 +269,7 @@ Settlement Mod: [Red Rocket Settlements](https://www.nexusmods.com/fallout4/mods
 **File Type:** ESL  
 [Nexus Download Link](https://www.nexusmods.com/fallout4/mods/33478)
 
-### Sim Settlements City Plans - Nu Cafe Ola Rest Stop by Yagisan
+### [PCSM] Sim Settlements City Plans - Nu Cafe Ola Rest Stop by Yagisan
 Nu Cafe Ola Rest Stop is a small bar and rest house. It contains 2 planters for growing your choice of food. Includes a player bed. Supports 5 settlers.
 
 This mod REQUIRES the Nuka-Cola Collector Workshop Creation Club Content.
@@ -282,7 +288,7 @@ Settlement Mod: [Creation Club Nu Cafe Ola Full Settlement](https://www.nexusmod
 **File Type:** ESL  
 [Nexus Download Link](https://www.nexusmods.com/fallout4/mods/33727)
 
-### Sim Settlements City Plans - Spectacle Island Training and Supply Centre by Yagisan and VikingBaggins
+### [PCSM] Sim Settlements City Plans - Spectacle Island Training and Supply Centre by Yagisan and VikingBaggins
 Spectacle Island Training and Supply Centre is a huge island based settlement that produces a variety of essential supplies including ammunition, water, alcohol, food and building materials. Includes a small player home, and commercial services. Supports 40 settlers.
 
 Settlement Mod: None. Settlement from Fallout 4.
@@ -299,7 +305,7 @@ Settlement Mod: None. Settlement from Fallout 4.
 **File Type:** ESL  
 [Nexus Download Link](https://www.nexusmods.com/fallout4/mods/34330/)
 
-### Sim Settlements City Plans - The Overlook Observatory by Yagisan
+### [PCSM] Sim Settlements City Plans - The Overlook Observatory by Yagisan
 The Overlook Observatory is a small farming community centered around an observatory. It produces silt beans, brahmin milk, wild herbs and adhesive. There are no commercial services. It needs to import water from level 1. Includes a small player home. Supports 16 settlers.
 
 Settlement Mod: [Northern Exposure](https://www.nexusmods.com/fallout4/mods/29900)
@@ -332,7 +338,7 @@ Settlement Mod: None. Settlement from Fallout 4.
 **File Type:** ESL  
 [Nexus Download Link]()
 
-### Sim Settlements City Plans - Home Plate Rest Stop by Yagisan
+### [PCSM] Sim Settlements City Plans - Home Plate Rest Stop by Yagisan
 Home Plate Rest Stop is a small faction outpost and player home. It contains 2 shops, a farm, a martial plot, and an industrial plot. Includes a player bed. Supports 6 settlers.
 
 Settlement Mod: [Home Plate Full Settlement](https://www.nexusmods.com/fallout4/mods/34001) ESL version.
@@ -349,7 +355,7 @@ Settlement Mod: [Home Plate Full Settlement](https://www.nexusmods.com/fallout4/
 **File Type:** ESL  
 [Nexus Download Link](https://www.nexusmods.com/fallout4/mods/34488)
 
-### Sim Settlements City Plans - Tenpines Bluff Brewery by Yagisan
+### [XB1] Sim Settlements City Plans - Tenpines Bluff Brewery by Yagisan
 Tenpines Bluff Brewery is a small farming community that produces mixed crops, and wild ingredients for making beer. Featuring a Brewery, it also has a Tool and Die shop for increased crop yields. It has a rooftop bar, and a small general store for your shopping needs. Includes a small player home. Supports 15 settlers.
 
 Settlement Mod: None. Settlement from Fallout 4.
