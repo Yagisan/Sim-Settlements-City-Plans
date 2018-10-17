@@ -48,7 +48,7 @@ Missing mods will result in random plots taking the place of chosen plots. This 
 * [Sim Settlements - MrJoseCuervo Addon Pack](https://www.nexusmods.com/fallout4/mods/25085) ( MJC_Sim_Settlements_Addon.esp )  [Xbox One Link](https://bethesda.net/en/mods/fallout4/mod-detail/4026050)
 * [Sim Settlements - RS Buildings](https://www.nexusmods.com/fallout4/mods/31972) ( RS_Sim_AddOn.esp )
 * [Sim Settlements - Awsometown](https://www.nexusmods.com/fallout4/mods/27384) ( SimSettlements_AddOnPack_AwsomeTown.esp )  [Xbox One Link](https://bethesda.net/en/mods/fallout4/mod-detail/4039321)
-* [Sim Settlements - VFX Downtown](https://www.nexusmods.com/fallout4/mods/27384) ( https://www.nexusmods.com/fallout4/mods/31736 )  [Xbox One Link](https://bethesda.net/en/mods/fallout4/mod-detail/4081697)
+* [Sim Settlements - VFX Downtown](https://www.nexusmods.com/fallout4/mods/31736) ( VFXAddon.esp )  [Xbox One Link](https://bethesda.net/en/mods/fallout4/mod-detail/4081697)
 
 ### Required Structural Mods
 Required Structural Mods are additional mods used for building actual structures. To ensure the city plan looks as intended, you must have them installed.
