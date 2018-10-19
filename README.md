@@ -370,3 +370,19 @@ Settlement Mod: None. Settlement from Fallout 4.
 **Player Home:** Yes  
 **File Type:** ESL  
 [Nexus Download Link]()
+
+### [XB1] Sim Settlements City Plans - Sunshine Tidings Mercer Safehouse by Yagisan
+Sunshine Tidings Mercer Safehouse is Yagisan's entry into the Oct 2018 City Plan design competition. Sunshine Tidings Mercer Safehouse is a small farming community that produces mixed produce. Sporting a bar, furniture store, pizzeria, and a fully equiped workshop. Includes a small player home. Supports 15 settlers.
+
+Settlement Mod: None. Settlement from Fallout 4.
+
+**Known Issues**
+* IDEK's Logistics Station may not build. It goes next to the break room.
+<br/>
+
+**Levels:** 3  
+**Balanced:** Yes  
+**Max Settlers:** 15  
+**Player Home:** Yes  
+**File Type:** ESL  
+[Nexus Download Link]()
