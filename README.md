@@ -22,15 +22,20 @@ Plans are divided into 2 categories.
 ### Settlement Mods
 The following settlement mods are used by the city plans in this repository.
 
-* [Lakeside Cabin Redux](https://www.nexusmods.com/fallout4/mods/19463) ( LakesideCabinReduxExpanded.esp )
+* [Settlements Redone - Red Rocket Settlements](https://www.nexusmods.com/fallout4/mods/35405) ( Yagisan_SSSL_Red_Rocket_Settlements.esl Yagisan_SSSL_Quick_Fill_Settlements.esl )
+* [Settlements Redone - Lakeside Cabin Settlement](https://www.nexusmods.com/fallout4/mods/35553) ( Yagisan_SSSL_Lakeside_Cabin_Settlement.esl )
 * [Northern Exposure](https://www.nexusmods.com/fallout4/mods/29900) ( 100_collection_North.esp )
 * [Vault 111 Settlement](https://www.nexusmods.com/fallout4/mods/19663) ( SettlementVault111.esp )
 * [Mass Fusion Containment Settlement](https://www.nexusmods.com/fallout4/mods/19134) ( MassFusionContainmentSettlement.esp )
 * [SS2 - Roadside Pines Motel](https://www.nexusmods.com/fallout4/mods/25871) ( RPHSettlement.esp )
 * [Natick Power Substation player settlement](https://www.nexusmods.com/fallout4/mods/29760) ( 123_settlement.esp )
-* [Red Rocket Settlements](https://www.nexusmods.com/fallout4/mods/17681) ( Red Rocket Settlements.esp ) Version 1.5
 * [Creation Club Nu Cafe Ola Full Settlement](https://www.nexusmods.com/fallout4/mods/33541) ( OP_CCNuCafeOlaFullSettlement.esl )
 * [Home Plate Full Settlement](https://www.nexusmods.com/fallout4/mods/34001) ( OP_HomePlateFullSettlement.esl )
+
+### Depreciated Settlement Mods
+The following settlement mods were used by the city plans in this repository. No further plans will be made for these mods.
+* [Lakeside Cabin Redux](https://www.nexusmods.com/fallout4/mods/19463) ( LakesideCabinReduxExpanded.esp )
+* [Red Rocket Settlements](https://www.nexusmods.com/fallout4/mods/17681) ( Red Rocket Settlements.esp ) Version 1.5
 
 ### Designer's Choice Mods
 Designer's Choice Mods are additional Sim Settlements plots that are used in most City Plans. To ensure the city plan looks as intended, you should have them installed.
