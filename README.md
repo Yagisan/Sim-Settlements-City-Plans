@@ -97,25 +97,6 @@ Missing mods will result in missing items, missing plots and missing landscaping
 * [Settlement Ambush Kit](https://creationclub.bethesda.net/en) ( cckgjfo4001-bastion.esl )
 
 ## City Plans
-### [PCSM] Sim Settlements City Plans - Lakeside Cabin Brewery by Yagisan
-Lakeside Cabin Brewery is an agricultural center that exports food and water, and produces wood, fertilizer and beer. Includes a small player home, and some commercial services. Supports 24 settlers.
-
-Due to limitations, advanced industrial plots will need to be manually upgraded to match the signage. Recommended to use the designer's choice.
-
-Settlement Mod: [Lakeside Cabin Redux](https://www.nexusmods.com/fallout4/mods/19463)
-
-**Known Issues**
-* Existing Trader may fight the guards and die. Usually contains loot is very helpful for upgrading the city.
-* IDEK's Logistics Station may not build. It goes in the lower internal industrial plot.
-<br/>
-
-**Levels:** 3  
-**Balanced:** Yes  
-**Max Settlers:** 24  
-**Player Home:** Yes  
-**File Type:** ESL  
-[Nexus Download Link](https://www.nexusmods.com/fallout4/mods/31132)
-
 ### [PCSM] Sim Settlements City Plans - Northwest Pylon Mines by Yagisan
 Northwest Pylon Mines is a mining center that produces ore and concrete. It is self-sufficient. Includes a small player home, and some commercial services. Supports 17 settlers.
 
@@ -238,41 +219,7 @@ Settlement Mod: [Natick Power Substation player settlement](https://www.nexusmod
 **File Type:** ESL  
 [Nexus Download Link](https://www.nexusmods.com/fallout4/mods/33262)
 
-### [PCSM] Sim Settlements City Plans - Red Rocket Natick Outpost by Yagisan
-Red Rocket Natick Outpost is a small military outpost. It produces ultra-pure water and coal. It is self-sufficient. Includes a player bed. Supports 16 settlers.
 
-Due to limitations, advanced industrial plots will need to be manually upgraded to match the signage. Recommended to use the designer's choice.
-
-Settlement Mod: [Red Rocket Settlements](https://www.nexusmods.com/fallout4/mods/17681) Version 1.5
-
-**Known Issues**
-* IDEK's Logistics Station may not build. It goes opposite the saw mill.
-<br/>
-
-**Levels:** 3  
-**Balanced:** Yes  
-**Max Settlers:** 16  
-**Player Home:** Bed Only  
-**File Type:** ESL  
-[Nexus Download Link](https://www.nexusmods.com/fallout4/mods/33265)
-
-### [PCSM] Sim Settlements City Plans - Red Rocket Fort Hagen Outpost by Yagisan
-Red Rocket Fort Hagen Outpost is a small military outpost. It produces Junk-based robots, robot parts and military robot mods. It needs to import food and water from level 1. Includes a player bed. Supports 20 settlers.
-
-Due to limitations, advanced industrial plots will need to be manually upgraded to match the signage. Recommended to use the designer's choice.
-
-Settlement Mod: [Red Rocket Settlements](https://www.nexusmods.com/fallout4/mods/17681) Version 1.5
-
-**Known Issues**
-* IDEK's Logistics Station may not build. It goes next to the scavenging station.
-<br/>
-
-**Levels:** 3  
-**Balanced:** Yes  
-**Max Settlers:** 20  
-**Player Home:** Bed Only  
-**File Type:** ESL  
-[Nexus Download Link](https://www.nexusmods.com/fallout4/mods/33478)
 
 ### [PCSM] Sim Settlements City Plans - Nu Cafe Ola Rest Stop by Yagisan
 Nu Cafe Ola Rest Stop is a small bar and rest house. It contains 2 planters for growing your choice of food. Includes a player bed. Supports 5 settlers.
@@ -391,3 +338,62 @@ Settlement Mod: None. Settlement from Fallout 4.
 **Player Home:** Yes  
 **File Type:** ESL  
 [Nexus Download Link]()
+
+## Discontinued City Plans
+These city plans, were built for settlement mods that are no longer supported. The plans work correctly, but I would urge you to replace those settlement mods, and these plans, at the end of your playthrough.
+Each of these plans has one or more replacement plans for the designed for the replacement mod.
+
+### [PCSM] Sim Settlements City Plans - Lakeside Cabin Brewery by Yagisan
+Lakeside Cabin Brewery is an agricultural center that exports food and water, and produces wood, fertilizer and beer. Includes a small player home, and some commercial services. Supports 24 settlers.
+
+Due to limitations, advanced industrial plots will need to be manually upgraded to match the signage. Recommended to use the designer's choice.
+
+Settlement Mod: [Lakeside Cabin Redux](https://www.nexusmods.com/fallout4/mods/19463)
+
+**Known Issues**
+* Existing Trader may fight the guards and die. Usually contains loot is very helpful for upgrading the city.
+* IDEK's Logistics Station may not build. It goes in the lower internal industrial plot.
+<br/>
+
+**Levels:** 3  
+**Balanced:** Yes  
+**Max Settlers:** 24  
+**Player Home:** Yes  
+**File Type:** ESL  
+[Nexus Download Link](https://www.nexusmods.com/fallout4/mods/31132)
+
+### [PCSM] Sim Settlements City Plans - Red Rocket Natick Outpost by Yagisan
+Red Rocket Natick Outpost is a small military outpost. It produces ultra-pure water and coal. It is self-sufficient. Includes a player bed. Supports 16 settlers.
+
+Due to limitations, advanced industrial plots will need to be manually upgraded to match the signage. Recommended to use the designer's choice.
+
+Settlement Mod: [Red Rocket Settlements](https://www.nexusmods.com/fallout4/mods/17681) Version 1.5
+
+**Known Issues**
+* IDEK's Logistics Station may not build. It goes opposite the saw mill.
+<br/>
+
+**Levels:** 3  
+**Balanced:** Yes  
+**Max Settlers:** 16  
+**Player Home:** Bed Only  
+**File Type:** ESL  
+[Nexus Download Link](https://www.nexusmods.com/fallout4/mods/33265)
+
+### [PCSM] Sim Settlements City Plans - Red Rocket Fort Hagen Outpost by Yagisan
+Red Rocket Fort Hagen Outpost is a small military outpost. It produces Junk-based robots, robot parts and military robot mods. It needs to import food and water from level 1. Includes a player bed. Supports 20 settlers.
+
+Due to limitations, advanced industrial plots will need to be manually upgraded to match the signage. Recommended to use the designer's choice.
+
+Settlement Mod: [Red Rocket Settlements](https://www.nexusmods.com/fallout4/mods/17681) Version 1.5
+
+**Known Issues**
+* IDEK's Logistics Station may not build. It goes next to the scavenging station.
+<br/>
+
+**Levels:** 3  
+**Balanced:** Yes  
+**Max Settlers:** 20  
+**Player Home:** Bed Only  
+**File Type:** ESL  
+[Nexus Download Link](https://www.nexusmods.com/fallout4/mods/33478)
