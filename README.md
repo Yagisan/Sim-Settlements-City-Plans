@@ -288,7 +288,7 @@ Settlement Mod: None. Settlement from Fallout 4.
 **Max Settlers:** 15  
 **Player Home:** Yes  
 **File Type:** ESL  
-[Nexus Download Link]()
+[Nexus Download Link](https://www.nexusmods.com/fallout4/mods/35648)
 
 ### [PCSM] Sim Settlements City Plans - Home Plate Rest Stop by Yagisan
 Home Plate Rest Stop is a small faction outpost and player home. It contains 2 shops, a farm, a martial plot, and an industrial plot. Includes a player bed. Supports 6 settlers.
@@ -321,7 +321,7 @@ Settlement Mod: None. Settlement from Fallout 4.
 **Max Settlers:** 15  
 **Player Home:** Yes  
 **File Type:** ESL  
-[Nexus Download Link]()
+[Nexus Download Link](https://www.nexusmods.com/fallout4/mods/35478)
 
 ### [XB1] Sim Settlements City Plans - Sunshine Tidings Mercer Safehouse by Yagisan
 Sunshine Tidings Mercer Safehouse is Yagisan's entry into the Oct 2018 City Plan design competition. Sunshine Tidings Mercer Safehouse is a small "farming" community that produces mixed produce. Sporting a bar, furniture store, pizzeria, and a fully equiped workshop. Includes a small player home. Supports 15 settlers.
@@ -335,6 +335,18 @@ Settlement Mod: None. Settlement from Fallout 4.
 **Levels:** 3  
 **Balanced:** Yes  
 **Max Settlers:** 15  
+**Player Home:** Yes  
+**File Type:** ESL  
+[Nexus Download Link]()
+
+### [XB1] Sim Settlements City Plans - Red Rocket Lexington Minuteman Fort by Yagisan
+Red Rocket Lexington Minuteman Fort is a small military outpost. It produces tech salvage and some scrap. With both a bar, and a doctor in the heart of Lexington. Depends on supply lines for food and additional water. Includes a small player home. Supports 12 settlers.
+
+Settlement Mod: [Settlements Redone - Red Rocket Settlements](https://www.nexusmods.com/fallout4/mods/35405)
+
+**Levels:** 3  
+**Balanced:** Yes  
+**Max Settlers:** 12  
 **Player Home:** Yes  
 **File Type:** ESL  
 [Nexus Download Link]()
