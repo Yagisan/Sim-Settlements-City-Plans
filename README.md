@@ -351,6 +351,18 @@ Settlement Mod: [Settlements Redone - Red Rocket Settlements](https://www.nexusm
 **File Type:** ESL  
 [Nexus Download Link]()
 
+### [XB1] Sim Settlements City Plans - Red Rocket Natick Minuteman Fort by Yagisan
+Red Rocket Natick Minuteman Fort is a small military outpost. It produces ultra-pure water and coal. With a bar, and a full complement of crafting stations, on the edge of the glowing sea. Depends on supply lines for additional food. Includes a small player home. Supports 12 settlers.
+
+Settlement Mod: [Settlements Redone - Red Rocket Settlements](https://www.nexusmods.com/fallout4/mods/35405)
+
+**Levels:** 3  
+**Balanced:** Yes  
+**Max Settlers:** 12  
+**Player Home:** Yes  
+**File Type:** ESL  
+[Nexus Download Link]()
+
 ## Discontinued City Plans
 These city plans, were built for settlement mods that are no longer supported. The plans work correctly, but I would urge you to replace those settlement mods, and these plans, at the end of your playthrough.
 Each of these plans has one or more replacement plans for the designed for the replacement mod.
