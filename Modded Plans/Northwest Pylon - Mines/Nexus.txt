@@ -1,0 +1,77 @@
+[font=Verdana][PCSM] Sim Settlements City Plans - Northwest Pylon Mines by Yagisan
+
+Northwest Pylon Mines is a mining center that produces ore and concrete. It is self-sufficient. Includes a small player home, and some commercial services. Supports 17 settlers.
+
+[color=#6d9eeb][b]Settlement: Northwest Pylon[/b][/color]
+[url=https://www.nexusmods.com/fallout4/mods/21872]Requires Version 3.5.0 or Greater of Sim Settlements 3-In-1[/url]
+
+[color=#8e7cc3][b]Settlement Mod[/b][/color]
+[url=https://www.nexusmods.com/fallout4/mods/29900]Northern Exposure[/url]
+
+[b]Levels:[/b] 3
+[b]Balanced:[/b] Yes
+[b]Max Settlers:[/b] 17
+[b]Player Home:[/b] Yes
+[b]File Type:[/b] ESL
+
+[color=#8e7cc3][b]Required DLC[/b][/color]
+Automatron
+Wasteland Workshop
+Far Harbor
+Contraptions Workshop
+Vault-Tec Workshop
+Nuka-World
+
+[color=#8e7cc3][b]Yagisan's Standard Designer's Choice Mods[/b][/color]
+Designer's Choice Mods are additional Sim Settlements plots that are used in most City Plans. To ensure the city plan looks as intended, you should have them installed.
+Missing mods will result in random plots taking the place of chosen plots. This may result in settlements not matching their themes.
+[url=https://www.nexusmods.com/fallout4/mods/28945]Sim Settlements - IDEK's Logistics Station[/url] (ESL Version)
+[url=https://www.nexusmods.com/fallout4/mods/30396]Sim Settlements - Mega Pack - Year One[/url]
+[url=https://www.nexusmods.com/fallout4/mods/26107]Sim Settlements - Junk Town[/url]
+[url=https://www.nexusmods.com/fallout4/mods/31206]Sim Settlements - Flotsam and Jetsam[/url]
+[url=https://www.nexusmods.com/fallout4/mods/30081]Sim Settlements - Wasteland Venturers 2[/url] (All-In-One)
+[url=https://www.nexusmods.com/fallout4/mods/23948]Sim Settlements - Industrial City[/url]
+[url=https://www.nexusmods.com/fallout4/mods/23917]Sim Settlements - Ruined Homes and Gardens[/url]
+[url=https://www.nexusmods.com/fallout4/mods/25679]Sim Settlements - Scrappers[/url]
+[url=https://www.nexusmods.com/fallout4/mods/24491]Sim Settlements - SimHomestead[/url]
+[url=https://www.nexusmods.com/fallout4/mods/23421]Sim Settlements - Altairp's Animal Farm[/url]
+[url=https://www.nexusmods.com/fallout4/mods/29250]Sim Settlements - Creations By COOTS[/url]
+[url=https://www.nexusmods.com/fallout4/mods/25085]Sim Settlements - MrJoseCuervo Addon Pack[/url]
+[url=https://www.nexusmods.com/fallout4/mods/31365]Sim Settlements - VaultLand[/url]
+[url=https://www.nexusmods.com/fallout4/mods/31591]Sim Settlements - Vault-Tec Tools[/url]
+[url=https://www.nexusmods.com/fallout4/mods/27384]Sim Settlements - Awsometown[/url]
+[url=https://www.nexusmods.com/fallout4/mods/31972]Sim Settlements - RS Buildings[/url]
+[url=https://www.nexusmods.com/fallout4/mods/31473]Sim Settlements - Plots by Paw Paw[/url]
+[url=https://www.nexusmods.com/fallout4/mods/31736]Sim Settlements - VFX Downtown[/url]
+
+[color=#8e7cc3][b]Required Structural Mods[/b][/color]
+Required Structural Mods are additional mods used for building actual structures. To ensure the city plan looks as intended, you must have them installed.
+Missing mods will result in missing structures, including residences, walkways, walls and roofs. This is not a bug.
+[url=https://www.nexusmods.com/fallout4/mods/16181]Workshop Rearranged[/url]
+[url=https://www.nexusmods.com/fallout4/mods/17088]G2M - Workshop[/url]
+[url=https://www.nexusmods.com/fallout4/mods/16207]Thematic and Practical[/url]
+[url=https://www.nexusmods.com/fallout4/mods/28588]Kraggles Structures[/url]
+
+[color=#8e7cc3][b]Required Decoration Mods[/b][/color]
+Required Decoration Mods are additional mods used for landscaping and decoration. To ensure the city plan looks as intended, you should have them installed.
+Missing mods will result in missing items and missing landscaping. This is not a bug.
+[url=https://www.nexusmods.com/fallout4/mods/20782]CREAtive Clutter[/url]
+[url=https://www.nexusmods.com/fallout4/mods/14532]Do It Yourshelf[/url]
+[url=https://www.nexusmods.com/fallout4/mods/17141]Modular Kitchen[/url]
+
+[color=#8e7cc3][b]Suggested Decoration Mods[/b][/color]
+Suggested Decoration Mods are additional mods used for landscaping and decoration. To ensure the city plan looks as intended, you should have them installed.
+Missing mods will result in missing items and missing landscaping. This is not a bug.
+[url=https://www.nexusmods.com/fallout4/mods/9048]Old World Radio[/url]
+[url=https://www.nexusmods.com/fallout4/mods/7145]Lore Friendly Posters[/url]
+[url=https://www.nexusmods.com/fallout4/mods/17168]Solar Panels[/url]
+
+[color=#8e7cc3][b]Yagisan's Suggested Creation Club Items[/b][/color]
+Suggested Creation Club Items are additional mods used for landscaping and decoration. To ensure the city plan looks as intended, you should have them installed.
+Missing mods will result in missing items, missing plots and missing landscaping. This is not a bug.
+[url=https://creationclub.bethesda.net/en]Home Decor Workshop Pack[/url] (cceejfo4001-decorationpack.esl)
+[url=https://creationclub.bethesda.net/en]Arcade Workshop Pack[/url] (ccbgsfo4045-advarccab.esl)
+[url=https://creationclub.bethesda.net/en]Coffee and Donuts Workshop Pack[/url] (ccfsvfo4003-slocum.esl)
+[url=https://creationclub.bethesda.net/en]Nuka-Cola Collector Workshop[/url] (cceejfo4002-nuka.esl)
+[url=https://creationclub.bethesda.net/en]Settlement Ambush Kit[/url] (cckgjfo4001-bastion.esl)
+[/font]
