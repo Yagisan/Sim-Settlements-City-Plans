@@ -10,7 +10,9 @@ Due to limitations, advanced industrial plots will need to be manually upgraded 
 [color=#8e7cc3][b]Settlement Mod[/b][/color]
 [url=https://www.nexusmods.com/fallout4/mods/17681]Red Rocket Settlements[/url] Version 1.5
 
-[color=#8b0000][b]Please note: You are strongly recommended to switch to [url=https://www.nexusmods.com/fallout4/mods/35405]Settlements Redone - Red Rocket Settlements[/url] at the completion of your current playthrough, and to use the new City Plans made for that mod. No new city plans will be made for this mod.[/b][/color]
+[color=#8b0000][b]This city plan, was built for a settlement mod that I no longer support. The plan works correctly, but I would urge you to replace this settlement mod, and this plan, at the end of your playthrough.
+
+I strongly recommend you to switch to [url=https://www.nexusmods.com/fallout4/mods/35405]Settlements Redone - Red Rocket Settlements[/url] at the completion of your current playthrough, and to use the new City Plans made for that mod. No new city plans will be made for this mod.[/b][/color]
 
 [b]Levels:[/b] 3
 [b]Balanced:[/b] Yes
