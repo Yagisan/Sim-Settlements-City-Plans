@@ -8,7 +8,7 @@ Lakeside Cabin Brewery is an agricultural center that exports food and water, an
 [color=#8e7cc3][b]Settlement Mod[/b][/color]
 [url=https://www.nexusmods.com/fallout4/mods/19463]Lakeside Cabin Redux[/url]
 
-[color=#8b0000][b]This city plan, was built for a settlement mod that I no longer support. The plan works correctly, but I would urge you to replace this settlement mod, and this plan, at the end of your playthrough.
+[color=#ff0000][b]This city plan, was built for a settlement mod that I no longer support. The plan works correctly, but I would urge you to replace this settlement mod, and this plan, at the end of your playthrough.
 
 I strongly recommend you to switch to [url=https://www.nexusmods.com/fallout4/mods/35553]Settlements Redone - Lakeside Cabin Settlement[/url] at the completion of your current playthrough, and to use the new City Plans made for that mod. No new city plans will be made for this mod.[/b][/color]
 
