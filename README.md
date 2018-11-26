@@ -363,6 +363,19 @@ Settlement Mod: [Settlements Redone - Red Rocket Settlements](https://www.nexusm
 **File Type:** ESL  
 [Nexus Download Link]()
 
+### [XB1] Sim Settlements City Plans - County Crossing National Guard Salvage by Yagisan
+County Crossing National Guard Salvage is Yagisan's entry into the Nov 2018 City Plan design competition. County Crossing National Guard Salvage is a small farming community that primarily produces mutfruit. Located close to the National Guard Training Center it also boasts Tech and Military salvage facilities. Includes a small player home. Supports 15 settlers.
+
+Settlement Mod: None. Settlement from Fallout 4.
+<br/>
+
+**Levels:** 3  
+**Balanced:** Yes  
+**Max Settlers:** 15  
+**Player Home:** Yes  
+**File Type:** ESL  
+[Nexus Download Link](https://www.nexusmods.com/fallout4/mods/35648)
+
 ## Discontinued City Plans
 These city plans, were built for settlement mods that are no longer supported. The plans work correctly, but I would urge you to replace those settlement mods, and these plans, at the end of your playthrough.
 Each of these plans has one or more replacement plans for the designed for the replacement mod.
