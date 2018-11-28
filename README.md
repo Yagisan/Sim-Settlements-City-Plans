@@ -349,7 +349,7 @@ Settlement Mod: [Settlements Redone - Red Rocket Settlements](https://www.nexusm
 **Max Settlers:** 12  
 **Player Home:** Yes  
 **File Type:** ESL  
-[Nexus Download Link]()
+[Nexus Download Link](https://www.nexusmods.com/fallout4/mods/36141)
 
 ### [XB1] Sim Settlements City Plans - Red Rocket Natick Minuteman Fort by Yagisan
 Red Rocket Natick Minuteman Fort is a small military outpost. It produces ultra-pure water and coal. With a bar, and a full complement of crafting stations, on the edge of the glowing sea. Depends on supply lines for additional food. Includes a small player home. Supports 12 settlers.
@@ -361,7 +361,7 @@ Settlement Mod: [Settlements Redone - Red Rocket Settlements](https://www.nexusm
 **Max Settlers:** 12  
 **Player Home:** Yes  
 **File Type:** ESL  
-[Nexus Download Link]()
+[Nexus Download Link](https://www.nexusmods.com/fallout4/mods/36140)
 
 ### [XB1] Sim Settlements City Plans - County Crossing National Guard Salvage by Yagisan
 County Crossing National Guard Salvage is Yagisan's entry into the Nov 2018 City Plan design competition. County Crossing National Guard Salvage is a small farming community that primarily produces mutfruit. Located close to the National Guard Training Center it also boasts Tech and Military salvage facilities. Includes a small player home. Supports 15 settlers.
