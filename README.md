@@ -376,6 +376,20 @@ Settlement Mod: None. Settlement from Fallout 4.
 **File Type:** ESL  
 [Nexus Download Link](https://www.nexusmods.com/fallout4/mods/35648)
 
+### [XB1] Sim Settlements City Plans - Graygarden Horticultural Robotics by Yagisan
+Graygarden Horticultural Robotics is Yagisan's entry into the Dec 2018 City Plan design competition. Graygarden Horticultural Robotics is an automated farming community that produces corn, mutfruit, tatos, corn, razorgrain and some wild herbs. It also has a robot recycling and junk bot construction faclities, and a first class kitchen. It will eventually need to import water. Includes a small player home. Supports 15 settlers. Recommended to assign Supervisior White as mayor, and the robots to the 5 farms.
+
+Settlement Mod: None. Settlement from Fallout 4.
+<br/>
+
+**Levels:** 3  
+**Balanced:** Yes  
+**Max Settlers:** 15  
+**Player Home:** Yes  
+**File Type:** ESL  
+[Nexus Download Link](https://www.nexusmods.com/fallout4/mods/35648)
+
+
 ## Discontinued City Plans
 These city plans, were built for settlement mods that are no longer supported. The plans work correctly, but I would urge you to replace those settlement mods, and these plans, at the end of your playthrough.
 Each of these plans has one or more replacement plans for the designed for the replacement mod.
