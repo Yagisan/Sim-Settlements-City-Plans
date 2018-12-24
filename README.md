@@ -389,6 +389,19 @@ Settlement Mod: None. Settlement from Fallout 4.
 **File Type:** ESL  
 [Nexus Download Link](https://www.nexusmods.com/fallout4/mods/35648)
 
+### [XB1] Sim Settlements City Plans - Red Rocket Fort Hagen Minuteman Fort by Yagisan
+Red Rocket Fort Hagen Minuteman Fort is a small military outpost. It contains both Robot Recyclers, and Junk Bot production facilities. Includes a Slocum's Joe, and medical services. Depends on supply lines for food and additional water. Includes a small player home. Supports 12 settlers.
+
+Settlement Mod: [Settlements Redone - Red Rocket Settlements](https://www.nexusmods.com/fallout4/mods/35405)
+
+**Levels:** 3  
+**Balanced:** Yes  
+**Max Settlers:** 12  
+**Player Home:** Yes  
+**File Type:** ESL  
+[Nexus Download Link]()
+
+
 
 ## Discontinued City Plans
 These city plans, were built for settlement mods that are no longer supported. The plans work correctly, but I would urge you to replace those settlement mods, and these plans, at the end of your playthrough.
