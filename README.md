@@ -400,3 +400,15 @@ Settlement Mod: [Settlements Redone - Red Rocket Settlements](https://www.nexusm
 **Player Home:** Yes  
 **File Type:** ESL  
 [Nexus Download Link](https://www.nexusmods.com/fallout4/mods/36583)
+
+### [XB1] Sim Settlements City Plans - Red Rocket Cambridge Minuteman Fort by Yagisan
+Red Rocket Cambridge Minuteman Fort is a small trading outpost. It contains both Robot Recyclers, and General Atomics production facilities. Includes a bar, weapon store, clothing store, and a pipboy vendor. Depends on supply lines for food and additional water. Includes a small player home. Supports 12 settlers.
+
+Settlement Mod: [Settlements Redone - Red Rocket Settlements](https://www.nexusmods.com/fallout4/mods/35405)
+
+**Levels:** 3  
+**Balanced:** Yes  
+**Max Settlers:** 12  
+**Player Home:** Yes  
+**File Type:** ESL  
+[Nexus Download Link](https://www.nexusmods.com/fallout4/mods/36625)
