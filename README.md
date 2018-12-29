@@ -412,3 +412,16 @@ Settlement Mod: [Settlements Redone - Red Rocket Settlements](https://www.nexusm
 **Player Home:** Yes  
 **File Type:** ESL  
 [Nexus Download Link](https://www.nexusmods.com/fallout4/mods/36625)
+
+### [XB1] Sim Settlements City Plans - Oberland Station Mines by Yagisan
+Oberland Station Mines is a small mining community that produces ore and crytals. In addtion it boasts a working paper mill, and medical services. It has a self sufficent greenhouse with tatos, carrots, melons and silt beans. It will eventually need to import water. Includes a small player home. Supports 15 settlers.
+
+Settlement Mod: None. Settlement from Fallout 4.
+<br/>
+
+**Levels:** 3  
+**Balanced:** Yes  
+**Max Settlers:** 15  
+**Player Home:** Yes  
+**File Type:** ESL  
+[Nexus Download Link](https://www.nexusmods.com/fallout4/mods/)
