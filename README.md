@@ -424,4 +424,4 @@ Settlement Mod: None. Settlement from Fallout 4.
 **Max Settlers:** 15  
 **Player Home:** Yes  
 **File Type:** ESL  
-[Nexus Download Link](https://www.nexusmods.com/fallout4/mods/)
+[Nexus Download Link](https://www.nexusmods.com/fallout4/mods/36657)
