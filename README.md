@@ -425,3 +425,15 @@ Settlement Mod: None. Settlement from Fallout 4.
 **Player Home:** Yes  
 **File Type:** ESL  
 [Nexus Download Link](https://www.nexusmods.com/fallout4/mods/36657)
+
+### [XB1] Sim Settlements City Plans - Red Rocket Kendall Minuteman Fort by Yagisan
+Red Rocket Kendall Minuteman Fort is a small salvage centre. It has junk, steel, aluminium, rubber and electronics scrappers. Includes a doctor, with built-in residence. Depends on supply lines for food and additional water. Includes a small player home. Supports 12 settlers.
+
+Settlement Mod: [Settlements Redone - Red Rocket Settlements](https://www.nexusmods.com/fallout4/mods/35405)
+
+**Levels:** 3  
+**Balanced:** Yes  
+**Max Settlers:** 12  
+**Player Home:** Yes  
+**File Type:** ESL  
+[Nexus Download Link](https://www.nexusmods.com/fallout4/mods/36671)
