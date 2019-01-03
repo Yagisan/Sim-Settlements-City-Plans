@@ -12,7 +12,7 @@ This mod REQUIRES the Nuka-Cola Collector Workshop Creation Club Content.
 
 [b]Levels:[/b] 1
 [b]Balanced:[/b] Yes
-[b]Max Settlers:[/b] 12
+[b]Max Settlers:[/b] 6
 [b]Player Home:[/b] Yes
 [b]File Type:[/b] ESL
 
