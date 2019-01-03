@@ -1,0 +1,58 @@
+[font=Verdana][XB1] Sim Settlements City Plans - Nu Cafe Ola Supply Centre by Yagisan
+
+Nu Cafe Ola Supply Centre is a small supply centre. Includes a farm, shop, and most crafting facilities via a special city planner desk. Includes a player bed. Supports 6 settlers.
+
+This mod REQUIRES the Nuka-Cola Collector Workshop Creation Club Content.
+
+[color=#6d9eeb][b]Settlement: Nu Cafe Ola[/b][/color]
+[url=https://www.nexusmods.com/fallout4/mods/21872]Requires Version 3.5.0 or Greater of Sim Settlements 3-In-1[/url]
+
+[color=#8e7cc3][b]Settlement Mod[/b][/color]
+[url=https://www.nexusmods.com/fallout4/mods/33541]Creation Club Nu Cafe Ola Full Settlement[/url] ESL version.
+
+[b]Levels:[/b] 1
+[b]Balanced:[/b] Yes
+[b]Max Settlers:[/b] 12
+[b]Player Home:[/b] Yes
+[b]File Type:[/b] ESL
+
+[color=#8e7cc3][b]Required DLC[/b][/color]
+Automatron
+Wasteland Workshop
+Far Harbor
+Contraptions Workshop
+Vault-Tec Workshop
+Nuka-World
+
+[color=#8e7cc3][b]Yagisan's Standard Designer's Choice Mods[/b][/color]
+Designer's Choice Mods are additional Sim Settlements plots that are used in most City Plans. To ensure the city plan looks as intended, you should have them installed.
+Missing mods will result in random plots taking the place of chosen plots. This may result in settlements not matching their themes.
+[url=https://www.nexusmods.com/fallout4/mods/28945]Sim Settlements - IDEK's Logistics Station[/url] (ESL Version)
+[url=https://www.nexusmods.com/fallout4/mods/30396]Sim Settlements - Mega Pack - Year One[/url]
+[url=https://www.nexusmods.com/fallout4/mods/26107]Sim Settlements - Junk Town[/url]
+[url=https://www.nexusmods.com/fallout4/mods/31206]Sim Settlements - Flotsam and Jetsam[/url]
+[url=https://www.nexusmods.com/fallout4/mods/30081]Sim Settlements - Wasteland Venturers 2[/url] (All-In-One)
+[url=https://www.nexusmods.com/fallout4/mods/23948]Sim Settlements - Industrial City[/url]
+[url=https://www.nexusmods.com/fallout4/mods/23917]Sim Settlements - Ruined Homes and Gardens[/url]
+[url=https://www.nexusmods.com/fallout4/mods/25679]Sim Settlements - Scrappers[/url]
+[url=https://www.nexusmods.com/fallout4/mods/24491]Sim Settlements - SimHomestead[/url]
+[url=https://www.nexusmods.com/fallout4/mods/23421]Sim Settlements - Altairp's Animal Farm[/url]
+[url=https://www.nexusmods.com/fallout4/mods/29250]Sim Settlements - Creations By COOTS[/url]
+[url=https://www.nexusmods.com/fallout4/mods/25085]Sim Settlements - MrJoseCuervo Addon Pack[/url]
+[url=https://www.nexusmods.com/fallout4/mods/31365]Sim Settlements - VaultLand[/url]
+[url=https://www.nexusmods.com/fallout4/mods/31591]Sim Settlements - Vault-Tec Tools[/url]
+[url=https://www.nexusmods.com/fallout4/mods/27384]Sim Settlements - Awsometown[/url]
+[url=https://www.nexusmods.com/fallout4/mods/31972]Sim Settlements - RS Buildings[/url]
+[url=https://www.nexusmods.com/fallout4/mods/31473]Sim Settlements - Plots by Paw Paw[/url]
+[url=https://www.nexusmods.com/fallout4/mods/31736]Sim Settlements - VFX Downtown[/url]
+[url=https://www.nexusmods.com/fallout4/mods/35795]Sim Settlements - Institute Settlements[/url]
+
+[color=#8e7cc3][b]Yagisan's Suggested Creation Club Items[/b][/color]
+Suggested Creation Club Items are additional mods used for landscaping and decoration. To ensure the city plan looks as intended, you should have them installed.
+Missing mods will result in missing items, missing plots and missing landscaping. This is not a bug.
+[url=https://creationclub.bethesda.net/en]Home Decor Workshop Pack[/url] (cceejfo4001-decorationpack.esl)
+[url=https://creationclub.bethesda.net/en]Arcade Workshop Pack[/url] (ccbgsfo4045-advarccab.esl)
+[url=https://creationclub.bethesda.net/en]Coffee and Donuts Workshop Pack[/url] (ccfsvfo4003-slocum.esl)
+[url=https://creationclub.bethesda.net/en]Nuka-Cola Collector Workshop[/url] (cceejfo4002-nuka.esl)
+[url=https://creationclub.bethesda.net/en]Settlement Ambush Kit[/url] (cckgjfo4001-bastion.esl)
+[/font]

@@ -60,6 +60,7 @@ Missing mods will result in random plots taking the place of chosen plots. This 
 * [Sim Settlements - RS Buildings](https://www.nexusmods.com/fallout4/mods/31972) ( RS_Sim_AddOn.esp )
 * [Sim Settlements - Awsometown](https://www.nexusmods.com/fallout4/mods/27384) ( SimSettlements_AddOnPack_AwsomeTown.esp )  [Xbox One Link](https://bethesda.net/en/mods/fallout4/mod-detail/4039321)
 * [Sim Settlements - VFX Downtown](https://www.nexusmods.com/fallout4/mods/31736) ( VFXAddon.esp )  [Xbox One Link](https://bethesda.net/en/mods/fallout4/mod-detail/4081697)
+* [Sim Settlements - Institute Settlements](https://www.nexusmods.com/fallout4/mods/35795) ( InstituteSettlements.esp )
 
 ### Required Structural Mods. Needed for all [PCSM] plans.
 Required Structural Mods are additional mods used for building actual structures. To ensure the city plan looks as intended, you must have them installed.
@@ -218,27 +219,6 @@ Settlement Mod: [Natick Power Substation player settlement](https://www.nexusmod
 **Player Home:** Yes  
 **File Type:** ESL  
 [Nexus Download Link](https://www.nexusmods.com/fallout4/mods/33262)
-
-
-
-### [PCSM] Sim Settlements City Plans - Nu Cafe Ola Rest Stop by Yagisan
-Nu Cafe Ola Rest Stop is a small bar and rest house. It contains 2 planters for growing your choice of food. Includes a player bed. Supports 5 settlers.
-
-This mod REQUIRES the Nuka-Cola Collector Workshop Creation Club Content.
-
-Settlement Mod: [Creation Club Nu Cafe Ola Full Settlement](https://www.nexusmods.com/fallout4/mods/33541) ESL version.
-
-**Known Issues**
-* IDEK's Logistics Station may not build. It goes in the only plot.
-* There is no recruitment beacon. You should send 4 settlers to this settlement, with the city leader as the 5th.
-<br/>
-
-**Levels:** 1  
-**Balanced:** Yes  
-**Max Settlers:** 5  
-**Player Home:** Bed Only  
-**File Type:** ESL  
-[Nexus Download Link](https://www.nexusmods.com/fallout4/mods/33727)
 
 ### [PCSM] Sim Settlements City Plans - Spectacle Island Training and Supply Centre by Yagisan and VikingBaggins
 Spectacle Island Training and Supply Centre is a huge island based settlement that produces a variety of essential supplies including ammunition, water, alcohol, food and building materials. Includes a small player home, and commercial services. Supports 40 settlers.
@@ -437,3 +417,21 @@ Settlement Mod: [Settlements Redone - Red Rocket Settlements](https://www.nexusm
 **Player Home:** Yes  
 **File Type:** ESL  
 [Nexus Download Link](https://www.nexusmods.com/fallout4/mods/36671)
+
+### [XB1] Sim Settlements City Plans - Nu Cafe Ola Supply Centre by Yagisan
+Nu Cafe Ola Supply Centre is a small supply centre. Includes a farm, shop, and most crafting facilities via a special city planner desk. Includes a player bed. Supports 6 settlers.
+
+This mod REQUIRES the Nuka-Cola Collector Workshop Creation Club Content.
+
+Settlement Mod: [Creation Club Nu Cafe Ola Full Settlement](https://www.nexusmods.com/fallout4/mods/33541) ESL version.
+
+**Known Issues**
+* There is no recruitment beacon. You should send 6 settlers to this settlement, with the city leader as the 6th.
+<br/>
+
+**Levels:** 1  
+**Balanced:** Yes  
+**Max Settlers:** 6  
+**Player Home:** Bed Only  
+**File Type:** ESL  
+[Nexus Download Link](https://www.nexusmods.com/fallout4/mods/36757)
