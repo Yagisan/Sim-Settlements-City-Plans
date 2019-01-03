@@ -1,6 +1,6 @@
 [font=Verdana][XB1] Sim Settlements City Plans - Graygarden Horticultural Robotics by Yagisan
 
-Graygarden Horticultural Robotics is Yagisan's entry into the Dec 2018 City Plan design competition. Graygarden Horticultural Robotics is an automated farming community that produces corn, mutfruit, tatos, corn, razorgrain and some wild herbs. It also has a robot recycling and junk bot construction facilities, and a first class kitchen. It will eventually need to import water. Includes a small player home. Supports 15 settlers. Recommended to assign Supervisior White as mayor, and the robots to the 5 farms.
+Graygarden Horticultural Robotics is Yagisan's entry into the Dec 2018 City Plan design competition. Graygarden Horticultural Robotics is an automated farming community that produces corn, mutfruit, tatos, corn, razorgrain and some wild herbs. It also has a robot recycling and junk bot construction facilities, and a first class kitchen. It will eventually need to import water. Includes a small player home. Supports 15 settlers. Recommended to assign Supervisor White as mayor, and the robots to the 5 farms.
 
 [color=#6d9eeb][b]Settlement: Tenpines Bluff[/b][/color]
 [url=https://www.nexusmods.com/fallout4/mods/21872]Requires Version 3.5.0 or Greater of Sim Settlements 3-In-1[/url]

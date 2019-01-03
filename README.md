@@ -377,7 +377,7 @@ Settlement Mod: None. Settlement from Fallout 4.
 [Nexus Download Link](https://www.nexusmods.com/fallout4/mods/35648)
 
 ### [XB1] Sim Settlements City Plans - Graygarden Horticultural Robotics by Yagisan
-Graygarden Horticultural Robotics is Yagisan's entry into the Dec 2018 City Plan design competition. Graygarden Horticultural Robotics is an automated farming community that produces corn, mutfruit, tatos, corn, razorgrain and some wild herbs. It also has a robot recycling and junk bot construction facilities, and a first class kitchen. It will eventually need to import water. Includes a small player home. Supports 15 settlers. Recommended to assign Supervisior White as mayor, and the robots to the 5 farms.
+Graygarden Horticultural Robotics is Yagisan's entry into the Dec 2018 City Plan design competition. Graygarden Horticultural Robotics is an automated farming community that produces corn, mutfruit, tatos, corn, razorgrain and some wild herbs. It also has a robot recycling and junk bot construction facilities, and a first class kitchen. It will eventually need to import water. Includes a small player home. Supports 15 settlers. Recommended to assign Supervisor White as mayor, and the robots to the 5 farms.
 
 Settlement Mod: None. Settlement from Fallout 4.
 <br/>
