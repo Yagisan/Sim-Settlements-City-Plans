@@ -1,0 +1,1 @@
+player.placeatme 00022E48 15
