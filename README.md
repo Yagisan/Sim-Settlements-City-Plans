@@ -23,7 +23,9 @@ Plans are divided into 2 categories.
 The following settlement mods are used by the city plans in this repository. Known issues are detailed below,
 
 * [Settlements Redone - Red Rocket Settlements](https://www.nexusmods.com/fallout4/mods/35405) ( Yagisan_SSSL_Red_Rocket_Settlements.esl Yagisan_SSSL_Quick_Fill_Settlements.esl )
+  * Can be overwriiten by other mods, such as Beantown Interiors, Tales from the Commonwealth, and Boston Natural Suroundings. Use optional patch to fix this.
 * [Settlements Redone - Lakeside Cabin Settlement](https://www.nexusmods.com/fallout4/mods/35553) ( Yagisan_SSSL_Lakeside_Cabin_Settlement.esl )
+  * Can be overwriiten by other mods, such as Beantown Interiors, Tales from the Commonwealth, and Boston Natural Suroundings. Use optional patch to fix this.
 * [Northern Exposure](https://www.nexusmods.com/fallout4/mods/29900) ( 100_collection_North.esp )
   * Use FO4Edit to clean this mod.
   * The Observatory settlement is poorly navmeshed. Settlers may get stuck.
