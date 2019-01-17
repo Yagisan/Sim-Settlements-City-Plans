@@ -70,6 +70,7 @@ Missing mods will result in random plots taking the place of chosen plots. This 
 * [Sim Settlements - Awsometown](https://www.nexusmods.com/fallout4/mods/27384) ( SimSettlements_AddOnPack_AwsomeTown.esp )  [Xbox One Link](https://bethesda.net/en/mods/fallout4/mod-detail/4039321)
 * [Sim Settlements - VFX Downtown](https://www.nexusmods.com/fallout4/mods/31736) ( VFXAddon.esp )  [Xbox One Link](https://bethesda.net/en/mods/fallout4/mod-detail/4081697)
 * [Sim Settlements - Institute Settlements](https://www.nexusmods.com/fallout4/mods/35795) ( InstituteSettlements.esp )
+* [Sim Settlements - CaptainLaserBeam's Jampads](https://www.nexusmods.com/fallout4/mods/36961) ( SimSettlements CaptLaserBeam Jampads.esp )
 
 ### Required Structural Mods. Needed for all [PCSM] plans.
 Required Structural Mods are additional mods used for building actual structures. To ensure the city plan looks as intended, you must have them installed.
