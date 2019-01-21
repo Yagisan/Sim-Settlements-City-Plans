@@ -36,7 +36,7 @@ The following settlement mods are used by the city plans in this repository. Kno
   * Use both files. Discovery of recent engine bug makes the patch manadatory.
 * [Northern Exposure](https://www.nexusmods.com/fallout4/mods/29900) ( 100_collection_North.esp )
   * Use FO4Edit to clean this mod.
-  * The Observatory settlement is poorly navmeshed. Settlers may get stuck.
+  * The Overlook settlement is poorly navmeshed. Settlers may get stuck.
 * [Vault 111 Settlement](https://www.nexusmods.com/fallout4/mods/19663) ( SettlementVault111.esp )
   * Once installed this will redirect the Vault 111 entrance to a new cell. You will be unable to access the original Vault 111, which may break other mods.
 * [SS2 - Roadside Pines Motel](https://www.nexusmods.com/fallout4/mods/25871) ( RPHSettlement.esp )
