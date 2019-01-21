@@ -22,16 +22,23 @@ Plans are divided into 2 categories.
 ### Settlement Mods
 The following settlement mods are used by the city plans in this repository. Known issues are detailed below,
 
-* [Settlements Redone - Red Rocket Settlements](https://www.nexusmods.com/fallout4/mods/35405) ( Yagisan_SSSL_Red_Rocket_Settlements.esl Yagisan_SSSL_Quick_Fill_Settlements.esl )
-  * Can be overwriiten by other mods, such as Beantown Interiors, Tales from the Commonwealth, and Boston Natural Suroundings. Use optional patch to fix this.
+* [Settlements Redone - Red Rocket Settlements](https://www.nexusmods.com/fallout4/mods/35405) ( Yagisan_SSSL_Red_Rocket_Settlements.esl Yagisan_SSSL_Quick_Fill_Settlements.esl Yagisan_SSSL_Red_Rocket_Settlements_Generic_Patch.esp )
+  * Can be overwriiten by other mods, such as Beantown Interiors, Tales from the Commonwealth, and Boston Natural Suroundings.
+  * Use patch to fix this. Discovery of recent engine bug makes the patch manadatory. Patch is esl-is-esp format. Use all 3 files.
 * [Settlements Redone - Lakeside Cabin Settlement](https://www.nexusmods.com/fallout4/mods/35553) ( Yagisan_SSSL_Lakeside_Cabin_Settlement.esl )
-  * Can be overwriiten by other mods, such as Beantown Interiors, Tales from the Commonwealth, and Boston Natural Suroundings. Use optional patch to fix this.
+  * Can be overwriiten by other mods, such as Beantown Interiors, Tales from the Commonwealth, and Boston Natural Suroundings.
+  * Use patch to fix this. Discovery of recent engine bug makes the patch manadatory. Patch is esl-is-esp format. Use all 3 files.
+* [Pra's Fairline Hills Settlement](https://www.nexusmods.com/fallout4/mods/35869) ( fairlinesettlement.esp )
+* [Eden Meadows Cinemas Settlement](https://www.nexusmods.com/fallout4/mods/36675) ( EdenMeadowsSettlement.esp )
+* [Lechmere Station Settlement](https://www.nexusmods.com/fallout4/mods/35571) ( LechmereStationSettlement.esl LechmereStationPatch.esp )
+  * Use both files. Discovery of recent engine bug makes the patch manadatory.
+* [Settlements Redone - Fens Way Station](https://www.nexusmods.com/fallout4/mods/35486) ( FensWayStation.esl FensWayStationPatch.esp )
+  * Use both files. Discovery of recent engine bug makes the patch manadatory.
 * [Northern Exposure](https://www.nexusmods.com/fallout4/mods/29900) ( 100_collection_North.esp )
   * Use FO4Edit to clean this mod.
   * The Observatory settlement is poorly navmeshed. Settlers may get stuck.
 * [Vault 111 Settlement](https://www.nexusmods.com/fallout4/mods/19663) ( SettlementVault111.esp )
   * Once installed this will redirect the Vault 111 entrance to a new cell. You will be unable to access the original Vault 111, which may break other mods.
-* [Mass Fusion Containment Settlement](https://www.nexusmods.com/fallout4/mods/19134) ( MassFusionContainmentSettlement.esp )
 * [SS2 - Roadside Pines Motel](https://www.nexusmods.com/fallout4/mods/25871) ( RPHSettlement.esp )
   * Use FO4Edit to clean this mod.
   * This location will be discovered immediately after you exit Vault 111.
@@ -39,6 +46,7 @@ The following settlement mods are used by the city plans in this repository. Kno
   * Use FO4Edit to clean this mod.
 * [Creation Club Nu Cafe Ola Full Settlement](https://www.nexusmods.com/fallout4/mods/33541) ( OP_CCNuCafeOlaFullSettlement.esl )
   * This settlement can be attacked. The Nu Cafe Ola Supply Centre City plan has an optional file to disable them.
+* [Creation Club Charlestown Condo Full Settlement](https://www.nexusmods.com/fallout4/mods/33524) ( OP_CCCharlestownCondoFullSettlement.esl )
 * [Home Plate Full Settlement](https://www.nexusmods.com/fallout4/mods/34001) ( OP_HomePlateFullSettlement.esl )
 
 ### Depreciated Settlement Mods
@@ -47,12 +55,15 @@ The following settlement mods were used by the city plans in this repository. No
   * Use Settlements Redone - Lakeside Cabin Settlement instead. It fixes several errors with the location, and makes the trader recruitable.
 * [Red Rocket Settlements](https://www.nexusmods.com/fallout4/mods/17681) ( Red Rocket Settlements.esp ) Version 1.5
   * Use Settlements Redone - Red Rocket Settlements instead. It fixes many errors with the locations.
+* [Mass Fusion Containment Settlement](https://www.nexusmods.com/fallout4/mods/19134) ( MassFusionContainmentSettlement.esp )
+  * Being updated and converted by Yagisan. 
 
 ### Designer's Choice Mods
 Designer's Choice Mods are additional Sim Settlements plots that are used in most City Plans. To ensure the city plan looks as intended, you should have them installed.
 Missing mods will result in random plots taking the place of chosen plots. This may result in settlements not matching their themes.
 
 * [Sim Settlements - Three-In-One](https://www.nexusmods.com/fallout4/mods/21872) ( SimSettlements.esm )  [Xbox One Link](https://bethesda.net/en/mods/fallout4/mod-detail/4064325)
+* [Sim Settlements - Conqueror](https://www.nexusmods.com/fallout4/mods/37000) ( SimSettlements_XPAC_Conqueror.esp )
 * [Sim Settlements - IDEK's Logistics Station (ESL Version)](https://www.nexusmods.com/fallout4/mods/28945) ( SimSettlements_IDEKsLogisticsStation.esl )  [Xbox One Link](https://bethesda.net/en/mods/fallout4/mod-detail/4051665)
 * [Sim Settlements - Mega Pack - Year One](https://www.nexusmods.com/fallout4/mods/30396) ( SimSettlements_MegaPack_YearOne.esp )  [Xbox One Link](https://bethesda.net/en/mods/fallout4/mod-detail/4057101)
 * [Sim Settlements - Junk Town](https://www.nexusmods.com/fallout4/mods/26107) ( JunkTown.esp )  [Xbox One Link](https://bethesda.net/en/mods/fallout4/mod-detail/4031977)
@@ -73,6 +84,7 @@ Missing mods will result in random plots taking the place of chosen plots. This 
 * [Sim Settlements - VFX Downtown](https://www.nexusmods.com/fallout4/mods/31736) ( VFXAddon.esp )  [Xbox One Link](https://bethesda.net/en/mods/fallout4/mod-detail/4081697)
 * [Sim Settlements - Institute Settlements](https://www.nexusmods.com/fallout4/mods/35795) ( InstituteSettlements.esp )
 * [Sim Settlements - CaptainLaserBeam's Jampads](https://www.nexusmods.com/fallout4/mods/36961) ( SimSettlements CaptLaserBeam Jampads.esp )
+* [Sim Settlements - Blood Moon Raiders](https://www.nexusmods.com/fallout4/mods/36913) ( BloodMoonRaiders.esp )
 
 ### Required Structural Mods. Needed for all [PCSM] plans.
 Required Structural Mods are additional mods used for building actual structures. To ensure the city plan looks as intended, you must have them installed.
