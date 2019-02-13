@@ -3,8 +3,9 @@
 Commonwealth Engineering Plus is an evergrowing megapack of Sim Settlements City Plans for selected mod added settlements.
 All City plans are designed by Yagisan.
 
+[color=#6d9eeb][b]Settlement: Lakeside Cabin[/b][/color]
 
-[color=#6d9eeb][b]City Plan: ComEng: Lakeside Cabin Hippy Retreat[/b][/color]
+[color=#6d9eeb][b]ComEng: Lakeside Cabin Hippy Retreat[/b][/color]
 Lakeside Cabin Hippy Retreat is a small farming community. Centered around a lake, it produces a variety of wild herbs used to make chems and medicines.
 Includes a small player home. Supports 12 settlers.
 [b]Levels:[/b] 3
@@ -13,21 +14,9 @@ Includes a small player home. Supports 12 settlers.
 [b]Player Home:[/b] Yes
 [b]File Type:[/b] ESL
 
-
-
-
-
-Red Rocket Kendall Minuteman Fort is a small salvage centre. It has junk, steel, aluminium, rubber and electronics scrappers. Includes a doctor, with built-in residence. Depends on supply lines for food and additional water. Includes a small player home. Supports 12 settlers.
-
-[color=#6d9eeb][b]Settlement: Red Rocket Kendall[/b][/color]
-
-
 [color=#8e7cc3][b]Settlement Mods[/b][/color]
 The Settlement Mods are absolutely required if you wish to use these plans in game. If you are missing a setttlement mod, you will be unable to use city plans for that settlement.
 [url=https://www.nexusmods.com/fallout4/mods/35553]Settlements Redone - Lakeside Cabin Settlement[/url]
-[url=https://www.nexusmods.com/fallout4/mods/35405]Settlements Redone - Red Rocket Settlements[/url]
-
-
 
 [color=#8e7cc3][b]Required DLC[/b][/color]
 Automatron
