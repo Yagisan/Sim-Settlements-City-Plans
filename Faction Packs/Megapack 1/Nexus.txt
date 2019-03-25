@@ -1,0 +1,31 @@
+[font=Verdana][size=6][center]Sim Settlements Faction Packs - Megapack 1 by Yagisan[/center][/size]
+A variety of new factions to play as in Fallout 4.
+
+This megapack contains both a basic faction pack, that only depends on Fallout 4 and all DLC, and an optional Directors Cut patch, that expands the factions with Mods and Creation Club content.
+
+[color=#6d9eeb][size=5][b]Faction: Vaulters[/b][/size][/color]
+Formed by Former Vault Dwellers and idealists, this faction seeks to rebuild the Commonwealth to it's pre-war glory.
+[b]Faction Type:[/b] Liberator
+[b]Assault Support:[/b] Yes
+[b]Defender Support:[/b] Yes
+[b]Decorations:[/b] No
+[b]Soundscape:[/b] No
+
+[color=#6d9eeb][size=5][b]Faction: Mechanites[/b][/size][/color]
+A deranged cult that believes man and machine must be merged to please their machine god, and those that oppose them are heretics that must be converted by any means necessary.
+[b]Faction Type:[/b] Conqueror
+[b]Assault Support:[/b] Yes
+[b]Defender Support:[/b] Yes
+[b]Decorations:[/b] No
+[b]Soundscape:[/b] No
+
+[color=#8e7cc3][b]Required DLC[/b][/color]
+Automatron
+Wasteland Workshop
+Far Harbor
+Contraptions Workshop
+Vault-Tec Workshop
+Nuka-World
+
+
+[/font]
