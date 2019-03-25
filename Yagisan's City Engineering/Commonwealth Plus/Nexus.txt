@@ -28,10 +28,11 @@ Nuka-World
 [color=#8e7cc3][b]Yagisan's Standard Designer's Choice Mods[/b][/color]
 Designer's Choice Mods are additional Sim Settlements plots that are used in most City Plans. To ensure the city plan looks as intended, you should have them installed.
 Missing mods will result in random plots taking the place of chosen plots. This may result in settlements not matching their themes.
-[url=https://www.nexusmods.com/fallout4/mods/21872]Sim Settlements - 4.0.0 or Greater of Sim Settlements 3-In-1[/url]
+[url=https://www.nexusmods.com/fallout4/mods/21872]Sim Settlements - 4.0.4 or Greater of Sim Settlements 3-In-1[/url]
 [url=https://www.nexusmods.com/fallout4/mods/37000]Sim Settlements - Conqueror[/url]
 [url=https://www.nexusmods.com/fallout4/mods/28945]Sim Settlements - IDEK's Logistics Station[/url] (ESL Version)
 [url=https://www.nexusmods.com/fallout4/mods/30396]Sim Settlements - Mega Pack - Year One[/url]
+[url=https://www.nexusmods.com/fallout4/mods/37983]Sim Settlements - Mega Pack - Year Two[/url]
 [url=https://www.nexusmods.com/fallout4/mods/26107]Sim Settlements - Junk Town[/url]
 [url=https://www.nexusmods.com/fallout4/mods/31206]Sim Settlements - Flotsam and Jetsam[/url]
 [url=https://www.nexusmods.com/fallout4/mods/30081]Sim Settlements - Wasteland Venturers 2[/url] (All-In-One)
@@ -42,15 +43,12 @@ Missing mods will result in random plots taking the place of chosen plots. This 
 [url=https://www.nexusmods.com/fallout4/mods/23421]Sim Settlements - Altairp's Animal Farm[/url]
 [url=https://www.nexusmods.com/fallout4/mods/29250]Sim Settlements - Creations By COOTS[/url]
 [url=https://www.nexusmods.com/fallout4/mods/25085]Sim Settlements - MrJoseCuervo Addon Pack[/url]
-[url=https://www.nexusmods.com/fallout4/mods/31365]Sim Settlements - VaultLand[/url]
-[url=https://www.nexusmods.com/fallout4/mods/31591]Sim Settlements - Vault-Tec Tools[/url]
 [url=https://www.nexusmods.com/fallout4/mods/27384]Sim Settlements - Awsometown[/url]
 [url=https://www.nexusmods.com/fallout4/mods/31972]Sim Settlements - RS Buildings[/url]
 [url=https://www.nexusmods.com/fallout4/mods/31473]Sim Settlements - Plots by Paw Paw[/url]
-[url=https://www.nexusmods.com/fallout4/mods/31736]Sim Settlements - VFX Downtown[/url]
-[url=https://www.nexusmods.com/fallout4/mods/35795]Sim Settlements - Institute Settlements[/url]
 [url=https://www.nexusmods.com/fallout4/mods/36961]Sim Settlements - CaptainLaserBeam's Jampads[/url]
 [url=https://www.nexusmods.com/fallout4/mods/36913]Sim Settlements - Blood Moon Raiders[/url]
+[url=https://www.nexusmods.com/fallout4/mods/38007]Sim Settlements - SirLach's Intimate Spaces[/url]
 
 [color=#8e7cc3][b]Yagisan's Suggested Creation Club Items[/b][/color]
 Suggested Creation Club Items are additional mods used for landscaping and decoration. To ensure the city plan looks as intended, you should have them installed.
