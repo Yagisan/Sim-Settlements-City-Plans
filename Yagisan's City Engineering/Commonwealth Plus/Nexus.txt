@@ -50,6 +50,12 @@ Missing mods will result in random plots taking the place of chosen plots. This 
 [url=https://www.nexusmods.com/fallout4/mods/36913]Sim Settlements - Blood Moon Raiders[/url]
 [url=https://www.nexusmods.com/fallout4/mods/38007]Sim Settlements - SirLach's Intimate Spaces[/url]
 
+[color=#8e7cc3][b]Yagisan's Recommended Faction Packs[/b][/color]
+Faction Packs can be used by Conqueror to prepopulate settlements, or by the player to vary their playthrough.
+[url=https://www.nexusmods.com/fallout4/mods/38111]Sim Settlements Faction Packs - Megapack 1 by Yagisan[/url]
+[url=https://www.nexusmods.com/fallout4/mods/37972]Sim Settlements Playable Conqueror Faction - Super Mutants[/url]
+[url=https://www.nexusmods.com/fallout4/mods/38005]Sim Settlements Conqueror - Triggermen Faction[/url]
+
 [color=#8e7cc3][b]Yagisan's Suggested Creation Club Items[/b][/color]
 Suggested Creation Club Items are additional mods used for landscaping and decoration. To ensure the city plan looks as intended, you should have them installed.
 Missing mods will result in missing items, missing plots and missing landscaping. This is not a bug.
