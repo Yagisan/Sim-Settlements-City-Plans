@@ -65,6 +65,7 @@ The following settlement mods have been briefly tested and were found to work co
 * [Nuka World Sandbox Settlement](https://www.nexusmods.com/fallout4/mods/30338)
 * [General Atomics Galleria - Settlement](https://www.nexusmods.com/fallout4/mods/37938)
 * [Whisper's Power Armor Basement](https://www.nexusmods.com/fallout4/mods/36032)
+* [Huntress Island Settlement](https://www.nexusmods.com/fallout4/mods/37804)
 
 
 
