@@ -19,7 +19,7 @@ Plans are divided into 2 categories.
 [XB1] are Xbox One compatible city plans. They rely on vanilla and DLC structures, and may take advantage of Creation Club materials. They are available for both PC and Xbox One.
 
 
-### Settlement Mods
+### Used Settlement Mods
 The following settlement mods are used by the city plans in this repository. Known issues are detailed below,
 
 * [Settlements Redone - Red Rocket Settlements](https://www.nexusmods.com/fallout4/mods/35405) ( Yagisan_SSSL_Red_Rocket_Settlements.esl Yagisan_SSSL_Quick_Fill_Settlements.esl Yagisan_SSSL_Red_Rocket_Settlements_Generic_Patch.esp )
@@ -35,15 +35,15 @@ The following settlement mods are used by the city plans in this repository. Kno
 * [Settlements Redone - Fens Way Station](https://www.nexusmods.com/fallout4/mods/35486) ( FensWayStation.esl FensWayStationPatch.esp )
   * Use both files. Discovery of recent engine bug makes the patch manadatory.
 * [Northern Exposure](https://www.nexusmods.com/fallout4/mods/29900) ( 100_collection_North.esp )
-  * Use FO4Edit to clean this mod.
+  * **Use FO4Edit to clean this mod.**
   * The Overlook settlement is poorly navmeshed. Settlers may get stuck.
 * [Vault 111 Settlement](https://www.nexusmods.com/fallout4/mods/19663) ( SettlementVault111.esp )
   * Once installed this will redirect the Vault 111 entrance to a new cell. You will be unable to access the original Vault 111, which may break other mods.
 * [SS2 - Roadside Pines Motel](https://www.nexusmods.com/fallout4/mods/25871) ( RPHSettlement.esp )
-  * Use FO4Edit to clean this mod.
+  * **Use FO4Edit to clean this mod.**
   * This location will be discovered immediately after you exit Vault 111.
 * [Natick Power Substation player settlement](https://www.nexusmods.com/fallout4/mods/29760) ( 123_settlement.esp )
-  * Use FO4Edit to clean this mod.
+  * **Use FO4Edit to clean this mod.**
 * [Creation Club Nu Cafe Ola Full Settlement](https://www.nexusmods.com/fallout4/mods/33541) ( OP_CCNuCafeOlaFullSettlement.esl )
   * This settlement can be attacked. The Nu Cafe Ola Supply Centre City plan has an optional file to disable them.
 * [Creation Club Charlestown Condo Full Settlement](https://www.nexusmods.com/fallout4/mods/33524) ( OP_CCCharlestownCondoFullSettlement.esl )
@@ -52,11 +52,21 @@ The following settlement mods are used by the city plans in this repository. Kno
 ### Depreciated Settlement Mods
 The following settlement mods were used by the city plans in this repository. No further plans will be made for these mods. At some point these plans will be removed.
 * [Lakeside Cabin Redux](https://www.nexusmods.com/fallout4/mods/19463) ( LakesideCabinReduxExpanded.esp )
-  * Use Settlements Redone - Lakeside Cabin Settlement instead. It fixes several errors with the location, and makes the trader recruitable.
+  * **Use Settlements Redone - Lakeside Cabin Settlement instead. It fixes several errors with the location, and makes the trader recruitable.**
 * [Red Rocket Settlements](https://www.nexusmods.com/fallout4/mods/17681) ( Red Rocket Settlements.esp ) Version 1.5
-  * Use Settlements Redone - Red Rocket Settlements instead. It fixes many errors with the locations.
+  * **Use Settlements Redone - Red Rocket Settlements instead. It fixes many errors with the locations.**
 * [Mass Fusion Containment Settlement](https://www.nexusmods.com/fallout4/mods/19134) ( MassFusionContainmentSettlement.esp )
   * Being updated and converted by Yagisan. 
+
+### Known working settlement Mods
+The following settlement mods have been briefly tested and were found to work correctly, but currently are not used by the city plans in this repository. Known issues are detailed below,
+* [Swan's Pond - Settlement](https://www.nexusmods.com/fallout4/mods/38025)
+* [Breakheart Banks - Settlement](https://www.nexusmods.com/fallout4/mods/38059)
+* [Nuka World Sandbox Settlement](https://www.nexusmods.com/fallout4/mods/30338)
+* [General Atomics Galleria - Settlement](https://www.nexusmods.com/fallout4/mods/37938)
+* [Whisper's Power Armor Basement](https://www.nexusmods.com/fallout4/mods/36032)
+
+
 
 ### Designer's Choice Mods
 Designer's Choice Mods are additional Sim Settlements plots that are used in most City Plans. To ensure the city plan looks as intended, you should have them installed.
