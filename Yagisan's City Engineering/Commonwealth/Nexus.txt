@@ -22,41 +22,58 @@ Vault-Tec Workshop
 Nuka-World
 
 [color=#8e7cc3][b]Yagisan's Standard Designer's Choice Mods[/b][/color]
-Designer's Choice Mods are additional Sim Settlements plots that are used in most City Plans. To ensure the city plan looks as intended, you should have them installed.
-Missing mods will result in random plots taking the place of chosen plots. This may result in settlements not matching their themes.
+Designer's Choice Mods are additional Sim Settlements plots that are used in most City Plans. Many of these addons also include furniture that is used in designs.
+To ensure the city plan looks as intended, you should have them installed.
+Missing mods will result in random plots taking the place of chosen plots, and missing furniture. This may result in settlements not matching their themes.
 [url=https://www.nexusmods.com/fallout4/mods/21872]Sim Settlements - 4.0.4 or Greater of Sim Settlements 3-In-1[/url]
 [url=https://www.nexusmods.com/fallout4/mods/37000]Sim Settlements - Conqueror[/url]
-[url=https://www.nexusmods.com/fallout4/mods/28945]Sim Settlements - IDEK's Logistics Station[/url] (ESL Version)
-[url=https://www.nexusmods.com/fallout4/mods/30396]Sim Settlements - Mega Pack - Year One[/url]
-[url=https://www.nexusmods.com/fallout4/mods/37983]Sim Settlements - Mega Pack - Year Two[/url]
-[url=https://www.nexusmods.com/fallout4/mods/26107]Sim Settlements - Junk Town[/url]
-[url=https://www.nexusmods.com/fallout4/mods/31206]Sim Settlements - Flotsam and Jetsam[/url]
-[url=https://www.nexusmods.com/fallout4/mods/30081]Sim Settlements - Wasteland Venturers 2[/url] (All-In-One)
-[url=https://www.nexusmods.com/fallout4/mods/23948]Sim Settlements - Industrial City[/url]
-[url=https://www.nexusmods.com/fallout4/mods/23917]Sim Settlements - Ruined Homes and Gardens[/url]
-[url=https://www.nexusmods.com/fallout4/mods/25679]Sim Settlements - Scrappers[/url]
-[url=https://www.nexusmods.com/fallout4/mods/24491]Sim Settlements - SimHomestead[/url]
 [url=https://www.nexusmods.com/fallout4/mods/23421]Sim Settlements - Altairp's Animal Farm[/url]
-[url=https://www.nexusmods.com/fallout4/mods/29250]Sim Settlements - Creations By COOTS[/url]
+[url=https://www.nexusmods.com/fallout4/mods/23917]Sim Settlements - Ruined Homes and Gardens[/url]
+[url=https://www.nexusmods.com/fallout4/mods/23948]Sim Settlements - Industrial City[/url]
+[url=https://www.nexusmods.com/fallout4/mods/24491]Sim Settlements - SimHomestead[/url]
 [url=https://www.nexusmods.com/fallout4/mods/25085]Sim Settlements - MrJoseCuervo Addon Pack[/url]
-[url=https://www.nexusmods.com/fallout4/mods/31972]Sim Settlements - RS Buildings[/url]
+[url=https://www.nexusmods.com/fallout4/mods/25679]Sim Settlements - Scrappers[/url]
+[url=https://www.nexusmods.com/fallout4/mods/26107]Sim Settlements - Junk Town[/url]
+[url=https://www.nexusmods.com/fallout4/mods/27384]Sim Settlements - Awsometown[/url]
+[url=https://www.nexusmods.com/fallout4/mods/28945]Sim Settlements - IDEK's Logistics Station[/url] (ESL Version)
+[url=https://www.nexusmods.com/fallout4/mods/29250]Sim Settlements - Creations By COOTS[/url]
+[url=https://www.nexusmods.com/fallout4/mods/30081]Sim Settlements - Wasteland Venturers 2[/url] (All-In-One)
+[url=https://www.nexusmods.com/fallout4/mods/30396]Sim Settlements - Mega Pack - Year One[/url]
+[url=https://www.nexusmods.com/fallout4/mods/31206]Sim Settlements - Flotsam and Jetsam[/url]
 [url=https://www.nexusmods.com/fallout4/mods/31473]Sim Settlements - Plots by Paw Paw[/url]
-[url=https://www.nexusmods.com/fallout4/mods/36961]Sim Settlements - CaptainLaserBeam's Jampads[/url]
+[url=https://www.nexusmods.com/fallout4/mods/31591]Sim Settlements - Vault-Tec Tools[/url]
+[url=https://www.nexusmods.com/fallout4/mods/31972]Sim Settlements - RS Buildings[/url]
 [url=https://www.nexusmods.com/fallout4/mods/36913]Sim Settlements - Blood Moon Raiders[/url]
+[url=https://www.nexusmods.com/fallout4/mods/36961]Sim Settlements - CaptainLaserBeam's Jampads[/url]
+[url=https://www.nexusmods.com/fallout4/mods/37983]Sim Settlements - Mega Pack - Year Two[/url]
 [url=https://www.nexusmods.com/fallout4/mods/38007]Sim Settlements - SirLach's Intimate Spaces[/url]
+[url=https://www.nexusmods.com/fallout4/mods/38663]Sim Settlements - Pra's Random Addon[/url]
+
+[color=#8e7cc3][b]Required Decoration Mods[/b][/color]
+Required Decoration Mods are additional mods used for landscaping and decoration. To ensure the city plan looks as intended, you should have them installed.
+Missing mods will result in missing items and missing landscaping. This is not a bug.
+[url=https://www.nexusmods.com/fallout4/mods/14326]CWSS Redux[/url]
+[url=https://www.nexusmods.com/fallout4/mods/14532]Do It Yourshelf[/url]
+[url=https://www.nexusmods.com/fallout4/mods/17141]Modular Kitchen[/url]
+[url=https://www.nexusmods.com/fallout4/mods/20782]CREAtive Clutter[/url]
 
 [color=#8e7cc3][b]Yagisan's Recommended Faction Packs[/b][/color]
 Faction Packs can be used by Conqueror to prepopulate settlements, or by the player to vary their playthrough.
-[url=https://www.nexusmods.com/fallout4/mods/38111]Sim Settlements Faction Packs - Megapack 1 by Yagisan[/url]
 [url=https://www.nexusmods.com/fallout4/mods/37972]Sim Settlements Playable Conqueror Faction - Super Mutants[/url]
-[url=https://www.nexusmods.com/fallout4/mods/38005]Sim Settlements Conqueror - Triggermen Faction[/url]
+[url=https://www.nexusmods.com/fallout4/mods/38111]Sim Settlements Faction Packs - Megapack 1 by Yagisan[/url]
+
+[color=#8e7cc3][b]Yagisan's Recommended Leader Packs[/b][/color]
+Leader Packs can be used by Sim Settlements to increase the pool of potential leaders for growing settlements, and to further customise each settlement.
+[url=https://www.nexusmods.com/fallout4/mods/30599]Sim Settlements - Gannon's Overtly Adequate Trove[/url] (ESL Version)
+[url=https://www.nexusmods.com/fallout4/mods/33877]Sim Settlements - Recruitable Settlers Leader Pack[/url] (ESL Version)
+[url=https://www.nexusmods.com/fallout4/mods/36942]Sim Settlements - Settlers of the Commonwealth[/url]
 
 [color=#8e7cc3][b]Yagisan's Suggested Creation Club Items[/b][/color]
 Suggested Creation Club Items are additional mods used for landscaping and decoration. To ensure the city plan looks as intended, you should have them installed.
 Missing mods will result in missing items, missing plots and missing landscaping. This is not a bug.
-[url=https://creationclub.bethesda.net/en]Home Decor Workshop Pack[/url] (cceejfo4001-decorationpack.esl)
 [url=https://creationclub.bethesda.net/en]Arcade Workshop Pack[/url] (ccbgsfo4045-advarccab.esl)
 [url=https://creationclub.bethesda.net/en]Coffee and Donuts Workshop Pack[/url] (ccfsvfo4003-slocum.esl)
+[url=https://creationclub.bethesda.net/en]Home Decor Workshop Pack[/url] (cceejfo4001-decorationpack.esl)
 [url=https://creationclub.bethesda.net/en]Nuka-Cola Collector Workshop[/url] (cceejfo4002-nuka.esl)
 [url=https://creationclub.bethesda.net/en]Settlement Ambush Kit[/url] (cckgjfo4001-bastion.esl)
 [/font]
