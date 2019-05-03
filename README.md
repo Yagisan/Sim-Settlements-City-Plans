@@ -67,35 +67,35 @@ The following settlement mods have been briefly tested and were found to work co
 * [Whisper's Power Armor Basement](https://www.nexusmods.com/fallout4/mods/36032)
 * [Huntress Island Settlement](https://www.nexusmods.com/fallout4/mods/37804)
 
-
-
 ### Designer's Choice Mods
-Designer's Choice Mods are additional Sim Settlements plots that are used in most City Plans. To ensure the city plan looks as intended, you should have them installed.
-Missing mods will result in random plots taking the place of chosen plots. This may result in settlements not matching their themes.
+Designer's Choice Mods are additional Sim Settlements plots that are used in most City Plans. Many of these addons also include furniture that is used in designs.
+To ensure the city plan looks as intended, you should have them installed.
+Missing mods will result in random plots taking the place of chosen plots, and missing furniture. This may result in settlements not matching their themes.
 
 * [Sim Settlements - Three-In-One](https://www.nexusmods.com/fallout4/mods/21872) ( SimSettlements.esm )  [Xbox One Link](https://bethesda.net/en/mods/fallout4/mod-detail/4064325)
 * [Sim Settlements - Conqueror](https://www.nexusmods.com/fallout4/mods/37000) ( SimSettlements_XPAC_Conqueror.esp )
-* [Sim Settlements - IDEK's Logistics Station (ESL Version)](https://www.nexusmods.com/fallout4/mods/28945) ( SimSettlements_IDEKsLogisticsStation.esl )  [Xbox One Link](https://bethesda.net/en/mods/fallout4/mod-detail/4051665)
-* [Sim Settlements - Mega Pack - Year One](https://www.nexusmods.com/fallout4/mods/30396) ( SimSettlements_MegaPack_YearOne.esp )  [Xbox One Link](https://bethesda.net/en/mods/fallout4/mod-detail/4057101)
-* [Sim Settlements - Junk Town](https://www.nexusmods.com/fallout4/mods/26107) ( JunkTown.esp )  [Xbox One Link](https://bethesda.net/en/mods/fallout4/mod-detail/4031977)
-* [Sim Settlements - Flotsam and Jetsam](https://www.nexusmods.com/fallout4/mods/31206) ( UitFJ.esp )  [Xbox One Link](https://bethesda.net/en/mods/fallout4/mod-detail/4061633)
-* [Sim Settlements - Wasteland Venturers 2 (All-In-One)](https://www.nexusmods.com/fallout4/mods/30081) ( WVSimSAddon.esp )
-* [Sim Settlements - Industrial City](https://www.nexusmods.com/fallout4/mods/23948) ( IndustrialCity_Sim_Settlements_Addon.esp )  [Xbox One Link](https://bethesda.net/en/mods/fallout4/mod-detail/4021108)
-* [Sim Settlements - Ruined Homes and Gardens](https://www.nexusmods.com/fallout4/mods/23917) ( ruined_simsettlement_addonpack.esp )  [Xbox One Link](https://bethesda.net/en/mods/fallout4/mod-detail/4017575)
-* [Sim Settlements - Scrappers](https://www.nexusmods.com/fallout4/mods/25679) ( ohSIM_Sim_Settlements_Scrappers_Addon.esp )  [Xbox One Link](https://bethesda.net/en/mods/fallout4/mod-detail/4057112)
-* [Sim Settlements - SimHomestead](https://www.nexusmods.com/fallout4/mods/24491) ( SimHomestead.esp )  [Xbox One Link](https://bethesda.net/en/mods/fallout4/mod-detail/4031686)
 * [Sim Settlements - Altairp's Animal Farm](https://www.nexusmods.com/fallout4/mods/23421) ( Altairp's Animal Farm.esp )  [Xbox One Link](https://bethesda.net/en/mods/fallout4/mod-detail/4026243)
-* [Sim Settlements - Creations By COOTS](https://www.nexusmods.com/fallout4/mods/29250) ( SS_AddOn_CbC_AIO.esp )  [Xbox One Link](https://bethesda.net/en/mods/fallout4/mod-detail/4058771)
-* [Sim Settlements - Plots by Paw Paw](https://www.nexusmods.com/fallout4/mods/31473) ( SS_Addon_PbPP.esp )  [Xbox One Link](https://bethesda.net/en/mods/fallout4/mod-detail/4074490)
-* [Sim Settlements - VaultLand](https://www.nexusmods.com/fallout4/mods/31365) ( SimSettlements_Addon_VaultLand.esp )  [Xbox One Link](https://bethesda.net/en/mods/fallout4/mod-detail/4063843)
-* [Sim Settlements - Vault-Tec Tools](https://www.nexusmods.com/fallout4/mods/31591) ( SSAOP_SamutzVault88.esp )  [Xbox One Link](https://bethesda.net/en/mods/fallout4/mod-detail/4065070)
+* [Sim Settlements - Ruined Homes and Gardens](https://www.nexusmods.com/fallout4/mods/23917) ( ruined_simsettlement_addonpack.esp )  [Xbox One Link](https://bethesda.net/en/mods/fallout4/mod-detail/4017575)
+* [Sim Settlements - Industrial City](https://www.nexusmods.com/fallout4/mods/23948) ( IndustrialCity_Sim_Settlements_Addon.esp )  [Xbox One Link](https://bethesda.net/en/mods/fallout4/mod-detail/4021108)
+* [Sim Settlements - SimHomestead](https://www.nexusmods.com/fallout4/mods/24491) ( SimHomestead.esp )  [Xbox One Link](https://bethesda.net/en/mods/fallout4/mod-detail/4031686)
 * [Sim Settlements - MrJoseCuervo Addon Pack](https://www.nexusmods.com/fallout4/mods/25085) ( MJC_Sim_Settlements_Addon.esp )  [Xbox One Link](https://bethesda.net/en/mods/fallout4/mod-detail/4026050)
-* [Sim Settlements - RS Buildings](https://www.nexusmods.com/fallout4/mods/31972) ( RS_Sim_AddOn.esp )
+* [Sim Settlements - Scrappers](https://www.nexusmods.com/fallout4/mods/25679) ( ohSIM_Sim_Settlements_Scrappers_Addon.esp )  [Xbox One Link](https://bethesda.net/en/mods/fallout4/mod-detail/4057112)
+* [Sim Settlements - Junk Town](https://www.nexusmods.com/fallout4/mods/26107) ( JunkTown.esp )  [Xbox One Link](https://bethesda.net/en/mods/fallout4/mod-detail/4031977)
 * [Sim Settlements - Awsometown](https://www.nexusmods.com/fallout4/mods/27384) ( SimSettlements_AddOnPack_AwsomeTown.esp )  [Xbox One Link](https://bethesda.net/en/mods/fallout4/mod-detail/4039321)
-* [Sim Settlements - VFX Downtown](https://www.nexusmods.com/fallout4/mods/31736) ( VFXAddon.esp )  [Xbox One Link](https://bethesda.net/en/mods/fallout4/mod-detail/4081697)
-* [Sim Settlements - Institute Settlements](https://www.nexusmods.com/fallout4/mods/35795) ( InstituteSettlements.esp )
-* [Sim Settlements - CaptainLaserBeam's Jampads](https://www.nexusmods.com/fallout4/mods/36961) ( SimSettlements CaptLaserBeam Jampads.esp )
+* [Sim Settlements - IDEK's Logistics Station (ESL Version)](https://www.nexusmods.com/fallout4/mods/28945) ( SimSettlements_IDEKsLogisticsStation.esl )  [Xbox One Link](https://bethesda.net/en/mods/fallout4/mod-detail/4051665)
+* [Sim Settlements - Creations By COOTS](https://www.nexusmods.com/fallout4/mods/29250) ( SS_AddOn_CbC_AIO.esp )  [Xbox One Link](https://bethesda.net/en/mods/fallout4/mod-detail/4058771)
+* [Sim Settlements - Wasteland Venturers 2 (All-In-One)](https://www.nexusmods.com/fallout4/mods/30081) ( WVSimSAddon.esp )
+* [Sim Settlements - Mega Pack - Year One](https://www.nexusmods.com/fallout4/mods/30396) ( SimSettlements_MegaPack_YearOne.esp )  [Xbox One Link](https://bethesda.net/en/mods/fallout4/mod-detail/4057101)
+* [Sim Settlements - Flotsam and Jetsam](https://www.nexusmods.com/fallout4/mods/31206) ( UitFJ.esp )  [Xbox One Link](https://bethesda.net/en/mods/fallout4/mod-detail/4061633)
+* [Sim Settlements - Plots by Paw Paw](https://www.nexusmods.com/fallout4/mods/31473) ( SS_Addon_PbPP.esp )  [Xbox One Link](https://bethesda.net/en/mods/fallout4/mod-detail/4074490)
+* [Sim Settlements - Vault-Tec Tools](https://www.nexusmods.com/fallout4/mods/31591) ( SSAOP_SamutzVault88.esp )  [Xbox One Link](https://bethesda.net/en/mods/fallout4/mod-detail/4065070)
+* [Sim Settlements - RS Buildings](https://www.nexusmods.com/fallout4/mods/31972) ( RS_Sim_AddOn.esp )
 * [Sim Settlements - Blood Moon Raiders](https://www.nexusmods.com/fallout4/mods/36913) ( BloodMoonRaiders.esp )
+* [Sim Settlements - CaptainLaserBeam's Jampads](https://www.nexusmods.com/fallout4/mods/36961) ( SimSettlements CaptLaserBeam Jampads.esp )
+* [Sim Settlements - Mega Pack - Year Two](https://www.nexusmods.com/fallout4/mods/37983) ( SimSettlements_MegaPack_YearTwo.esp )
+* [Sim Settlements - SirLach's Intimate Spaces](https://www.nexusmods.com/fallout4/mods/38007) ( SimSettlements_AddOnPack_IntimateSpaces_SirLach.esp )
+* [Sim Settlements - Pra's Random Addon](https://www.nexusmods.com/fallout4/mods/38663) ( SS-PrasRandomAddon.esp )
+
 
 ### Required Structural Mods. Needed for all [PCSM] plans.
 Required Structural Mods are additional mods used for building actual structures. To ensure the city plan looks as intended, you must have them installed.
