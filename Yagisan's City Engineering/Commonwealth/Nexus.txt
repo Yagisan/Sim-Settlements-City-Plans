@@ -48,6 +48,7 @@ Missing mods will result in random plots taking the place of chosen plots, and m
 [url=https://www.nexusmods.com/fallout4/mods/37983]Sim Settlements - Mega Pack - Year Two[/url]
 [url=https://www.nexusmods.com/fallout4/mods/38007]Sim Settlements - SirLach's Intimate Spaces[/url]
 [url=https://www.nexusmods.com/fallout4/mods/38663]Sim Settlements - Pra's Random Addon[/url]
+[url=https://www.nexusmods.com/fallout4/mods/38833]Sim Settlements - SirLach's Ultimate Defenses[/url]
 
 [color=#8e7cc3][b]Required Decoration Mods[/b][/color]
 Required Decoration Mods are additional mods used for landscaping and decoration. To ensure the city plan looks as intended, you should have them installed.
