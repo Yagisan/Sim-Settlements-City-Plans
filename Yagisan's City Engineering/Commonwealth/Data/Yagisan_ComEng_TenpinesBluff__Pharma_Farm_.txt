@@ -1,0 +1,3 @@
+City Plan Name:	ComEng: Tenpines Bluff Pharma Farm
+Designer:		Yagisan
+Description:	Tenpines Bluff Pharma Farm is a small outpost. It contains some commercial services, a pharmaceutical factory, and a small mixed farm. Needs to import water. Includes a player home. Supports 12 settlers.
