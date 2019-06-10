@@ -2,14 +2,44 @@
 Commonwealth Engineering is an evergrowing megapack of Sim Settlements City Plans for vanilla and dlc settlements.
 All City plans are designed by Yagisan.
 
-[color=#00ff00][size=5][b]Settlement: Tenpines Bluff[/b][/size][/color]
 
-[color=#6d9eeb][b]ComEng: Tenpines Bluff Mixed Farm[/b][/color]
-Tenpines Bluff Mixed Farm is a small farming community. A hunter supplements crops of Tatos, Mutfruit and Corn. Supports a Bar, Doctor and Weapons shop.
-Includes a small player home. Supports 15 settlers.
+[color=#00ff00][size=5][b]Settlement: Sanctuary[/b][/size][/color]
+
+[color=#6d9eeb][b]ComEng: Sanctuary Market City[/b][/color]
+Sanctuary Market City is a large trading city. It supports a wide variety of commercial services, a school, and a newspaper office. Includes a player home. Supports 24 settlers.
+[b]Levels:[/b] 3
+[b]Balanced:[/b] Yes
+[b]Max Settlers:[/b] 24
+[b]Player Home:[/b] Yes
+[b]File Type:[/b] ESL
+
+[color=#00ff00][size=5][b]Settlement: Red Rocket[/b][/size][/color]
+
+[color=#6d9eeb][b]ComEng: Red Rocket Weavers[/b][/color]
+Red Rocket Weavers is a small outpost. It contains a weavers, recycling facilities, and a clothing store. Needs to import food and water. Includes a player home. Supports 12 settlers.
+[b]Levels:[/b] 3
+[b]Balanced:[/b] Yes
+[b]Max Settlers:[/b] 12
+[b]Player Home:[/b] Yes
+[b]File Type:[/b] ESL
+
+[color=#00ff00][size=5][b]Settlement: Abernathy Farm[/b][/size][/color]
+
+[color=#6d9eeb][b]ComEng: Abernathy Cannery[/b][/color]
+Abernathy Cannery is a medium sized farm. It contains a cannery, tool shed, vet, and a small general store. Needs to import water. Includes a small player home. Supports 15 settlers.
 [b]Levels:[/b] 3
 [b]Balanced:[/b] Yes
 [b]Max Settlers:[/b] 15
+[b]Player Home:[/b] Yes
+[b]File Type:[/b] ESL
+
+[color=#00ff00][size=5][b]Settlement: Tenpines Bluff[/b][/size][/color]
+
+[color=#6d9eeb][b]ComEng: Tenpines Bluff Pharma Farm[/b][/color]
+Tenpines Bluff Pharma Farm is a small outpost. It contains some commercial services, a pharmaceutical factory, and a small mixed farm. Needs to import water. Includes a player home. Supports 12 settlers.
+[b]Levels:[/b] 3
+[b]Balanced:[/b] Yes
+[b]Max Settlers:[/b] 12
 [b]Player Home:[/b] Yes
 [b]File Type:[/b] ESL
 
@@ -60,8 +90,10 @@ Missing mods will result in missing items and missing landscaping. This is not a
 
 [color=#8e7cc3][b]Yagisan's Recommended Faction Packs[/b][/color]
 Faction Packs can be used by Conqueror to prepopulate settlements, or by the player to vary their playthrough.
+[url=https://www.nexusmods.com/fallout4/mods/38111]Sim Settlements Faction Packs - Megapack 1 by Yagisan[/url] In Development. Release TBD.
 [url=https://www.nexusmods.com/fallout4/mods/37972]Sim Settlements Playable Conqueror Faction - Super Mutants[/url]
-[url=https://www.nexusmods.com/fallout4/mods/38111]Sim Settlements Faction Packs - Megapack 1 by Yagisan[/url]
+[url=https://www.nexusmods.com/fallout4/mods/38208]Sim Settlements Conqueror Brotherhood of Steel Faction Pack[/url]
+[url=https://www.nexusmods.com/fallout4/mods/38995]Sim Settlements Conqueror Faction Pack- The Institute[/url]
 
 [color=#8e7cc3][b]Yagisan's Recommended Leader Packs[/b][/color]
 Leader Packs can be used by Sim Settlements to increase the pool of potential leaders for growing settlements, and to further customise each settlement.
