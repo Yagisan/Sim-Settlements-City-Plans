@@ -13,9 +13,20 @@ Includes a small player home. Supports 12 settlers.
 [b]Player Home:[/b] Yes
 [b]File Type:[/b] ESL
 
+[color=#00ff00][size=5][b]Settlement: Red Rocket Fort Hagen[/b][/size][/color]
+
+[color=#6d9eeb][b]ComEng: Red Rocket Fort Hagen Salvage Center[/b][/color]
+Red Rocket Fort Hagen Salvage Center is a small outpost. It contains recycling facilities, a doctor, and a pip boy vendor. Needs to import food and water. Includes a player home. Supports 12 settlers.
+[b]Levels:[/b] 3
+[b]Balanced:[/b] Yes
+[b]Max Settlers:[/b] 12
+[b]Player Home:[/b] Yes
+[b]File Type:[/b] ESL
+
 [color=#8e7cc3][b]Settlement Mods[/b][/color]
 The Settlement Mods are absolutely required if you wish to use these plans in game. If you are missing a settlement mod, you will be unable to use city plans for that settlement.
 [url=https://www.nexusmods.com/fallout4/mods/35553]Settlements Redone - Lakeside Cabin Settlement[/url]
+[url=https://www.nexusmods.com/fallout4/mods/35405]Settlements Redone - Red Rocket Settlements[/url]
 
 [color=#8e7cc3][b]Required DLC[/b][/color]
 Automatron
@@ -64,8 +75,10 @@ Missing mods will result in missing items and missing landscaping. This is not a
 
 [color=#8e7cc3][b]Yagisan's Recommended Faction Packs[/b][/color]
 Faction Packs can be used by Conqueror to prepopulate settlements, or by the player to vary their playthrough.
+[url=https://www.nexusmods.com/fallout4/mods/38111]Sim Settlements Faction Packs - Megapack 1 by Yagisan[/url] In Development. Release TBD.
 [url=https://www.nexusmods.com/fallout4/mods/37972]Sim Settlements Playable Conqueror Faction - Super Mutants[/url]
-[url=https://www.nexusmods.com/fallout4/mods/38111]Sim Settlements Faction Packs - Megapack 1 by Yagisan[/url]
+[url=https://www.nexusmods.com/fallout4/mods/38208]Sim Settlements Conqueror Brotherhood of Steel Faction Pack[/url]
+[url=https://www.nexusmods.com/fallout4/mods/38995]Sim Settlements Conqueror Faction Pack- The Institute[/url]
 
 [color=#8e7cc3][b]Yagisan's Recommended Leader Packs[/b][/color]
 Leader Packs can be used by Sim Settlements to increase the pool of potential leaders for growing settlements, and to further customise each settlement.

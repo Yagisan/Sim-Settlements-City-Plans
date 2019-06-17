@@ -1,0 +1,3 @@
+City Plan Name:	ComEng: Red Rocket Fort Hagen Salvage Center
+Designer:		Yagisan
+Description:	Red Rocket Fort Hagen Salvage Center is a small outpost. It contains recycling facilities, a doctor, and a pip boy vendor. Needs to import food and water. Includes a player home. Supports 12 settlers.
