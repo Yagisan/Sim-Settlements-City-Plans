@@ -1,3 +1,3 @@
 City Plan Name:	ComEng: Lakeside Cabin Hippy Retreat
 Designer:		Yagisan
-Description:	Lakeside Cabin Hippy Retreat is a small outpost. It contains wild ingredients, and some chem production. Includes a doctor in the crack house. Includes a player home. Supports 12 settlers.
+Description:	Lakeside Cabin Hippy Retreat is a small farming community. Centered around a lake, it produces a variety of wild herbs used to make chems and medicines. Includes a small player home. Supports 12 settlers.
