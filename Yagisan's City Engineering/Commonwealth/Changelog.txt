@@ -1,0 +1,9 @@
+Changelog
+
+[b]Version 1      (2019/06/15)[/b]
+
+[b][color=#ff00ff][INFO][/color][/b]   ﻿[b]Initial Release.[/b]
+[b][color=#ffd966][NEW][/color]﻿[/b]   [color=#6d9eeb][b]ComEng: Sanctuary Market City[/b][/color]
+[b][color=#ffd966][NEW][/color][/b]   ﻿[color=#6d9eeb][b]ComEng: Red Rocket Weavers[/b][/color]
+[b][color=#ffd966][NEW][/color][/b]   ﻿[color=#6d9eeb][b]ComEng: Abernathy Cannery[/b][/color]
+[b][color=#ffd966][NEW][/color][/b]   ﻿[color=#6d9eeb][b]ComEng: Tenpines Bluff Pharma Farm[/b][/color]

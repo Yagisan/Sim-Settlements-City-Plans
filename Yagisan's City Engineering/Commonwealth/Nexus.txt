@@ -1,47 +1,18 @@
-[font=Verdana][size=6][center]Commonwealth Engineering by Yagisan[/center][/size]
-Commonwealth Engineering is an evergrowing megapack of Sim Settlements City Plans for vanilla and dlc settlements.
+Commonwealth Engineering is an evergrowing megapack of Sim Settlements City Plans for vanilla and dlc settlements. 
 All City plans are designed by Yagisan.
 
-
+[font=Verdana][size=6][center]Commonwealth Engineering by Yagisan[/center][/size]
 [color=#00ff00][size=5][b]Settlement: Sanctuary[/b][/size][/color]
-
 [color=#6d9eeb][b]ComEng: Sanctuary Market City[/b][/color]
-Sanctuary Market City is a large trading city. It supports a wide variety of commercial services, a school, and a newspaper office. Includes a player home. Supports 24 settlers.
-[b]Levels:[/b] 3
-[b]Balanced:[/b] Yes
-[b]Max Settlers:[/b] 24
-[b]Player Home:[/b] Yes
-[b]File Type:[/b] ESL
 
 [color=#00ff00][size=5][b]Settlement: Red Rocket[/b][/size][/color]
-
 [color=#6d9eeb][b]ComEng: Red Rocket Weavers[/b][/color]
-Red Rocket Weavers is a small outpost. It contains a weavers, recycling facilities, and a clothing store. Needs to import food and water. Includes a player home. Supports 12 settlers.
-[b]Levels:[/b] 3
-[b]Balanced:[/b] Yes
-[b]Max Settlers:[/b] 12
-[b]Player Home:[/b] Yes
-[b]File Type:[/b] ESL
 
 [color=#00ff00][size=5][b]Settlement: Abernathy Farm[/b][/size][/color]
-
 [color=#6d9eeb][b]ComEng: Abernathy Cannery[/b][/color]
-Abernathy Cannery is a medium sized farm. It contains a cannery, tool shed, vet, and a small general store. Needs to import water. Includes a small player home. Supports 15 settlers.
-[b]Levels:[/b] 3
-[b]Balanced:[/b] Yes
-[b]Max Settlers:[/b] 15
-[b]Player Home:[/b] Yes
-[b]File Type:[/b] ESL
 
 [color=#00ff00][size=5][b]Settlement: Tenpines Bluff[/b][/size][/color]
-
 [color=#6d9eeb][b]ComEng: Tenpines Bluff Pharma Farm[/b][/color]
-Tenpines Bluff Pharma Farm is a small outpost. It contains some commercial services, a pharmaceutical factory, and a small mixed farm. Needs to import water. Includes a player home. Supports 12 settlers.
-[b]Levels:[/b] 3
-[b]Balanced:[/b] Yes
-[b]Max Settlers:[/b] 12
-[b]Player Home:[/b] Yes
-[b]File Type:[/b] ESL
 
 [color=#8e7cc3][b]Required DLC[/b][/color]
 Automatron
