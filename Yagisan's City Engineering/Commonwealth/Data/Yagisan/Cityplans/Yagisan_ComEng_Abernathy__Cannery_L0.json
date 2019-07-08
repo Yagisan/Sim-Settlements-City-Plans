@@ -4,11 +4,11 @@
 		"cell_id" : "00DE04",
 		"cell_id_dec" : 56836,
 		"cell_plugin" : "Fallout4.esm",
-		"export_date" : "2019-06-11 00:18:29",
+		"export_date" : "2019-07-08 19:45:20",
 		"isInterior" : 0,
 		"item_count" : 720,
 		"player_name" : "James",
-		"plugin_version" : 1.57,
+		"plugin_version" : 1.58,
 		"plugins_required" : 
 		[
 			"Fallout4.esm",
@@ -26,8 +26,8 @@
 			"SimHomestead.esp",
 			"SimSettlements_MegaPack_YearOne.esp",
 			"SS-PrasRandomAddon.esp",
-			"SS_Addon_PbPP.esp",
 			"WVSimSAddon.esp",
+			"SS_Addon_PbPP.esp",
 			"Evan_Modular Kitchen.esp",
 			"dinoshelf.esp",
 			"CREAtiveClutter.esp",
@@ -10030,12 +10030,12 @@
 			"isWater" : 0,
 			"name" : "Rock Pile L 01",
 			"plugin_name" : "SimSettlements.esm",
-			"posX" : -72800.234375,
-			"posY" : 66163.8984375,
-			"posZ" : 7107.65087890625,
+			"posX" : -72801.6328125,
+			"posY" : 66155.8984375,
+			"posZ" : 7081.34521484375,
 			"rotX" : 0.0,
 			"rotY" : 0.0,
-			"rotZ" : 98.770332336425781
+			"rotZ" : 99.109909057617188
 		},
 		{
 			"ConnectedObjects" : "",
