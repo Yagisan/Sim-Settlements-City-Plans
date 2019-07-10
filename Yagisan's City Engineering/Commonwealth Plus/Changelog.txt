@@ -1,4 +1,15 @@
-Changelog
+After installing a fixed city plan, you will need to perform two actions at the city planners desk to ensure the fixes are applied.
+ 
+First select the blueprint on the desk, and scroll down to [b]Refresh City[/b]. Select it. It may take some time.
+Second, activate the terminal, select Tools -> Configuration Tools -> [b]Rebuild Local Data[/b]. Select it. It may take some time.
+
+Once this procedure is complete, all fixes will have been applied to the city plan.
+
+---
+
+[b]Version 2      (2019/XX/YY)[/b]
+
+[b][color=#ffd966][NEW][/color][/b]   ﻿[color=#6d9eeb][b]ComEng: Home Plate Outpost[/b][/color] [b]Initial Release.[/b]
 
 [b]Version 1      (2019/07/01)[/b]
 

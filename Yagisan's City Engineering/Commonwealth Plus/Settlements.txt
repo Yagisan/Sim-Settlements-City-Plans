@@ -21,9 +21,20 @@ Red Rocket Fort Hagen Salvage Center is a small outpost. It contains recycling f
 [b]Player Home:[/b] Yes
 [b]File Type:[/b] ESL
 
+[color=#00ff00][size=5][b]Settlement: Home Plate[/b][/size][/color]
+
+[color=#6d9eeb][b]ComEng: Home Plate Outpost[/b][/color]
+Home Plate Outpost is a small faction outpost in located in Diamond City. Supports 6 settlers. There is no recruitment beacon.
+[b]Levels:[/b] 1
+[b]Balanced:[/b] Yes
+[b]Max Settlers:[/b] 6
+[b]Player Home:[/b] Yes
+[b]File Type:[/b] ESL
+
 [color=#8e7cc3][b]Settlement Mods[/b][/color]
 The Settlement Mods are absolutely required if you wish to use these plans in game. If you are missing a settlement mod, you will be unable to use city plans for that settlement.
 [url=https://www.nexusmods.com/fallout4/mods/35553]Settlements Redone - Lakeside Cabin Settlement[/url]
 [url=https://www.nexusmods.com/fallout4/mods/35405]Settlements Redone - Red Rocket Settlements[/url]
+[url=https://www.nexusmods.com/fallout4/mods/34001]Home Plate Full Settlement[/url]
 
 [/font]

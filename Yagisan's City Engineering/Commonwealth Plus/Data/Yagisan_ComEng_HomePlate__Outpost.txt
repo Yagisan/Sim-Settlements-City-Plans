@@ -1,0 +1,3 @@
+City Plan Name:	ComEng: Home Plate Outpost
+Designer:		Yagisan
+Description:	Home Plate Outpost is a small faction outpost in located in Diamond City. Supports 6 settlers. There is no recruitment beacon.
