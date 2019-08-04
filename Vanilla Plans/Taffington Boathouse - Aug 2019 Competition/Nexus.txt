@@ -1,0 +1,27 @@
+[font=Verdana][XB1] Sim Settlements City Plans - Taffington Boathouse Inn by Yagisan
+
+Taffington Boathouse Inn is Yagisan's entry into the Aug 2019 City Plan design competition. Taffington Boathouse Inn is a commercial and recreation centre. Ideally located for traveller's crossing The Commonwealth, it also boasts a working industrial sized water purifier, with a large storage tank. Includes a small player home. Supports 15 settlers.
+
+[color=#6d9eeb][b]Settlement: Taffington Boathouse[/b][/color]
+[url=https://www.nexusmods.com/fallout4/mods/21872]Requires Version 4.1.1 or Greater of Sim Settlements 3-In-1[/url]
+
+[b]Levels:[/b] 3
+[b]Balanced:[/b] Yes
+[b]Max Settlers:[/b] 15
+[b]Player Home:[/b] Yes
+[b]File Type:[/b] ESL
+
+[color=#8e7cc3][b]Required DLC[/b][/color]
+None
+
+[color=#8e7cc3][b]Yagisan's Standard Designer's Choice Mods[/b][/color]
+Designer's Choice Mods are additional Sim Settlements plots that are used in most City Plans. To ensure the city plan looks as intended, you should have them installed.
+Missing mods will result in random plots taking the place of chosen plots. This may result in settlements not matching their themes.
+[url=https://www.nexusmods.com/fallout4/mods/28945]Sim Settlements - IDEK's Logistics Station[/url] (ESL Version)
+[url=https://www.nexusmods.com/fallout4/mods/30396]Sim Settlements - Mega Pack - Year One[/url]
+[url=https://www.nexusmods.com/fallout4/mods/31206]Sim Settlements - Flotsam and Jetsam[/url]
+[url=https://www.nexusmods.com/fallout4/mods/30081]Sim Settlements - Wasteland Venturers 2[/url] (All-In-One)
+[url=https://www.nexusmods.com/fallout4/mods/23948]Sim Settlements - Industrial City[/url]
+[url=https://www.nexusmods.com/fallout4/mods/31591]Sim Settlements - Vault-Tec Tools[/url]
+[url=https://www.nexusmods.com/fallout4/mods/36961]Sim Settlements - CaptainLaserBeam's Jampads[/url]
+[/font]
