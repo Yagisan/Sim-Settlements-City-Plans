@@ -8,10 +8,15 @@ All City plans are designed by Yagisan.
 [color=#00ff00][size=5][b]Settlement: Red Rocket Fort Hagen[/b][/size][/color]
 [color=#6d9eeb][b]ComEng: Red Rocket Fort Hagen Salvage Center[/b][/color]
 
+[color=#00ff00][size=5][b]Settlement: Home Plate[/b][/size][/color]
+[color=#6d9eeb][b]]ComEng: Home Plate Outpost[/b][/color]
+
 [color=#8e7cc3][b]Settlement Mods[/b][/color]
 The Settlement Mods are absolutely required if you wish to use these plans in game. If you are missing a settlement mod, you will be unable to use city plans for that settlement.
 [url=https://www.nexusmods.com/fallout4/mods/35553]Settlements Redone - Lakeside Cabin Settlement[/url]
 [url=https://www.nexusmods.com/fallout4/mods/35405]Settlements Redone - Red Rocket Settlements[/url]
+[url=https://www.nexusmods.com/fallout4/mods/34001]Home Plate Full Settlement[/url]
+[url=https://www.nexusmods.com/fallout4/mods/36032]Whisper's Power Armor Basement[/url]
 
 [color=#8e7cc3][b]Required DLC[/b][/color]
 Automatron
@@ -42,6 +47,7 @@ Missing mods will result in random plots taking the place of chosen plots, and m
 [url=https://www.nexusmods.com/fallout4/mods/31206]Sim Settlements - Flotsam and Jetsam[/url]
 [url=https://www.nexusmods.com/fallout4/mods/31473]Sim Settlements - Plots by Paw Paw[/url]
 [url=https://www.nexusmods.com/fallout4/mods/31591]Sim Settlements - Vault-Tec Tools[/url]
+[url=https://www.nexusmods.com/fallout4/mods/31736]Sim Settlements - VFX Downtown[/url]
 [url=https://www.nexusmods.com/fallout4/mods/31972]Sim Settlements - RS Buildings[/url]
 [url=https://www.nexusmods.com/fallout4/mods/36913]Sim Settlements - Blood Moon Raiders[/url]
 [url=https://www.nexusmods.com/fallout4/mods/36961]Sim Settlements - CaptainLaserBeam's Jampads[/url]
@@ -49,6 +55,10 @@ Missing mods will result in random plots taking the place of chosen plots, and m
 [url=https://www.nexusmods.com/fallout4/mods/38007]Sim Settlements - SirLach's Intimate Spaces[/url]
 [url=https://www.nexusmods.com/fallout4/mods/38663]Sim Settlements - Pra's Random Addon[/url]
 [url=https://www.nexusmods.com/fallout4/mods/38833]Sim Settlements - SirLach's Ultimate Defenses[/url]
+[url=https://www.nexusmods.com/fallout4/mods/39816]Sim Settlements - Slocum Joes by Iztari[/url]
+[url=https://www.nexusmods.com/fallout4/mods/39860]Sim Settlements - NuCa Ola Cafe by Iztari[/url]
+[url=https://www.nexusmods.com/fallout4/mods/40181]Sim Settlements - VFX Foundations[/url]
+[url=https://www.nexusmods.com/fallout4/mods/40320]Sim Settlements - Simple Living[/url]
 
 [color=#8e7cc3][b]Required Decoration Mods[/b][/color]
 Required Decoration Mods are additional mods used for landscaping and decoration. To ensure the city plan looks as intended, you should have them installed.

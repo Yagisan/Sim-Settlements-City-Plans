@@ -8,11 +8,15 @@ Once this procedure is complete, all fixes will have been applied to the city pl
 ---
 
 [b]Version 2      (2019/XX/YY)[/b]
-
+[b][color=#ff00ff][INFO][/color][/b]   ﻿[b]New settlements added:
+   ﻿   Home Plate
+   ﻿   Swans Pond
+   ﻿   Fens Way Station
+   ﻿   Power Armor Basement[/b]
 [b][color=#ffd966][NEW][/color][/b]   ﻿[color=#6d9eeb][b]ComEng: Home Plate Outpost[/b][/color] [b]Initial Release.[/b]
 
 [b]Version 1      (2019/07/01)[/b]
 
 [b][color=#ff00ff][INFO][/color][/b]   ﻿[b]Initial Release.[/b]
-[b][color=#ffd966][NEW][/color]﻿[/b]   [color=#6d9eeb][b]ComEng: Lakeside Cabin Hippy Retreat[/b][/color]
+[b][color=#ffd966][NEW][/color][/b]   ﻿[color=#6d9eeb][b]ComEng: Lakeside Cabin Hippy Retreat[/b][/color]
 [b][color=#ffd966][NEW][/color][/b]   ﻿[color=#6d9eeb][b]ComEng: Red Rocket Fort Hagen Salvage Center[/b][/color]

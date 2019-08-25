@@ -8,7 +8,12 @@ Once this procedure is complete, all fixes will have been applied to the city pl
 ---
 
 [b]Version 2      (2019/XX/YY)[/b]
-
+[b][color=#ff00ff][INFO][/color][/b]   ﻿[b]New addons needed:
+   ﻿   ﻿[url=https://www.nexusmods.com/fallout4/mods/31736]Sim Settlements - VFX Downtown[/url]
+   ﻿   ﻿[url=https://www.nexusmods.com/fallout4/mods/39816]Sim Settlements - Slocum Joes by Iztari[/url] - Optional
+   ﻿   ﻿[url=https://www.nexusmods.com/fallout4/mods/39860]Sim Settlements - NuCa Ola Cafe by Iztari[/url] - Optional
+   ﻿   ﻿[url=https://www.nexusmods.com/fallout4/mods/40181]Sim Settlements - VFX Foundations[/url]
+   ﻿   ﻿[url=https://www.nexusmods.com/fallout4/mods/40320]Sim Settlements - Simple Living[/url][/b]
 [b][color=#ff00ff][FIX][/color][/b]   ﻿[color=#6d9eeb][b]ComEng: Sanctuary Market City
    ﻿   ﻿[/b][/color][b]Remove floating bench (L0, L1, L2, L3).
    ﻿   ﻿Remove floating tree (L0, L1).

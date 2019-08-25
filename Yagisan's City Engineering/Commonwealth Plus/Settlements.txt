@@ -33,8 +33,11 @@ Home Plate Outpost is a small faction outpost in located in Diamond City. Suppor
 
 [color=#8e7cc3][b]Settlement Mods[/b][/color]
 The Settlement Mods are absolutely required if you wish to use these plans in game. If you are missing a settlement mod, you will be unable to use city plans for that settlement.
-[url=https://www.nexusmods.com/fallout4/mods/35553]Settlements Redone - Lakeside Cabin Settlement[/url]
-[url=https://www.nexusmods.com/fallout4/mods/35405]Settlements Redone - Red Rocket Settlements[/url]
 [url=https://www.nexusmods.com/fallout4/mods/34001]Home Plate Full Settlement[/url]
+[url=https://www.nexusmods.com/fallout4/mods/35405]Settlements Redone - Red Rocket Settlements[/url]
+[url=https://www.nexusmods.com/fallout4/mods/35486]Settlements Redone - Fens Way Station[/url]
+[url=https://www.nexusmods.com/fallout4/mods/35553]Settlements Redone - Lakeside Cabin Settlement[/url]
+[url=https://www.nexusmods.com/fallout4/mods/36032]Whisper's Power Armor Basement[/url]
+[url=https://www.nexusmods.com/fallout4/mods/38025]Swan's Pond - Settlement[/url]
 
 [/font]
