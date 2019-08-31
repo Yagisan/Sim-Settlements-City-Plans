@@ -11,12 +11,17 @@ All City plans are designed by Yagisan.
 [color=#00ff00][size=5][b]Settlement: Home Plate[/b][/size][/color]
 [color=#6d9eeb][b]]ComEng: Home Plate Outpost[/b][/color]
 
+[color=#00ff00][size=5][b]Settlement: Swan's Pond[/b][/size][/color]
+[color=#6d9eeb][b]ComEng: Swan's Pond Temple Gardens[/b][/color]
+
 [color=#8e7cc3][b]Settlement Mods[/b][/color]
 The Settlement Mods are absolutely required if you wish to use these plans in game. If you are missing a settlement mod, you will be unable to use city plans for that settlement.
-[url=https://www.nexusmods.com/fallout4/mods/35553]Settlements Redone - Lakeside Cabin Settlement[/url]
-[url=https://www.nexusmods.com/fallout4/mods/35405]Settlements Redone - Red Rocket Settlements[/url]
 [url=https://www.nexusmods.com/fallout4/mods/34001]Home Plate Full Settlement[/url]
+[url=https://www.nexusmods.com/fallout4/mods/35405]Settlements Redone - Red Rocket Settlements[/url]
+[url=https://www.nexusmods.com/fallout4/mods/35486]Settlements Redone - Fens Way Station[/url]
+[url=https://www.nexusmods.com/fallout4/mods/35553]Settlements Redone - Lakeside Cabin Settlement[/url]
 [url=https://www.nexusmods.com/fallout4/mods/36032]Whisper's Power Armor Basement[/url]
+[url=https://www.nexusmods.com/fallout4/mods/38025]Swan's Pond - Settlement[/url]
 
 [color=#8e7cc3][b]Required DLC[/b][/color]
 Automatron
@@ -30,7 +35,7 @@ Nuka-World
 Designer's Choice Mods are additional Sim Settlements plots that are used in most City Plans. Many of these addons also include furniture that is used in designs.
 To ensure the city plan looks as intended, you should have them installed.
 Missing mods will result in random plots taking the place of chosen plots, and missing furniture. This may result in settlements not matching their themes.
-[url=https://www.nexusmods.com/fallout4/mods/21872]Sim Settlements - 4.0.4 or Greater of Sim Settlements 3-In-1[/url]
+[url=https://www.nexusmods.com/fallout4/mods/21872]Sim Settlements - 4.1.2 or Greater of Sim Settlements 3-In-1[/url]
 [url=https://www.nexusmods.com/fallout4/mods/37000]Sim Settlements - Conqueror[/url]
 [url=https://www.nexusmods.com/fallout4/mods/23421]Sim Settlements - Altairp's Animal Farm[/url]
 [url=https://www.nexusmods.com/fallout4/mods/23917]Sim Settlements - Ruined Homes and Gardens[/url]
