@@ -41,6 +41,16 @@ Swan's Pond Temple Gardens is a small farming community. Centred around Swan's P
 [b]Player Home:[/b] Yes
 [b]File Type:[/b] ESL
 
+[color=#00ff00][size=5][b]Settlement: Power Armor Basement[/b][/size][/color]
+
+[color=#6d9eeb][b]ComEng: Power Armor Basement Skunkworks[/b][/color]
+The Power Armor Basement Skunkworks is a large power armor repair and storage facility located under Home Plate in Diamond City. It boasts a sizeable industry devoted to producing raw materials needed for construction and repair of power armor. Imports food and water. Includes a player home. Supports 20 settlers.
+[b]Levels:[/b] 3
+[b]Balanced:[/b] Yes
+[b]Max Settlers:[/b] 20
+[b]Player Home:[/b] Yes
+[b]File Type:[/b] ESL
+
 [color=#8e7cc3][b]Settlement Mods[/b][/color]
 The Settlement Mods are absolutely required if you wish to use these plans in game. If you are missing a settlement mod, you will be unable to use city plans for that settlement.
 [url=https://www.nexusmods.com/fallout4/mods/34001]Home Plate Full Settlement[/url]

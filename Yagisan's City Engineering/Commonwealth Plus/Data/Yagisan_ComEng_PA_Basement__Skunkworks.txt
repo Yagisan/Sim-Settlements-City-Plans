@@ -1,0 +1,3 @@
+City Plan Name:	ComEng: Power Armor Basement Skunkworks
+Designer:		Yagisan
+Description:	The Power Armor Basement Skunkworks is a large power armor repair and storage facility located under Home Plate in Diamond City. It boasts a sizeable industry devoted to producing raw materials needed for construction and repair of power armor. Imports food and water. Includes a player home. Supports 20 settlers.

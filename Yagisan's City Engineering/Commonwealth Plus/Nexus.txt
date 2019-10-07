@@ -14,6 +14,9 @@ All City plans are designed by Yagisan.
 [color=#00ff00][size=5][b]Settlement: Swan's Pond[/b][/size][/color]
 [color=#6d9eeb][b]ComEng: Swan's Pond Temple Gardens[/b][/color]
 
+[color=#00ff00][size=5][b]Settlement: Power Armor Basement[/b][/size][/color]
+[color=#6d9eeb][b]ComEng: Power Armor Basement Skunkworks[/b][/color]
+
 [color=#8e7cc3][b]Settlement Mods[/b][/color]
 The Settlement Mods are absolutely required if you wish to use these plans in game. If you are missing a settlement mod, you will be unable to use city plans for that settlement.
 [url=https://www.nexusmods.com/fallout4/mods/34001]Home Plate Full Settlement[/url]
@@ -70,8 +73,8 @@ Required Decoration Mods are additional mods used for landscaping and decoration
 Missing mods will result in missing items and missing landscaping. This is not a bug.
 [url=https://www.nexusmods.com/fallout4/mods/14326]CWSS Redux[/url]
 [url=https://www.nexusmods.com/fallout4/mods/14532]Do It Yourshelf[/url]
-[url=https://www.nexusmods.com/fallout4/mods/17141]Modular Kitchen[/url]
-[url=https://www.nexusmods.com/fallout4/mods/20782]CREAtive Clutter[/url]
+[url=https://bethesda.net/en/mods/fallout4/mod-detail/4096569]Modular Kitchen[/url]
+[url=https://bethesda.net/en/mods/fallout4/mod-detail/3411824]CREAtive Clutter[/url]
 
 [color=#8e7cc3][b]Yagisan's Recommended Faction Packs[/b][/color]
 Faction Packs can be used by Conqueror to prepopulate settlements, or by the player to vary their playthrough.
