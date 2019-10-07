@@ -14,7 +14,7 @@ Once this procedure is complete, all fixes will have been applied to the city pl
    ﻿   Power Armor Basement[/b]
 [b][color=#ffd966][NEW][/color][/b]   ﻿[color=#6d9eeb][b]ComEng: Home Plate Outpost[/b][/color]
 [b][color=#ffd966][NEW][/color][/b]   ﻿[color=#6d9eeb][b]ComEng: Swan's Pond Temple Gardens[/b][/color]
-[b][color=#ffd966][NEW][/color][/b]   ﻿[color=#6d9eeb][b]ComEng: ComEng: Power Armor Basement Skunkworks[/b][/color]
+[b][color=#ffd966][NEW][/color][/b]   ﻿[color=#6d9eeb][b]ComEng: Power Armor Basement Skunkworks[/b][/color]
 
 [b]Version 1      (2019/07/01)[/b]
 
