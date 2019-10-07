@@ -1,3 +1,3 @@
 City Plan Name:	ComEng: Swan's Pond Temple Gardens
 Designer:		Yagisan
-Description:	Swan's Pond Temple Gardens is a small farming community. Centred around Swan's Pond, it features lush gardens and inner city farmland. Exports food and Water. Includes a player home. Supports 12 settlers.
+Description:	Swan's Pond Temple Gardens is a small farming community. Centred around Swan's Pond, it features lush gardens and inner city farmland. Exports food and water. Includes a player home. Supports 12 settlers.

@@ -34,7 +34,7 @@ Home Plate Outpost is a small faction outpost in located in Diamond City. Suppor
 [color=#00ff00][size=5][b]Settlement: Swan's Pond[/b][/size][/color]
 
 [color=#6d9eeb][b]ComEng: Swan's Pond Temple Gardens[/b][/color]
-Swan's Pond Temple Gardens is a small farming community. Centred around Swan's Pond, it features lush gardens and inner city farmland. Exports food and Water. Includes a player home. Supports 12 settlers.
+Swan's Pond Temple Gardens is a small farming community. Centred around Swan's Pond, it features lush gardens and inner city farmland. Exports food and water. Includes a player home. Supports 12 settlers.
 [b]Levels:[/b] 3
 [b]Balanced:[/b] Yes
 [b]Max Settlers:[/b] 12
