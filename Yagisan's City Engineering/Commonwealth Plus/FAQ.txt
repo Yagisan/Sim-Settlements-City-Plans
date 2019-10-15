@@ -13,4 +13,8 @@ You need to refresh bugfixed city plans before the fixes will appear.
 First select the blueprint on the desk, and scroll down to [b]Refresh City[/b]. Select it. It may take some time.
 Second, activate the terminal, select Tools -> Configuration Tools -> [b]Rebuild Local Data[/b]. Select it. It may take some time.
 
+[color=#6d9eeb][b]The city has advanced a level, and now objects are spawning inside each other. How do I fix this?[/b][/color]
+Please remain in the settlement for a few minutes after a level upgrade.
+It takes some time for the deletion code to run after an upgrade. Larger settlements take longer to finish.
+
 [/font]
