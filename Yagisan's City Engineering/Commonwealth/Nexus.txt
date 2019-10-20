@@ -60,9 +60,9 @@ Missing mods will result in random plots taking the place of chosen plots, and m
 Required Decoration Mods are additional mods used for landscaping and decoration. To ensure the city plan looks as intended, you should have them installed.
 Missing mods will result in missing items and missing landscaping. This is not a bug.
 [url=https://www.nexusmods.com/fallout4/mods/14326]CWSS Redux[/url]
-[url=https://www.nexusmods.com/fallout4/mods/14532]Do It Yourshelf[/url]
-[url=https://www.nexusmods.com/fallout4/mods/17141]Modular Kitchen[/url]
-[url=https://www.nexusmods.com/fallout4/mods/20782]CREAtive Clutter[/url]
+[url=https://bethesda.net/en/mods/fallout4/mod-detail/4129753]Do It Yourshelf[/url]
+[url=https://bethesda.net/en/mods/fallout4/mod-detail/4096569]Modular Kitchen[/url]
+[url=https://bethesda.net/en/mods/fallout4/mod-detail/3411824]CREAtive Clutter[/url]
 
 [color=#8e7cc3][b]Yagisan's Recommended Faction Packs[/b][/color]
 Faction Packs can be used by Conqueror to prepopulate settlements, or by the player to vary their playthrough.

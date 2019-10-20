@@ -73,7 +73,7 @@ Sim Settlements - Overgrowth
 Required Decoration Mods are additional mods used for landscaping and decoration. To ensure the city plan looks as intended, you should have them installed.
 Missing mods will result in missing items and missing landscaping. This is not a bug.
 [url=https://www.nexusmods.com/fallout4/mods/14326]CWSS Redux[/url]
-[url=https://www.nexusmods.com/fallout4/mods/14532]Do It Yourshelf[/url]
+[url=https://bethesda.net/en/mods/fallout4/mod-detail/4129753]Do It Yourshelf[/url]
 [url=https://bethesda.net/en/mods/fallout4/mod-detail/4096569]Modular Kitchen[/url]
 [url=https://bethesda.net/en/mods/fallout4/mod-detail/3411824]CREAtive Clutter[/url]
 
