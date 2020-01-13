@@ -1,0 +1,3 @@
+City Plan Name:	ComEng: Boston Airport Barracks
+Designer:		Yagisan
+Description:	Boston Airport Barracks is a medium sized military outpost. It contains a munitions plant, military salvage yard, and a small infirmary. Needs to import water. Includes a small player home. Supports 15 settlers.
