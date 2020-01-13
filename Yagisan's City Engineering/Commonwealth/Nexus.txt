@@ -14,6 +14,9 @@ All City plans are designed by Yagisan.
 [color=#00ff00][size=5][b]Settlement: Tenpines Bluff[/b][/size][/color]
 [color=#6d9eeb][b]ComEng: Tenpines Bluff Pharma Farm[/b][/color]
 
+[color=#00ff00][size=5][b]Settlement: Boston Airport[/b][/size][/color]
+[color=#6d9eeb][b]ComEng: Boston Airport Barracks[/b][/color]
+
 [color=#8e7cc3][b]Required DLC[/b][/color]
 Automatron
 Wasteland Workshop
@@ -26,7 +29,7 @@ Nuka-World
 Designer's Choice Mods are additional Sim Settlements plots that are used in most City Plans. Many of these addons also include furniture that is used in designs.
 To ensure the city plan looks as intended, you should have them installed.
 Missing mods will result in random plots taking the place of chosen plots, and missing furniture. This may result in settlements not matching their themes.
-[url=https://www.nexusmods.com/fallout4/mods/21872]Sim Settlements - 4.0.4 or Greater of Sim Settlements 3-In-1[/url]
+[url=https://www.nexusmods.com/fallout4/mods/21872]Sim Settlements - 4.2.1 or Greater of Sim Settlements 3-In-1[/url]
 [url=https://www.nexusmods.com/fallout4/mods/37000]Sim Settlements - Conqueror[/url]
 [url=https://www.nexusmods.com/fallout4/mods/23421]Sim Settlements - Altairp's Animal Farm[/url]
 [url=https://www.nexusmods.com/fallout4/mods/23917]Sim Settlements - Ruined Homes and Gardens[/url]
@@ -67,9 +70,11 @@ Missing mods will result in missing items and missing landscaping. This is not a
 [color=#8e7cc3][b]Yagisan's Recommended Faction Packs[/b][/color]
 Faction Packs can be used by Conqueror to prepopulate settlements, or by the player to vary their playthrough.
 [url=https://www.nexusmods.com/fallout4/mods/38111]Sim Settlements Faction Packs - Megapack 1 by Yagisan[/url] In Development. Release TBD.
-[url=https://www.nexusmods.com/fallout4/mods/37972]Sim Settlements Playable Conqueror Faction - Super Mutants[/url]
-[url=https://www.nexusmods.com/fallout4/mods/38208]Sim Settlements Conqueror Brotherhood of Steel Faction Pack[/url]
-[url=https://www.nexusmods.com/fallout4/mods/38995]Sim Settlements Conqueror Faction Pack- The Institute[/url]
+[url=https://www.nexusmods.com/fallout4/mods/37972]Sim Settlements Conqueror Faction Pack - Super Mutants[/url]
+[url=https://www.nexusmods.com/fallout4/mods/38208]Sim Settlements Conqueror Faction Pack - Brotherhood of Steel[/url]
+[url=https://www.nexusmods.com/fallout4/mods/38995]Sim Settlements Conqueror Faction Pack - The Institute[/url]
+[url=https://www.nexusmods.com/fallout4/mods/41831]Sim Settlements Conqueror Faction Pack - The Regulators[/url]
+[url=https://www.nexusmods.com/fallout4/mods/42543]Sim Settlements Conqueror Faction Pack - Atom's Glory[/url]
 
 [color=#8e7cc3][b]Yagisan's Recommended Leader Packs[/b][/color]
 Leader Packs can be used by Sim Settlements to increase the pool of potential leaders for growing settlements, and to further customise each settlement.

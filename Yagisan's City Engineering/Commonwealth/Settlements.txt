@@ -40,4 +40,14 @@ Tenpines Bluff Pharma Farm is a small outpost. It contains some commercial servi
 [b]Player Home:[/b] Yes
 [b]File Type:[/b] ESL
 
+[color=#00ff00][size=5][b]Settlement: Tenpines Bluff[/b][/size][/color]
+
+[color=#6d9eeb][b]ComEng: Boston Airport Barracks[/b][/color]
+Boston Airport Barracks is a medium sized military outpost. It contains a munitions plant, military salvage yard, and a small infirmary. Needs to import water. Includes a small player home. Supports 15 settlers.
+[b]Levels:[/b] 3
+[b]Balanced:[/b] Yes
+[b]Max Settlers:[/b] 15
+[b]Player Home:[/b] Yes
+[b]File Type:[/b] ESL
+
 [/font]
