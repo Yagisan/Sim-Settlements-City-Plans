@@ -2,6 +2,9 @@ Commonwealth Engineering is an evergrowing megapack of Sim Settlements City Plan
 All City plans are designed by Yagisan.
 
 [font=Verdana][size=6][center]Commonwealth Engineering by Yagisan[/center][/size]
+
+[b][center][size=4]Please consider supporting me on [url=https://www.patreon.com/yagisan]Patreon[/url]﻿. Your support enables me to devote more time to making mods.[/size][/center][/b]
+
 [color=#00ff00][size=5][b]Settlement: Sanctuary[/b][/size][/color]
 [color=#6d9eeb][b]ComEng: Sanctuary Market City[/b][/color]
 
@@ -69,7 +72,6 @@ Missing mods will result in missing items and missing landscaping. This is not a
 
 [color=#8e7cc3][b]Yagisan's Recommended Faction Packs[/b][/color]
 Faction Packs can be used by Conqueror to prepopulate settlements, or by the player to vary their playthrough.
-[url=https://www.nexusmods.com/fallout4/mods/38111]Sim Settlements Faction Packs - Megapack 1 by Yagisan[/url] In Development. Release TBD.
 [url=https://www.nexusmods.com/fallout4/mods/37972]Sim Settlements Conqueror Faction Pack - Super Mutants[/url]
 [url=https://www.nexusmods.com/fallout4/mods/38208]Sim Settlements Conqueror Faction Pack - Brotherhood of Steel[/url]
 [url=https://www.nexusmods.com/fallout4/mods/38995]Sim Settlements Conqueror Faction Pack - The Institute[/url]

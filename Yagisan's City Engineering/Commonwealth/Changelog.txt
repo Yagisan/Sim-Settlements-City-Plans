@@ -7,7 +7,7 @@ Once this procedure is complete, all fixes will have been applied to the city pl
 
 ---
 
-[b]Version 2      (2019/XX/YY)[/b]
+[b]Version 2      (2020/01/15)[/b]
 [b][color=#ffd966][NEW][/color][/b]   ﻿[color=#6d9eeb][b]ComEng: Boston Airport Barracks[/b][/color] [b]Initial Release.[/b]
 
 [b][color=#ff00ff][INFO][/color][/b]   ﻿[b]New addons needed:[/b]
@@ -35,6 +35,7 @@ Once this procedure is complete, all fixes will have been applied to the city pl
    ﻿   ﻿[b]Add missing toilet doors (L1, L2, L3).
    ﻿   ﻿Remove Junk Wall blocking exit gate (L2, L3).
    ﻿   ﻿Change flickering foundations to concrete (L0, L1, L2, L3).
+   ﻿   ﻿Fix floating lights (L1, L2, L3).
    ﻿   ﻿Disguise DIY towel clipping (L2, L3).
    ﻿   ﻿Remove DIY towels (L0, L1).[/b]
 

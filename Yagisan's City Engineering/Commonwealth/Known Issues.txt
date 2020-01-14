@@ -3,20 +3,27 @@
 [color=#00ff00][size=5][b]General Issues[/b][/size][/color]
 
 [b][color=#ff00ff][ISSUE][/color][/b]   ﻿[b]None of your plans are appearing.[/b]
+
 If you are using Vortex, please make sure it has actually enabled the mods. Exit Vortex, and restart it. Click on Plugins, and filter on [b]Status: Disabled[/b]. Enable all plugins that begin with [b]Yagisan_ComEng[/b].
 
 [color=#00ff00][size=5][b]City Plan Issues[/b][/size][/color]
-[b][color=#ff00ff][ISSUE][/color][/b]   ﻿[b]Letters on the marquee signs in Boston Airport Barracks are missing.[/b]
+[b][color=#ff00ff]
+[ISSUE][/color][/b]   ﻿[b]Letters on the marquee signs in Boston Airport Barracks are missing.[/b]
+
 This is due to a rounding error in the City Plan Maker. Select the marquee signs in workshop mode, and move them to see the upgrade instuctions.
 
 [color=#00ff00][size=5][b]Settlement Issues[/b][/size][/color]
 
 [b][color=#ff00ff][ISSUE][/color][/b]   ﻿[b]There are still brambles in Sanctuary.[/b]
+
 Please sort [b]Yagisan_ComEng_Sanctuary.esp[/b] after [b]SimSettlements_Addon_FrankTownVRonTown.esp[/b]
 
 [b][color=#ff00ff][ISSUE][/color][/b]   ﻿[b]There are still brambles in Red Rocket.[/b]
+
 Please sort [b]Yagisan_ComEng_RedRocket.esp[/b] after [b]NWS_Barbara.esp[/b]
 
 [b][color=#ff00ff][ISSUE][/color][/b]   ﻿[b]There are still brambles in Abernathy Farm.[/b]
+
 Please sort [b]Yagisan_ComEng_AbernathyFarm.esp[/b] after [b]wickedworkshop2.esp[/b]
 Please sort [b]Yagisan_ComEng_AbernathyFarm.esp[/b] after [b]ButtonsCompanion.esp[/b]
+[/font]
