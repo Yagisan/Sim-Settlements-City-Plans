@@ -1,0 +1,3 @@
+City Plan Name:	ComEng: Taffington Boathouse Fishery
+Designer:		Yagisan
+Description:	Taffington Boathouse Fishery is a medium sized fishery. It contains a fishery, several traders, and an industrial water purifier. Needs to import water. Includes a large player home. Supports 15 settlers.

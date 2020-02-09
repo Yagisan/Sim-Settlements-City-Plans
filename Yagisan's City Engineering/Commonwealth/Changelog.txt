@@ -6,6 +6,8 @@ Second, activate the terminal, select Tools -> Configuration Tools -> [b]Rebuild
 Once this procedure is complete, all fixes will have been applied to the city plan.
 
 ---
+[b]Version 3      (2020/02/10)[/b]
+[b][color=#ffd966][NEW][/color][/b]   ﻿[color=#6d9eeb][b]ComEng: Taffington Boathouse Fishery[/b][/color] [b]Initial Release.[/b]
 
 [b]Version 2      (2020/01/15)[/b]
 [b][color=#ffd966][NEW][/color][/b]   ﻿[color=#6d9eeb][b]ComEng: Boston Airport Barracks[/b][/color] [b]Initial Release.[/b]
@@ -42,7 +44,6 @@ Once this procedure is complete, all fixes will have been applied to the city pl
 [b][color=#00ffff][FIX][/color][/b]   ﻿[color=#6d9eeb][b]ComEng: Abernathy Cannery[/b][/color]
    ﻿   ﻿[b]Fix floating rocks (L0, L1, L2).
    ﻿   ﻿Fix clipping mixologist workbench (L2, L3).[/b]
-
 
 [b]Version 1      (2019/06/15)[/b]
 
