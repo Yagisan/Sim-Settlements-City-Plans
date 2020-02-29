@@ -50,7 +50,7 @@ Boston Airport Barracks is a medium sized military outpost. It contains a muniti
 [b]Player Home:[/b] Yes
 [b]File Type:[/b] ESL
 
-[color=#00ff00][size=5][b]Settlement: Boston Airport[/b][/size][/color]
+[color=#00ff00][size=5][b]Settlement: Taffington Boathouse[/b][/size][/color]
 
 [color=#6d9eeb][b]ComEng: Taffington Boathouse Fishery[/b][/color]
 Taffington Boathouse Fishery is a medium sized fishery. It contains a fishery, several traders, and an industrial water purifier. Includes a large player home. Supports 15 settlers.
