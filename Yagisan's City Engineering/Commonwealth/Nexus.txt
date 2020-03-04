@@ -23,6 +23,9 @@ All City plans are designed by Yagisan.
 [color=#00ff00][size=5][b]Settlement: Taffington Boathouse[/b][/size][/color]
 [color=#6d9eeb][b]ComEng: Taffington Boathouse Fishery[/b][/color]
 
+[color=#00ff00][size=5][b]Settlement: County Crossing[/b][/size][/color]
+[color=#6d9eeb][b]ComEng: County Crossing Munitions[/b][/color]
+
 [color=#8e7cc3][b]Required DLC[/b][/color]
 Automatron
 Wasteland Workshop
@@ -64,6 +67,7 @@ Missing mods will result in random plots taking the place of chosen plots, and m
 [url=https://www.nexusmods.com/fallout4/mods/39860]Sim Settlements - NuCa Ola Cafe by Iztari[/url]
 [url=https://www.nexusmods.com/fallout4/mods/40181]Sim Settlements - VFX Foundations[/url]
 [url=https://www.nexusmods.com/fallout4/mods/40320]Sim Settlements - Simple Living[/url]
+[url=https://www.nexusmods.com/fallout4/mods/41023]Sim Settlements - Captain Cosmos Construct[/url]
 
 [color=#8e7cc3][b]Required Decoration Mods[/b][/color]
 Required Decoration Mods are additional mods used for landscaping and decoration. To ensure the city plan looks as intended, you should have them installed.

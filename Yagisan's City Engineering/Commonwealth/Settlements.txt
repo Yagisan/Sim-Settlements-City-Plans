@@ -60,4 +60,14 @@ Taffington Boathouse Fishery is a medium sized fishery. It contains a fishery, s
 [b]Player Home:[/b] Yes
 [b]File Type:[/b] ESL
 
+[color=#00ff00][size=5][b]Settlement: County Crossing[/b][/size][/color]
+
+[color=#6d9eeb][b]ComEng: County Crossing Munitions[/b][/color]
+County Crossing Munitions is a medium sized farm. It contains a munitions plant, weapons store, distillery, and eventually self-sufficient selection of crops. Includes a small player home. Supports 15 settlers.
+[b]Levels:[/b] 3
+[b]Balanced:[/b] Yes
+[b]Max Settlers:[/b] 15
+[b]Player Home:[/b] Yes
+[b]File Type:[/b] ESL
+
 [/font]
