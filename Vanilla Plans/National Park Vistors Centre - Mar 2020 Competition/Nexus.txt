@@ -1,0 +1,31 @@
+[font=Verdana]	NPVC Island Outpost by Yagisan
+
+NPVC Island Outpost is Yagisan's entry into the Mar 2020 City Plan design competition. NPVC Island Outpost is a farming and military outpost. Located within a fortified compound, within the national park, it provides essential services, and a safe place to stay, while crossing the island. Includes a small player home. Supports 12 settlers.
+
+[color=#6d9eeb][b]Settlement: National Park Visitor's Centre[/b][/color]
+[url=https://www.nexusmods.com/fallout4/mods/21872]Requires Version 4.2.4 or Greater of Sim Settlements 3-In-1[/url]
+
+[b]Levels:[/b] 3
+[b]Balanced:[/b] Yes
+[b]Max Settlers:[/b] 12
+[b]Player Home:[/b] Yes
+[b]File Type:[/b] ESL
+
+[color=#8e7cc3][b]Required DLC[/b][/color]
+None
+
+[color=#8e7cc3][b]Yagisan's Standard Designer's Choice Mods[/b][/color]
+Designer's Choice Mods are additional Sim Settlements plots that are used in most City Plans. To ensure the city plan looks as intended, you should have them installed.
+Missing mods will result in random plots taking the place of chosen plots. This may result in settlements not matching their themes.
+[url=https://www.nexusmods.com/fallout4/mods/25679]Sim Settlements - Scrappers[/url]
+[url=https://www.nexusmods.com/fallout4/mods/28945]Sim Settlements - IDEK's Logistics Station[/url] (ESL Version)
+[url=https://www.nexusmods.com/fallout4/mods/30081]Sim Settlements - Wasteland Venturers 2[/url] (All-In-One)
+[url=https://www.nexusmods.com/fallout4/mods/31591]Sim Settlements - Vault-Tec Tools[/url]
+[url=https://www.nexusmods.com/fallout4/mods/31972]Sim Settlements - RS Buildings[/url]
+[url=https://www.nexusmods.com/fallout4/mods/36961]Sim Settlements - CaptainLaserBeam's Jampads[/url]
+[url=https://www.nexusmods.com/fallout4/mods/37983]Sim Settlements - Mega Pack - Year Two[/url]
+[url=https://www.nexusmods.com/fallout4/mods/38007]Sim Settlements - SirLach's Intimate Spaces[/url]
+[url=https://www.nexusmods.com/fallout4/mods/38663]Sim Settlements - Pra's Random Addon[/url]
+[url=https://www.nexusmods.com/fallout4/mods/38833]Sim Settlements - SirLach's Ultimate Defenses[/url]
+[url=https://www.nexusmods.com/fallout4/mods/40320]Sim Settlements - Simple Living[/url]
+[/font]
