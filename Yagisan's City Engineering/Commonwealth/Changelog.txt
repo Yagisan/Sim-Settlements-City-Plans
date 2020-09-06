@@ -6,6 +6,17 @@ Second, activate the terminal, select Tools -> Configuration Tools -> [b]Rebuild
 Once this procedure is complete, all fixes will have been applied to the city plan.
 
 ---
+[b]Version 5      (2020/04/30)[/b]
+[b][color=#00ffff][FIX][/color][/b]   ﻿[color=#6d9eeb][b]Sanctuary Settlement Cleanup[/b][/color]
+   ﻿   ﻿[b]Fixed missing keyword.[/b]
+[b][color=#ffd966][UPDATE][/color][/b]   ﻿[color=#6d9eeb][b]ComEng: Sanctuary Market City[/b][/color] [b]WSFW Rebuild. Now supports power lines.[/b]
+[b][color=#ffd966][UPDATE][/color][/b]   ﻿[color=#6d9eeb][b]ComEng: Red Rocket Weavers[/b][/color] [b]WSFW Rebuild. Now supports power lines.[/b]
+[b][color=#ffd966][UPDATE][/color][/b]   ﻿[color=#6d9eeb][b]ComEng: Abernathy Cannery[/b][/color] [b]WSFW Rebuild. Now supports power lines.[/b]
+[b][color=#ffd966][UPDATE][/color][/b]   ﻿[color=#6d9eeb][b]ComEng: Tenpines Bluff Pharma Farm[/b][/color] [b]WSFW Rebuild. Now supports power lines.[/b]
+[b][color=#ffd966][UPDATE][/color][/b]   ﻿[color=#6d9eeb][b]ComEng: Boston Airport Barracks[/b][/color] [b]WSFW Rebuild. Now supports power lines.[/b]
+[b][color=#ffd966][UPDATE][/color][/b]   ﻿[color=#6d9eeb][b]ComEng: Taffington Boathouse Fishery[/b][/color] [b]WSFW Rebuild. Now supports power lines.[/b]
+[b][color=#ffd966][UPDATE][/color][/b]   ﻿[color=#6d9eeb][b]ComEng: County Crossing Munitions[/b][/color] [b]WSFW Rebuild. Now supports power lines.[/b]
+
 [b]Version 4      (2020/03/04)[/b]
 [b][color=#ffd966][NEW][/color][/b]   ﻿[color=#6d9eeb][b]ComEng: County Crossing Munitions[/b][/color] [b]Initial Release.[/b]
 
